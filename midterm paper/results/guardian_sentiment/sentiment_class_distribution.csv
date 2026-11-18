@@ -1,0 +1,7 @@
+﻿query_strategy,sentiment_class,count,share
+broad_business_control,positive,2009,0.3975069252077562
+broad_business_control,neutral,517,0.10229521171349426
+broad_business_control,negative,2528,0.5001978630787495
+anchors_stock_market_tag,positive,955,0.3801751592356688
+anchors_stock_market_tag,neutral,261,0.10390127388535032
+anchors_stock_market_tag,negative,1296,0.5159235668789809

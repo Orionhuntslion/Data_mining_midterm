@@ -1,0 +1,122 @@
+﻿query_strategy,year,section,production_office,n_articles
+anchors_business,2017,Business,UK,7
+anchors_business,2020,Business,UK,10
+anchors_business,2020,Business,US,2
+anchors_business,2026,Business,AUS,2
+anchors_business,2026,Business,UK,3
+anchors_global,2017,Australia news,AUS,1
+anchors_global,2017,Books,UK,3
+anchors_global,2017,Business,UK,7
+anchors_global,2017,Cities,UK,1
+anchors_global,2017,Guardian Sustainable Business,US,1
+anchors_global,2017,Life and style,UK,1
+anchors_global,2017,Media,UK,2
+anchors_global,2017,Opinion,UK,3
+anchors_global,2017,Opinion,US,2
+anchors_global,2017,Politics,UK,2
+anchors_global,2017,Science,US,1
+anchors_global,2017,US news,AUS,3
+anchors_global,2017,US news,UK,1
+anchors_global,2017,US news,US,5
+anchors_global,2017,World news,UK,1
+anchors_global,2020,Books,UK,1
+anchors_global,2020,Business,UK,10
+anchors_global,2020,Business,US,2
+anchors_global,2020,GNM press office,UK,1
+anchors_global,2020,Media,UK,1
+anchors_global,2020,Opinion,US,3
+anchors_global,2020,Technology,UK,1
+anchors_global,2020,Travel,US,1
+anchors_global,2020,UK news,UK,1
+anchors_global,2020,US news,US,4
+anchors_global,2020,World news,AUS,11
+anchors_global,2020,World news,UK,3
+anchors_global,2020,World news,US,6
+anchors_global,2026,Business,AUS,2
+anchors_global,2026,Business,UK,3
+anchors_global,2026,Culture,UK,1
+anchors_global,2026,Film,UK,1
+anchors_global,2026,Opinion,UK,2
+anchors_global,2026,Opinion,US,1
+anchors_global,2026,Politics,UK,1
+anchors_global,2026,Science,US,1
+anchors_global,2026,Technology,UK,2
+anchors_global,2026,Technology,US,2
+anchors_global,2026,US news,US,6
+anchors_global,2026,World news,AUS,4
+anchors_global,2026,World news,UK,4
+anchors_stock_market_tag,2017,Business,UK,6
+anchors_stock_market_tag,2020,Business,UK,9
+anchors_stock_market_tag,2020,World news,AUS,1
+anchors_stock_market_tag,2020,World news,UK,1
+anchors_stock_market_tag,2026,Business,AUS,1
+anchors_stock_market_tag,2026,Business,UK,3
+anchors_stock_market_tag,2026,Technology,UK,1
+anchors_us_office,2017,Guardian Sustainable Business,US,1
+anchors_us_office,2017,Opinion,US,2
+anchors_us_office,2017,Science,US,1
+anchors_us_office,2017,US news,US,5
+anchors_us_office,2020,Business,US,2
+anchors_us_office,2020,Opinion,US,3
+anchors_us_office,2020,Travel,US,1
+anchors_us_office,2020,US news,US,4
+anchors_us_office,2020,World news,US,6
+anchors_us_office,2026,Opinion,US,1
+anchors_us_office,2026,Science,US,1
+anchors_us_office,2026,Technology,US,2
+anchors_us_office,2026,US news,US,6
+broad_business_control,2017,Business,UK,8
+broad_business_control,2020,Business,AUS,1
+broad_business_control,2020,Business,UK,15
+broad_business_control,2020,Business,US,2
+broad_business_control,2026,Business,AUS,2
+broad_business_control,2026,Business,UK,5
+geography_and_equity,2017,Australia news,AUS,1
+geography_and_equity,2017,Books,UK,3
+geography_and_equity,2017,Business,UK,7
+geography_and_equity,2017,Cities,UK,1
+geography_and_equity,2017,Guardian Sustainable Business,US,1
+geography_and_equity,2017,Life and style,UK,1
+geography_and_equity,2017,Media,UK,2
+geography_and_equity,2017,Opinion,UK,3
+geography_and_equity,2017,Opinion,US,2
+geography_and_equity,2017,Politics,UK,2
+geography_and_equity,2017,Science,US,1
+geography_and_equity,2017,UK news,UK,1
+geography_and_equity,2017,US news,AUS,3
+geography_and_equity,2017,US news,UK,1
+geography_and_equity,2017,US news,US,5
+geography_and_equity,2017,World news,UK,1
+geography_and_equity,2020,Australia news,AUS,1
+geography_and_equity,2020,Books,UK,1
+geography_and_equity,2020,Business,AUS,1
+geography_and_equity,2020,Business,UK,13
+geography_and_equity,2020,Business,US,2
+geography_and_equity,2020,Media,UK,1
+geography_and_equity,2020,Opinion,US,5
+geography_and_equity,2020,Politics,UK,1
+geography_and_equity,2020,Society,US,1
+geography_and_equity,2020,Technology,UK,1
+geography_and_equity,2020,Travel,US,1
+geography_and_equity,2020,UK news,UK,1
+geography_and_equity,2020,US news,UK,1
+geography_and_equity,2020,US news,US,9
+geography_and_equity,2020,World news,AUS,23
+geography_and_equity,2020,World news,UK,8
+geography_and_equity,2020,World news,US,8
+geography_and_equity,2026,Australia news,AUS,1
+geography_and_equity,2026,Business,AUS,2
+geography_and_equity,2026,Business,UK,5
+geography_and_equity,2026,Culture,UK,1
+geography_and_equity,2026,Environment,UK,1
+geography_and_equity,2026,Film,UK,1
+geography_and_equity,2026,Football,UK,1
+geography_and_equity,2026,Opinion,UK,2
+geography_and_equity,2026,Opinion,US,1
+geography_and_equity,2026,Politics,UK,1
+geography_and_equity,2026,Science,US,1
+geography_and_equity,2026,Technology,UK,2
+geography_and_equity,2026,Technology,US,2
+geography_and_equity,2026,US news,US,6
+geography_and_equity,2026,World news,AUS,4
+geography_and_equity,2026,World news,UK,7

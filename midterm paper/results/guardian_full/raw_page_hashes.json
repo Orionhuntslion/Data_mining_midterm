@@ -1,0 +1,158 @@
+[
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00001.json",
+    "sha256": "9f5109e0b1c553a543f261d8c88f7350378566b5099b51075473c9720d7e0106"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00002.json",
+    "sha256": "11c0cc32740391764a16f205bdc42593aca5882004e9dcf9a8943a2504dbea9e"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00003.json",
+    "sha256": "c7aa2bb3a89aba2c0cc2b0c316f1b7629537f4c105b5e8ecf87b366044dccac4"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00004.json",
+    "sha256": "9c76186b169faf3e255423e947489d50644f100f732fe973c2226f443db10dea"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00005.json",
+    "sha256": "97399b9ba1cfecc3bb19efc95012c452f86212dd11aa68f79711bf77b2fb245c"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00006.json",
+    "sha256": "60e994323a86680dfd776d8c052bf25fa2a3347416c82624923aad1b25f816a6"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00007.json",
+    "sha256": "6d98168ab0fd0c20fcb30e87fc4ae714baa7e3dd190833fe427a53bc559246ce"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00008.json",
+    "sha256": "77f0c714ea49c86b28540f595118e9449793a9c40613bf985d202abd91a00d7e"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00009.json",
+    "sha256": "71a80dea78d0ba9b080bf7091b611cc96959e50b261186349496f51000ade2f0"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00010.json",
+    "sha256": "f309a48251a9ae4e02e0b1a08b956b2b27d972818bad49f7a3367b7dda30a0eb"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00011.json",
+    "sha256": "0bd7ae2d56e1926701dc07dc8c3de41892b5f2c7f104bbf4d7476207edd21ce7"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00012.json",
+    "sha256": "cd350856b642fa50890d732a810c5a636af489ef52f66f69af55d984222bb41f"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\anchors_stock_market_tag\\df018f031fd49fd5\\page_00013.json",
+    "sha256": "7fa63def70daf76910ce01e0d164233f1a6fb202e6cc32daa97bcf28d99c499e"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00001.json",
+    "sha256": "664caea705c2bdf3e6ed91fca85aa4fff550ec1c5017b4c9ad730b7baf51de7d"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00002.json",
+    "sha256": "7d2bd79cfcedcec018eb4dad9c51b107cb252182815cce0fd3ca6db395ee809a"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00003.json",
+    "sha256": "cbc7cd15c96fa1a3e312e2595d6391265ab815bf8a243d079a9b0ecc36c5f3df"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00004.json",
+    "sha256": "fe9254568eb2385bd9b096ce19df4ae6301932e1d52da16f6972308b515e443a"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00005.json",
+    "sha256": "263d0f50fd0e67732570638e0940792a92f87d3964ca3993ab76b1e36243f97a"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00006.json",
+    "sha256": "7e6935d71cc94c355d1f80431ea987f4b0559cf299e5e7fc7f3d77c9dd365f5f"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00007.json",
+    "sha256": "5ad1d41ede9e83d09df04f9c67f63c91f8f988cdce77b79d08d061c84ab28903"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00008.json",
+    "sha256": "d6afbbba2283c3211dd70f023439866078ba7625c0d1dd8e336657ecae640ff8"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00009.json",
+    "sha256": "fe05cd25d4a39407c15bfe8540cf6c2a42ab30ecdee35477a403f65eaefc511c"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00010.json",
+    "sha256": "109164340bbd2052b9012f5b4dbe5c4deadd80be4770ce2b908afa1fc80ed04d"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00011.json",
+    "sha256": "2613efe5fe259a4b3aa3de2a0196016ac9b3e4bf0979cd564e48e50a217d9b01"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00012.json",
+    "sha256": "27264111b131f96eb48b8b1319e39cb49d0b91a8f387aa9b12ef3a09478a2944"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00013.json",
+    "sha256": "3484afd3c0e3ea08c156011bc3878e7096c2f29eaae1f7c24095f4ba76b2f882"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00014.json",
+    "sha256": "4988c4c567835c9d6f501650ec408c19d627190c27bf5e4bcd96af8f6861b5c8"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00015.json",
+    "sha256": "084fb15e07c8d0b9e03a037c4266505eaeba4c8ac79be382a455e16ff7f7e45b"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00016.json",
+    "sha256": "8b7b1ddc83cccaef91e04b7d0423ecd0e3cca6172786a2c841e11b88b9ea98e1"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00017.json",
+    "sha256": "c10125831bd541631da63fe220d4d294a0a48be2e95ef6d1beeb4b1c9dac5487"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00018.json",
+    "sha256": "abcd3e798bfda870c09e976ce91cd00100ff19f31066929eb6def77aaf664ebb"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00019.json",
+    "sha256": "943b303a8e7d2086b97a348d3af21a1996ad5131985f7c45512043bda10f7048"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00020.json",
+    "sha256": "1bc888a9d6bc444786560f75a8e5e662bd7033a2d0d44863b773eadfe08e112f"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00021.json",
+    "sha256": "881bfbcac6c7e20ce93722d6125f7226d9efab08f99479da05fea52a6c4c527f"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00022.json",
+    "sha256": "b5a441e639b14972248dde4cb94cf3144a8f5614d443d23f0212aca7b814d669"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00023.json",
+    "sha256": "dd64c7320e89ab08ae7613c9c1ad02cc963074a74679905d84243be3965dbb30"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00024.json",
+    "sha256": "ac8dec2b047d8c52197d7395529ad7e8ae781f23223fa4424afbee581e456f28"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00025.json",
+    "sha256": "08a606cd87d1daba11819d10e2a2f5c5e6bc1d4fc1d5f100b059ca2e9dbad230"
+  },
+  {
+    "file": "data\\raw\\news\\guardian_full\\pages\\broad_business_control\\54fc4d113ceb7cec\\page_00026.json",
+    "sha256": "5696fa934ed011981e048968588e2f66b91e96a9066812427c2198ced1c62d5d"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "records_verified": 5265,
+  "all_non_clean_fields_including_raw_and_sentiment_identical": true,
+  "tokens_exactly_baseline_minus_six_approved_stopwords": true,
+  "frequency_bigrams_and_weekly_counts_verified": true,
+  "financial_terms_preserved": true,
+  "final_policy_hash_verified": "2874fd2b32c45097b161ccc62931a899777a0c7b9711d98efd587d7d1b1dff5d",
+  "wordclouds_verified": 25,
+  "empty_final_clean_text": 0,
+  "network_requests": 0,
+  "sentiment_scoring": false
+}

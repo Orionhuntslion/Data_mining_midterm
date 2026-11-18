@@ -1,0 +1,3 @@
+﻿query_strategy,common_calendar_week_keys,unmatched_WSI_calendar_keys,unmatched_FGI_calendar_keys,valid_WSI_weeks,valid_FGI_weeks,matched_value_weeks,unmatched_WSI_value_weeks,unmatched_FGI_value_weeks,neither_valid_weeks,first_matched_week,last_matched_week
+broad_business_control,513,0,0,512,508,508,4,0,1,2017-01-02,2026-10-19
+anchors_stock_market_tag,513,0,0,504,508,500,4,8,1,2017-01-02,2026-10-19

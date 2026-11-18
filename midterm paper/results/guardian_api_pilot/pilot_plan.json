@@ -1,0 +1,47 @@
+{
+  "target_start": "2017-01-01",
+  "target_end": "2026-10-25",
+  "windows": {
+    "2017": [
+      "2017-01-09",
+      "2017-01-15"
+    ],
+    "2020": [
+      "2020-03-16",
+      "2020-03-22"
+    ],
+    "2026": [
+      "2026-10-19",
+      "2026-10-25"
+    ]
+  },
+  "strategies": {
+    "anchors_global": {
+      "q": "\"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"US stocks\" OR \"US markets\""
+    },
+    "anchors_business": {
+      "q": "\"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"US stocks\" OR \"US markets\"",
+      "section": "business"
+    },
+    "geography_and_equity": {
+      "q": "(US OR \"U.S.\" OR American OR \"Wall Street\" OR \"Federal Reserve\") AND (stocks OR equities OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\")"
+    },
+    "broad_business_control": {
+      "q": "stocks OR equities OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\"",
+      "section": "business"
+    },
+    "anchors_stock_market_tag": {
+      "q": "\"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"US stocks\" OR \"US markets\"",
+      "tag": "business/stock-markets"
+    },
+    "anchors_us_office": {
+      "q": "\"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"US stocks\" OR \"US markets\"",
+      "production-office": "us"
+    }
+  },
+  "page_size": 200,
+  "max_pages_per_window": 3,
+  "max_requests_per_run": 90,
+  "full_collection": false,
+  "full_period_requests": "count metadata only: page-size=1, page=1; no pagination"
+}

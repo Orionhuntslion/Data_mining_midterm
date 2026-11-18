@@ -1,0 +1,26 @@
+[
+  {
+    "type": "file",
+    "oid": "654499f5adfbbf7d5e55ee356bc1bec1b2491f6d",
+    "size": 5731397037,
+    "lfs": {
+      "oid": "5d4c018036bd82ca821da71b7a9c0c7db3289642e0fc6f897ea69f4a0c5135c3",
+      "size": 5731397037,
+      "pointerSize": 135
+    },
+    "xetHash": "dde529189c87048a8be1f73d17ecd5e211fc7809032e60c72cd22645f111c470",
+    "path": "Stock_news/All_external.csv"
+  },
+  {
+    "type": "file",
+    "oid": "214a4661741f950b8546ada39a6d5bdf63ad84b4",
+    "size": 23232979597,
+    "lfs": {
+      "oid": "1a7a3eb8e6b97ec19f286f2cfca3371542bddb272ab1eb8f36e33ad98fa5c4da",
+      "size": 23232979597,
+      "pointerSize": 136
+    },
+    "xetHash": "cccdf2f3312e575d78ae94f799379cb85c03557374c6778cd7b7fd3d55102a2b",
+    "path": "Stock_news/nasdaq_exteral_data.csv"
+  }
+]

@@ -1,0 +1,18 @@
+﻿source,source_type,requested_start,requested_end,checked_at,n_raw,n_deduplicated,n_exact_timestamps,n_in_requested_et_date,status,note,error_type,error,policy_url
+guardian_html,news,2026-10-23,2026-10-23,2026-10-26T12:28:05.887321+00:00,3,3,3.0,3.0,sample_obtained,,,,
+guardian_html,news,2020-03-16,2020-03-16,2026-10-26T12:28:30.947023+00:00,3,3,3.0,3.0,sample_obtained,,,,
+guardian_html,news,2017-01-03,2017-01-03,2026-10-26T12:28:54.774612+00:00,3,3,3.0,3.0,sample_obtained,,,,
+guardian_api,news,2026-10-23,2026-10-23,2026-10-26T12:29:18.356129+00:00,0,0,,,credentials_missing,GUARDIAN_API_KEY 없음. 인증 실패를 유도하는 요청은 보내지 않음.,,,
+guardian_api,news,2020-03-16,2020-03-16,2026-10-26T12:29:18.360629+00:00,0,0,,,credentials_missing,GUARDIAN_API_KEY 없음. 인증 실패를 유도하는 요청은 보내지 않음.,,,
+guardian_api,news,2017-01-03,2017-01-03,2026-10-26T12:29:18.362129+00:00,0,0,,,credentials_missing,GUARDIAN_API_KEY 없음. 인증 실패를 유도하는 요청은 보내지 않음.,,,
+gdelt_doc,news,2026-10-23,2026-10-23,2026-10-26T12:29:18.363631+00:00,0,0,,,failed,,ConnectionError,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+gdelt_doc,news,2020-03-16,2020-03-16,2026-10-26T12:29:32.530056+00:00,0,0,,,failed,,AccessError,"HTTP 429: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22stock+market%22+OR+%22Wall+Street%22+OR+%22S%26P+500%22%29+sourcelang%3Aenglish+sourcecountry%3AUS&mode=artlist&format=json&sort=datedesc&maxrecords=3&startdatetime=20200316000000&enddatetime=20200316235959
+접근/요청 제한으로 중단합니다. Retry-After=None. 우회하지 말고 허용된 시점에 재개하거나 적법하게 확보한 CSV를 사용하세요.",
+gdelt_doc,news,2017-01-03,2017-01-03,2026-10-26T12:29:48.709721+00:00,0,0,,,not_attempted_after_host_denial,,AccessError,앞선 접근 제한 이후 해당 호스트 요청 중단: api.gdeltproject.org,
+reddit_official_rfr,reddit,2017-01-03,2017-01-03,,0,0,,,not_attempted_research_access_unconfirmed,"공식 연구 승인이 확인되지 않아 게시물 요청 안 함. 공식 제공 범위는 최근 5년, 6개월 지연; 2017/2020/최신 2026-10 표본을 모두 충족하지 못함.",,,https://support.reddithelp.com/hc/en-us/articles/49381918834964-Reddit-for-Researchers-Program
+reddit_official_rfr,reddit,2020-03-16,2020-03-16,,0,0,,,not_attempted_research_access_unconfirmed,"공식 연구 승인이 확인되지 않아 게시물 요청 안 함. 공식 제공 범위는 최근 5년, 6개월 지연; 2017/2020/최신 2026-10 표본을 모두 충족하지 못함.",,,https://support.reddithelp.com/hc/en-us/articles/49381918834964-Reddit-for-Researchers-Program
+reddit_official_rfr,reddit,2026-10-23,2026-10-23,,0,0,,,not_attempted_research_access_unconfirmed,"공식 연구 승인이 확인되지 않아 게시물 요청 안 함. 공식 제공 범위는 최근 5년, 6개월 지연; 2017/2020/최신 2026-10 표본을 모두 충족하지 못함.",,,https://support.reddithelp.com/hc/en-us/articles/49381918834964-Reddit-for-Researchers-Program
+reddit_arctic_shift,reddit,2017-01-03,2017-01-03,,0,0,,,not_attempted_research_access_unconfirmed,아카이브 API 문서는 존재하지만 공식 정책은 미승인 제3자 도구의 연구 이용을 제한. 연구 이용 허용 근거가 확인되지 않아 게시물 요청 안 함.,,,https://support.reddithelp.com/hc/en-us/articles/14945211791892-Developer-Platform-Accessing-Reddit-Data
+reddit_arctic_shift,reddit,2020-03-16,2020-03-16,,0,0,,,not_attempted_research_access_unconfirmed,아카이브 API 문서는 존재하지만 공식 정책은 미승인 제3자 도구의 연구 이용을 제한. 연구 이용 허용 근거가 확인되지 않아 게시물 요청 안 함.,,,https://support.reddithelp.com/hc/en-us/articles/14945211791892-Developer-Platform-Accessing-Reddit-Data
+reddit_arctic_shift,reddit,2026-10-23,2026-10-23,,0,0,,,not_attempted_research_access_unconfirmed,아카이브 API 문서는 존재하지만 공식 정책은 미승인 제3자 도구의 연구 이용을 제한. 연구 이용 허용 근거가 확인되지 않아 게시물 요청 안 함.,,,https://support.reddithelp.com/hc/en-us/articles/14945211791892-Developer-Platform-Accessing-Reddit-Data
+fnspid_archive,news,,,,0,0,,,metadata_only; historical_rows_not_tested,작성자 공시 1999–2023. 2017/2020 후보지만 날짜별 실제 표본 미검증; 2026은 공시 범위 밖. 대용량 파일 다운로드 안 함.,,,

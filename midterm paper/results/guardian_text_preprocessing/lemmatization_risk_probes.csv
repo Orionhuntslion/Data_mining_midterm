@@ -1,0 +1,13 @@
+﻿token,noun_lemma,verb_lemma,protected
+us,u,us,True
+fed,fed,feed,True
+stocks,stock,stock,False
+shares,share,share,False
+equities,equity,equities,False
+losses,loss,losses,False
+earnings,earnings,earnings,False
+bears,bear,bear,True
+bulls,bull,bull,True
+shorts,short,short,True
+hodl,hodl,hodl,True
+fucking,fucking,fuck,True

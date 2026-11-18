@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://content.guardianapis.com/robots.txt",
+  "role": "auxiliary_compliance_inspection",
+  "checked_at": "2026-10-27T14:08:01.998793+00:00",
+  "api_authentication": "not_determined_by_robots",
+  "http_status": 401,
+  "status": "unavailable",
+  "note": "robots 확인 실패는 /search 인증 실패가 아니다. 명시적으로 허용된 공식 JSON API만 계속 사용하고 HTML로 대체하지 않는다."
+}

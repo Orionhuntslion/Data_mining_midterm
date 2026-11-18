@@ -1,0 +1,17 @@
+﻿analysis,query_strategy,WSI_metric,correlation_method,best_lag_weeks,correlation,n_pairs,tied_best_lags
+levels,broad_business_control,WSI_count,pearson,0,0.22476955385500133,508,0
+levels,broad_business_control,WSI_count,spearman,0,0.2077010469474991,508,0
+levels,broad_business_control,WSI_continuous,pearson,0,0.22859875999186058,508,0
+levels,broad_business_control,WSI_continuous,spearman,0,0.1959615056891344,508,0
+levels,anchors_stock_market_tag,WSI_count,pearson,1,0.14991562537918368,499,1
+levels,anchors_stock_market_tag,WSI_count,spearman,1,0.1394899158712957,499,1
+levels,anchors_stock_market_tag,WSI_continuous,pearson,1,0.16172528602275252,499,1
+levels,anchors_stock_market_tag,WSI_continuous,spearman,1,0.15083019399846267,499,1
+first_differences,broad_business_control,WSI_count,pearson,0,0.11028365465572472,506,0
+first_differences,broad_business_control,WSI_count,spearman,1,0.1122272510850614,505,1
+first_differences,broad_business_control,WSI_continuous,pearson,0,0.13011291329478425,506,0
+first_differences,broad_business_control,WSI_continuous,spearman,1,0.12046307618827223,505,1
+first_differences,anchors_stock_market_tag,WSI_count,pearson,1,0.09596039255159337,489,1
+first_differences,anchors_stock_market_tag,WSI_count,spearman,1,0.1126844379614066,489,1
+first_differences,anchors_stock_market_tag,WSI_continuous,pearson,1,0.09285958008220316,489,1
+first_differences,anchors_stock_market_tag,WSI_continuous,spearman,1,0.11237712956713732,489,1

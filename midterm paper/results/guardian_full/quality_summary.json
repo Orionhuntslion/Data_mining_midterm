@@ -1,0 +1,61 @@
+{
+  "collection_complete": true,
+  "target_start": "2017-01-01",
+  "target_end": "2026-10-25",
+  "total_api_records_retrieved_including_utc_buffer": 7568,
+  "records_in_et_target_before_dedup": 7566,
+  "strategy_counts": [
+    {
+      "query_strategy": "broad_business_control",
+      "role": "primary",
+      "api_records_retrieved_including_utc_buffer": 5055,
+      "unique_api_ids_including_utc_buffer": 5055,
+      "records_in_et_target_before_dedup": 5054,
+      "unique_articles_in_et_target": 5054,
+      "duplicates_within_api_pagination": 0
+    },
+    {
+      "query_strategy": "anchors_stock_market_tag",
+      "role": "strict_robustness",
+      "api_records_retrieved_including_utc_buffer": 2513,
+      "unique_api_ids_including_utc_buffer": 2513,
+      "records_in_et_target_before_dedup": 2512,
+      "unique_articles_in_et_target": 2512,
+      "duplicates_within_api_pagination": 0
+    }
+  ],
+  "overlap_between_strategies": 2301,
+  "final_unique_article_count": 5265,
+  "duplicate_count_removed_in_et_target": 2301,
+  "earliest_publication_utc": "2017-01-03T07:00:47+00:00",
+  "latest_publication_utc": "2026-10-23T14:39:21+00:00",
+  "earliest_date_et": "2017-01-03",
+  "latest_date_et": "2026-10-23",
+  "calendar_days": 3585,
+  "days_with_zero_articles": 806,
+  "zero_days_per_strategy": {
+    "broad_business_control": 836,
+    "anchors_stock_market_tag": 1654
+  },
+  "missing_title_count": 0,
+  "missing_description_count": 0,
+  "missing_date_count": 0,
+  "missing_or_invalid_date_records_quarantined": 0,
+  "out_of_target_et_records_excluded": 2,
+  "metadata_variants_preserved": 0,
+  "random_inspection_sample_size": 100,
+  "parquet_records": 5265,
+  "parquet_bytes": 4777996,
+  "main_dataset": "data\\raw\\news\\guardian_full\\articles",
+  "missing_definition": "null, empty or whitespace-only; no HTML stripping",
+  "original_responses": "all JSON pages retained; first seen document metadata kept; strategy flags unioned",
+  "not_performed": [
+    "text preprocessing",
+    "sentiment scoring",
+    "WSI construction",
+    "FGI merging",
+    "market-return analysis",
+    "classifier training",
+    "pilot relevance-label import"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "root": "C:\\Users\\rhffl\\data_mining\\midterm paper",
+  "start": "2017-01-01",
+  "end": "2026-10-25",
+  "query": "(\"stock market\" OR \"Wall Street\" OR \"S&P 500\") sourcelang:english sourcecountry:US",
+  "timezone": "America/New_York",
+  "min_daily_docs": 20,
+  "max_lag": 7,
+  "top_n": 30,
+  "timing_terms_n": 15,
+  "seed": 42,
+  "request_interval": 6.0,
+  "max_records": 250,
+  "text_input": null,
+  "fgi_input": null,
+  "fgi_source": "archive",
+  "fgi_source_url": "",
+  "refresh": false,
+  "allow_full_collection": false
+}

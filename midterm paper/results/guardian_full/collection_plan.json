@@ -1,0 +1,29 @@
+{
+  "target_start": "2017-01-01",
+  "target_end": "2026-10-25",
+  "timezone": "America/New_York",
+  "strategies": {
+    "broad_business_control": {
+      "role": "primary",
+      "params": {
+        "q": "stocks OR equities OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\"",
+        "section": "business"
+      }
+    },
+    "anchors_stock_market_tag": {
+      "role": "strict_robustness",
+      "params": {
+        "q": "\"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"US stocks\" OR \"US markets\"",
+        "tag": "business/stock-markets"
+      }
+    }
+  },
+  "page_size": 200,
+  "api_date_filter": {
+    "from-date": "2017-01-01",
+    "to-date": "2026-10-26"
+  },
+  "text_processing": false,
+  "sentiment_scoring": false,
+  "external_merges": false
+}

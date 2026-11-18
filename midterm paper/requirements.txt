@@ -1,0 +1,18 @@
+# Python 3.10+; VADER 자체 사전을 사용하므로 nltk.download 불필요
+numpy>=1.24,<3
+pandas>=2.2,<3
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+vaderSentiment==3.3.2
+scipy>=1.11,<2
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+wordcloud>=1.9,<2
+nbformat>=5.9,<6
+nbclient>=0.10,<1
+ipykernel>=6,<8
+pyarrow>=15
+nltk>=3.9,<4
+regex
+exchange_calendars==4.13.2
+# pypdf는 참고 PDF 검토용으로만 사용했으며 분석 실행에 필요하지 않음

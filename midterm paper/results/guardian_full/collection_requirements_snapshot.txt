@@ -1,0 +1,12 @@
+# Python 3.10.21; current environment snapshot; standard-library modules are not pip packages
+requests==2.34.2
+pandas==2.3.3
+pyarrow==25.0.1
+numpy==2.2.5
+matplotlib==3.10.9
+beautifulsoup4==4.15.0
+nbformat==5.11.0
+nbclient==0.11.0
+ipykernel==7.3.0
+jupyter_client==8.10.0
+ipython==8.30.0

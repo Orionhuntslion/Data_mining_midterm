@@ -1,0 +1,35 @@
+{
+  "period": [
+    "2017-01-01",
+    "2026-10-25"
+  ],
+  "week": "America/New_York Monday-Sunday",
+  "analysis_scope": "complete weeks; partial boundary retained in files, excluded from analysis",
+  "daily_FGI_policy": "existing date labels; all valid observations retained, including non-XNYS dates if any; no interpolation or fill",
+  "FGI_primary": "available-observation weekly mean",
+  "FGI_robustness": "last available daily observation by date",
+  "correlations": "pairwise complete Pearson; Spearman = Pearson of average ranks within valid pairs",
+  "CSV_numeric_precision": "round_trip parser; no rounding or normalization of existing WSI values; preserve exact float ties",
+  "lag_definition": "rho(k) = Corr(WSI_w, FGI_(w+k)); positive k compares WSI with future FGI",
+  "lag_alignment": "exact 7*k calendar-day date-key match on uncompressed weekly grid; drop missing pairs afterwards",
+  "first_differences": "x_w-x_(w-1) on full calendar; missing either adjacent week => missing difference; no fill",
+  "standardization": "each series separately, ddof=1, same primary matched complete-week sample; full calendar retained",
+  "scatter_fit": "univariate contemporaneous least squares with intercept, visualization only; R-squared is not forecast performance",
+  "best_lag_selection": "highest absolute coefficient per series and method; ties prefer smallest abs(k), then k; all ties saved",
+  "inference": "descriptive coefficients only; no iid p-values; persistence and multiple lag comparisons limit interpretation",
+  "source_provenance_limit": "FGI is a third-party archive with pre-2021 and post-2021 source eras; not ground truth",
+  "versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.2.5",
+    "pyarrow": "25.0.1",
+    "matplotlib": "3.10.9",
+    "exchange_calendars": "4.13.2",
+    "pyluach": "2.3.0",
+    "toolz": "1.2.0",
+    "korean_lunar_calendar": "0.4.0",
+    "tzdata": "2026.3"
+  },
+  "network_requests_during_analysis": 0,
+  "VADER_or_preprocessing_rerun": false,
+  "market_return_analysis_regression_forecasting_multivariate": false
+}

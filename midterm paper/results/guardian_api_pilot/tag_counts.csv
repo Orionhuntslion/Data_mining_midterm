@@ -1,0 +1,2285 @@
+﻿query_strategy,year,tag_id,tag_title,tag_type,n_articles
+anchors_business,2017,business/business,Business,keyword,7
+anchors_business,2017,business/currencies,Currencies,keyword,4
+anchors_business,2017,business/davos-2017,Davos 2017,keyword,2
+anchors_business,2017,business/debenhams,Debenhams,keyword,1
+anchors_business,2017,business/dollar,Dollar,keyword,1
+anchors_business,2017,business/dowjones,Dow Jones,keyword,1
+anchors_business,2017,business/economics,Economics,keyword,3
+anchors_business,2017,business/ftse,FTSE,keyword,4
+anchors_business,2017,business/marksspencer,Marks & Spencer,keyword,1
+anchors_business,2017,business/retail,Retail industry,keyword,1
+anchors_business,2017,business/series/eurozone-crisis-live,Eurozone crisis live,series,4
+anchors_business,2017,business/series/guardian-business-live,Business live,series,5
+anchors_business,2017,business/sterling,Sterling,keyword,4
+anchors_business,2017,business/stock-markets,Stock markets,keyword,6
+anchors_business,2017,business/supermarkets,Supermarkets,keyword,1
+anchors_business,2017,business/tesco,Tesco,keyword,1
+anchors_business,2017,business/useconomy,US economy,keyword,1
+anchors_business,2017,money/money,Money,keyword,1
+anchors_business,2017,money/moneyinvestments,Investments,keyword,1
+anchors_business,2017,money/shares,Shares,keyword,1
+anchors_business,2017,politics/eu-referendum,Brexit,keyword,1
+anchors_business,2017,politics/politics,Politics,keyword,1
+anchors_business,2017,profile/angela-monaghan,Angela Monaghan,contributor,1
+anchors_business,2017,profile/graemewearden,Graeme Wearden,contributor,4
+anchors_business,2017,profile/jilltreanor,Jill Treanor,contributor,1
+anchors_business,2017,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_business,2017,profile/nickfletcher,Nick Fletcher,contributor,7
+anchors_business,2017,profile/sarahbutler,Sarah Butler,contributor,1
+anchors_business,2017,publication/theguardian,The Guardian,publication,2
+anchors_business,2017,theguardian/mainsection,Main section,newspaper-book,2
+anchors_business,2017,theguardian/mainsection/financial3,Business,newspaper-book-section,2
+anchors_business,2017,tone/blog,Blogposts,tone,5
+anchors_business,2017,tone/minutebyminute,Minute by minute,tone,5
+anchors_business,2017,tone/news,News,tone,2
+anchors_business,2017,tracking/commissioningdesk/uk-business,UK Business,tracking,7
+anchors_business,2017,type/article,Article,type,7
+anchors_business,2017,uk/uk,UK news,keyword,1
+anchors_business,2017,us-news/us-news,US news,keyword,1
+anchors_business,2017,world/china,China,keyword,1
+anchors_business,2020,australia-news/australia-news,Australia news,keyword,1
+anchors_business,2020,business/airbus,Airbus,keyword,1
+anchors_business,2020,business/andrew-bailey,Andrew Bailey,keyword,1
+anchors_business,2020,business/banking,Banking,keyword,1
+anchors_business,2020,business/bankofenglandgovernor,Bank of England,keyword,4
+anchors_business,2020,business/britishairways,British Airways,keyword,2
+anchors_business,2020,business/business,Business,keyword,11
+anchors_business,2020,business/compassgroup,Compass,keyword,1
+anchors_business,2020,business/currencies,Currencies,keyword,2
+anchors_business,2020,business/debt-crisis,Eurozone crisis,keyword,1
+anchors_business,2020,business/easyjet,easyJet,keyword,1
+anchors_business,2020,business/economicgrowth,Economic growth (GDP),keyword,1
+anchors_business,2020,business/economics,Economics,keyword,8
+anchors_business,2020,business/european-central-bank,European Central Bank,keyword,1
+anchors_business,2020,business/federal-reserve,Federal Reserve,keyword,3
+anchors_business,2020,business/financial-crisis,Financial crisis,keyword,1
+anchors_business,2020,business/financial-sector,Financial sector,keyword,1
+anchors_business,2020,business/fooddrinks,Food & drink industry,keyword,1
+anchors_business,2020,business/ftse,FTSE,keyword,6
+anchors_business,2020,business/global-economy,Global economy,keyword,1
+anchors_business,2020,business/healthcare,Healthcare industry,keyword,1
+anchors_business,2020,business/interest-rates,Interest rates,keyword,1
+anchors_business,2020,business/john-maynard-keynes,John Maynard Keynes,keyword,1
+anchors_business,2020,business/marksspencer,Marks & Spencer,keyword,1
+anchors_business,2020,business/nils-pratley-on-finance,Nils Pratley on finance,blog,1
+anchors_business,2020,business/oil,Oil,keyword,1
+anchors_business,2020,business/paddy-power,Paddy Power,keyword,1
+anchors_business,2020,business/paddy-power-betfair,Paddy Power Betfair,keyword,1
+anchors_business,2020,business/recession,Recession,keyword,1
+anchors_business,2020,business/ryanair,Ryanair,keyword,2
+anchors_business,2020,business/series/economicsmonday,Economics viewpoint,series,1
+anchors_business,2020,business/series/guardian-business-live,Business live,series,5
+anchors_business,2020,business/stock-markets,Stock markets,keyword,9
+anchors_business,2020,business/theairlineindustry,Airline industry,keyword,3
+anchors_business,2020,business/travelleisure,Travel & leisure,keyword,2
+anchors_business,2020,business/tuitravel,Tui Travel,keyword,1
+anchors_business,2020,business/us-small-business,US small business,keyword,1
+anchors_business,2020,business/useconomy,US economy,keyword,4
+anchors_business,2020,business/willie-walsh,Willie Walsh,keyword,1
+anchors_business,2020,politics/economy,Economic policy,keyword,1
+anchors_business,2020,politics/politics,Politics,keyword,1
+anchors_business,2020,politics/rishi-sunak,Rishi Sunak,keyword,1
+anchors_business,2020,profile/alex-hern,Alex Hern,contributor,1
+anchors_business,2020,profile/angela-monaghan,Angela Monaghan,contributor,3
+anchors_business,2020,profile/dominic-rushe,Dominic Rushe,contributor,5
+anchors_business,2020,profile/gene-marks,Gene Marks,contributor,1
+anchors_business,2020,profile/graemewearden,Graeme Wearden,contributor,4
+anchors_business,2020,profile/gwyntopham,Gwyn Topham,contributor,4
+anchors_business,2020,profile/hilaryosborne,Hilary Osborne,contributor,2
+anchors_business,2020,profile/jasper-jolly,Jasper Jolly,contributor,2
+anchors_business,2020,profile/jennifer-rankin,Jennifer Rankin,contributor,2
+anchors_business,2020,profile/jillian-ambrose,Jillian Ambrose,contributor,2
+anchors_business,2020,profile/joanna-partridge,Joanna Partridge,contributor,2
+anchors_business,2020,profile/juliakollewe,Julia Kollewe,contributor,1
+anchors_business,2020,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,4
+anchors_business,2020,profile/kateconnolly,Kate Connolly,contributor,1
+anchors_business,2020,profile/larryelliott,Larry Elliott,contributor,2
+anchors_business,2020,profile/lisaocarroll,Lisa O’Carroll,contributor,1
+anchors_business,2020,profile/marksweney,Mark Sweney,contributor,1
+anchors_business,2020,profile/nilspratley,Nils Pratley,contributor,1
+anchors_business,2020,profile/patrickcollinson,Patrick Collinson,contributor,2
+anchors_business,2020,profile/phillipinman,Phillip Inman,contributor,2
+anchors_business,2020,profile/richard-partington,Richard Partington,contributor,4
+anchors_business,2020,profile/rob-davies,Rob Davies,contributor,3
+anchors_business,2020,profile/sarahbutler,Sarah Butler,contributor,3
+anchors_business,2020,publication/theguardian,The Guardian,publication,5
+anchors_business,2020,publication/theobserver,The Observer archive,publication,1
+anchors_business,2020,science/infectiousdiseases,Infectious diseases,keyword,1
+anchors_business,2020,society/universal-basic-income,Universal basic income,keyword,1
+anchors_business,2020,theguardian/mainsection,Main section,newspaper-book,5
+anchors_business,2020,theguardian/mainsection/financial3,Business,newspaper-book-section,3
+anchors_business,2020,theguardian/mainsection/topstories,Top stories,newspaper-book-section,1
+anchors_business,2020,theguardian/mainsection/uknews,UK news,newspaper-book-section,1
+anchors_business,2020,theobserver/news,Main section,newspaper-book,1
+anchors_business,2020,theobserver/news/business,Business,newspaper-book-section,1
+anchors_business,2020,tone/comment,Comment,tone,3
+anchors_business,2020,tone/features,Features,tone,1
+anchors_business,2020,tone/minutebyminute,Minute by minute,tone,5
+anchors_business,2020,tone/news,News,tone,8
+anchors_business,2020,tracking/commissioningdesk/uk-business,UK Business,tracking,10
+anchors_business,2020,tracking/commissioningdesk/us-business,US Business,tracking,2
+anchors_business,2020,type/article,Article,type,12
+anchors_business,2020,uk/uk,UK news,keyword,7
+anchors_business,2020,world/asia-pacific,Asia Pacific,keyword,1
+anchors_business,2020,world/china,China,keyword,1
+anchors_business,2020,world/coronavirus-outbreak,Coronavirus,keyword,12
+anchors_business,2020,world/europe-news,Europe,keyword,1
+anchors_business,2020,world/secondworldwar,Second world war,keyword,1
+anchors_business,2020,world/world,World news,keyword,2
+anchors_business,2026,australia-news/australia-news,Australia news,keyword,1
+anchors_business,2026,australia-news/australian-politics,Australian politics,keyword,1
+anchors_business,2026,australia-news/business-australia,Business,keyword,1
+anchors_business,2026,australia-news/interest-rates-australia,Interest rates,keyword,1
+anchors_business,2026,australia-news/jim-chalmers--australian-politician-,Jim Chalmers,keyword,1
+anchors_business,2026,australia-news/reserve-bank-of-australia,Reserve Bank of Australia,keyword,1
+anchors_business,2026,business/australia-economy,Australian economy,keyword,1
+anchors_business,2026,business/barclay,Barclays,keyword,1
+anchors_business,2026,business/bonds,Bonds,keyword,1
+anchors_business,2026,business/business,Business,keyword,4
+anchors_business,2026,business/commodities,Commodities,keyword,2
+anchors_business,2026,business/currencies,Currencies,keyword,2
+anchors_business,2026,business/ftse,FTSE,keyword,1
+anchors_business,2026,business/series/guardian-business-live,Business live,series,3
+anchors_business,2026,business/stock-markets,Stock markets,keyword,4
+anchors_business,2026,business/technology,Technology sector,keyword,1
+anchors_business,2026,business/unemployment-and-employment-statistics-australia,Unemployment,keyword,1
+anchors_business,2026,campaign/email/breaking-news-australia,Breaking News Australia (newsletter signup),campaign,1
+anchors_business,2026,campaign/email/business-today,Business Today (newsletter signup),campaign,1
+anchors_business,2026,campaign/email/politics-really,"Politics, really",campaign,1
+anchors_business,2026,profile/aletha-adu,Aletha Adu,contributor,1
+anchors_business,2026,profile/gwyntopham,Gwyn Topham,contributor,1
+anchors_business,2026,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_business,2026,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,1
+anchors_business,2026,profile/lauren-almeida,Lauren Almeida,contributor,1
+anchors_business,2026,profile/lorenzo-tondo,Lorenzo Tondo,contributor,2
+anchors_business,2026,profile/marksweney,Mark Sweney,contributor,1
+anchors_business,2026,profile/patrick-commins,Patrick Commins,contributor,2
+anchors_business,2026,profile/richard-partington,Richard Partington,contributor,1
+anchors_business,2026,profile/sarahbutler,Sarah Butler,contributor,1
+anchors_business,2026,technology/artificialintelligenceai,AI (artificial intelligence),keyword,1
+anchors_business,2026,tone/analysis,Analysis,tone,2
+anchors_business,2026,tone/minutebyminute,Minute by minute,tone,3
+anchors_business,2026,tone/news,News,tone,3
+anchors_business,2026,tracking/audience/au,Au,tracking,1
+anchors_business,2026,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+anchors_business,2026,tracking/commissioningdesk/australia-politics,Australia Politics,tracking,1
+anchors_business,2026,tracking/commissioningdesk/uk-business,UK Business,tracking,3
+anchors_business,2026,type/article,Article,type,5
+anchors_global,2017,artanddesign/architecture,Architecture,keyword,1
+anchors_global,2017,australia-news/australia-news,Australia news,keyword,1
+anchors_global,2017,australia-news/gold-coast,Gold Coast,keyword,1
+anchors_global,2017,australia-news/queensland,Queensland,keyword,1
+anchors_global,2017,books/books,Books,keyword,3
+anchors_global,2017,books/fiction,Fiction,keyword,1
+anchors_global,2017,books/hermanmelville,Herman Melville,keyword,1
+anchors_global,2017,books/history,History books,keyword,1
+anchors_global,2017,books/jgballard,JG Ballard,keyword,1
+anchors_global,2017,books/pankaj-mishra,Pankaj Mishra,keyword,1
+anchors_global,2017,books/politics,Politics books,keyword,1
+anchors_global,2017,books/publishing,Publishing,keyword,1
+anchors_global,2017,books/series/books-of-defiance,Books of defiance,series,1
+anchors_global,2017,books/short-stories,Short stories,keyword,1
+anchors_global,2017,business/austerity,Austerity,keyword,1
+anchors_global,2017,business/business,Business,keyword,8
+anchors_global,2017,business/chinese-economy,Chinese economy,keyword,1
+anchors_global,2017,business/currencies,Currencies,keyword,4
+anchors_global,2017,business/davos-2017,Davos 2017,keyword,2
+anchors_global,2017,business/debenhams,Debenhams,keyword,1
+anchors_global,2017,business/dollar,Dollar,keyword,1
+anchors_global,2017,business/dowjones,Dow Jones,keyword,1
+anchors_global,2017,business/economics,Economics,keyword,3
+anchors_global,2017,business/ftse,FTSE,keyword,4
+anchors_global,2017,business/marksspencer,Marks & Spencer,keyword,1
+anchors_global,2017,business/retail,Retail industry,keyword,1
+anchors_global,2017,business/series/eurozone-crisis-live,Eurozone crisis live,series,4
+anchors_global,2017,business/series/guardian-business-live,Business live,series,5
+anchors_global,2017,business/sterling,Sterling,keyword,4
+anchors_global,2017,business/stock-markets,Stock markets,keyword,6
+anchors_global,2017,business/supermarkets,Supermarkets,keyword,1
+anchors_global,2017,business/tesco,Tesco,keyword,1
+anchors_global,2017,business/useconomy,US economy,keyword,1
+anchors_global,2017,cities/cities,Cities,keyword,1
+anchors_global,2017,commentisfree/commentisfree,Opinion,blog,5
+anchors_global,2017,culture/culture,Culture,keyword,4
+anchors_global,2017,education/education,Education,keyword,1
+anchors_global,2017,education/plagiarism,Plagiarism,keyword,1
+anchors_global,2017,environment/carbon-emissions,Greenhouse gas emissions,keyword,1
+anchors_global,2017,environment/carbonfootprints,Carbon footprints,keyword,1
+anchors_global,2017,environment/climate-crisis,Climate crisis,keyword,1
+anchors_global,2017,environment/cop-21-un-climate-change-conference-paris,COP 21: Paris climate change conference 2015,keyword,1
+anchors_global,2017,environment/environment,Environment,keyword,1
+anchors_global,2017,environment/epa,US Environmental Protection Agency,keyword,1
+anchors_global,2017,environment/global-climate-talks,Global climate talks,keyword,1
+anchors_global,2017,environment/paris-climate-agreement,Paris climate agreement,keyword,1
+anchors_global,2017,film/golden-globes-2017,Golden Globes 2017,keyword,1
+anchors_global,2017,food/food,Food,keyword,1
+anchors_global,2017,housing-network/housing-network,Housing Network,keyword,1
+anchors_global,2017,inequality/income-inequality,Income inequality,keyword,1
+anchors_global,2017,law/human-rights,Human rights,keyword,1
+anchors_global,2017,law/law-us,Law (US),keyword,1
+anchors_global,2017,law/torture,Torture,keyword,1
+anchors_global,2017,lifeandstyle/family,Family,keyword,1
+anchors_global,2017,lifeandstyle/lifeandstyle,Life and style,keyword,1
+anchors_global,2017,lifeandstyle/series/familylife,Family life,series,1
+anchors_global,2017,media/dailymail,Daily Mail,keyword,1
+anchors_global,2017,media/greenslade,Greenslade,blog,1
+anchors_global,2017,media/media,Media,keyword,2
+anchors_global,2017,media/mind-your-language,Mind your language,blog,1
+anchors_global,2017,media/national-newspapers,National newspapers,keyword,1
+anchors_global,2017,media/newspapers,Newspapers,keyword,1
+anchors_global,2017,media/sun,The Sun,keyword,1
+anchors_global,2017,media/theguardian,The Guardian,keyword,1
+anchors_global,2017,media/trevor-kavanagh,Trevor Kavanagh,keyword,1
+anchors_global,2017,money/money,Money,keyword,2
+anchors_global,2017,money/moneyinvestments,Investments,keyword,1
+anchors_global,2017,money/pay,Pay,keyword,1
+anchors_global,2017,money/shares,Shares,keyword,1
+anchors_global,2017,music/music,Music,keyword,1
+anchors_global,2017,politics/blog,Politics blog,blog,1
+anchors_global,2017,politics/boris-johnson,Boris Johnson,keyword,2
+anchors_global,2017,politics/chris-bryant,Chris Bryant,keyword,1
+anchors_global,2017,politics/economy,Economic policy,keyword,1
+anchors_global,2017,politics/eu-referendum,Brexit,keyword,3
+anchors_global,2017,politics/foreignpolicy,Foreign policy,keyword,1
+anchors_global,2017,politics/jeremy-corbyn,Jeremy Corbyn,keyword,3
+anchors_global,2017,politics/labour,Labour,keyword,3
+anchors_global,2017,politics/liamfox,Liam Fox,keyword,1
+anchors_global,2017,politics/martin-mcguinness,Martin McGuinness,keyword,1
+anchors_global,2017,politics/momentum,Momentum,keyword,1
+anchors_global,2017,politics/politics,Politics,keyword,5
+anchors_global,2017,politics/series/politics-live-with-andrew-sparrow,Politics live with Andrew Sparrow,series,1
+anchors_global,2017,profile/alan-yuhas,Alan Yuhas,contributor,2
+anchors_global,2017,profile/andrewsparrow,Andrew Sparrow,contributor,1
+anchors_global,2017,profile/angela-monaghan,Angela Monaghan,contributor,1
+anchors_global,2017,profile/carol-j-clouse,CJ Clouse,contributor,1
+anchors_global,2017,profile/cornel-west,Cornel West,contributor,1
+anchors_global,2017,profile/danutakean,Danuta Kean,contributor,1
+anchors_global,2017,profile/davidsmith,David Smith,contributor,1
+anchors_global,2017,profile/frances-robinson,Frances Robinson,contributor,1
+anchors_global,2017,profile/graemewearden,Graeme Wearden,contributor,4
+anchors_global,2017,profile/henrymcdonald,Henry McDonald,contributor,1
+anchors_global,2017,profile/ianjack,Ian Jack,contributor,1
+anchors_global,2017,profile/jilltreanor,Jill Treanor,contributor,1
+anchors_global,2017,profile/joshua-robertson,Joshua Robertson,contributor,1
+anchors_global,2017,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_global,2017,profile/keeanga-yamahtta-taylor,Keeanga-Yamahtta Taylor,contributor,1
+anchors_global,2017,profile/lauren-gambino,Lauren Gambino,contributor,1
+anchors_global,2017,profile/maraithe-thomas,Maraithe Thomas,contributor,1
+anchors_global,2017,profile/marktownsend,Mark Townsend,contributor,1
+anchors_global,2017,profile/martinfarrer,Martin Farrer,contributor,1
+anchors_global,2017,profile/nickfletcher,Nick Fletcher,contributor,7
+anchors_global,2017,profile/nicole-puglise,Nicole Puglise,contributor,1
+anchors_global,2017,profile/pankajmishra,Pankaj Mishra,contributor,1
+anchors_global,2017,profile/rowena-mason,Rowena Mason,contributor,1
+anchors_global,2017,profile/roygreenslade,Roy Greenslade,contributor,1
+anchors_global,2017,profile/sarahbutler,Sarah Butler,contributor,1
+anchors_global,2017,profile/simonjenkins,Simon Jenkins,contributor,1
+anchors_global,2017,profile/spencerackerman,Spencer Ackerman,contributor,2
+anchors_global,2017,profile/stuart-kelly,Stuart Kelly,contributor,1
+anchors_global,2017,profile/suzannemoore,Suzanne Moore,contributor,1
+anchors_global,2017,profile/tomphillips,Tom Phillips,contributor,1
+anchors_global,2017,publication/theguardian,The Guardian,publication,10
+anchors_global,2017,publication/theobserver,The Observer archive,publication,1
+anchors_global,2017,science/psychology,Psychology,keyword,1
+anchors_global,2017,science/science,Science,keyword,1
+anchors_global,2017,science/space,Space,keyword,1
+anchors_global,2017,science/spacex,SpaceX,keyword,1
+anchors_global,2017,society/communities,Communities,keyword,1
+anchors_global,2017,society/housing,Housing,keyword,1
+anchors_global,2017,society/society,Society,keyword,2
+anchors_global,2017,sustainable-business/series/the-new-bottom-line,The new bottom line,series,1
+anchors_global,2017,sustainable-business/sustainable-business,Guardian sustainable business,keyword,1
+anchors_global,2017,technology/elon-musk,Elon Musk,keyword,1
+anchors_global,2017,technology/hacking,Hacking,keyword,1
+anchors_global,2017,technology/technology,Technology,keyword,1
+anchors_global,2017,theguardian/family,Family,newspaper-book,1
+anchors_global,2017,theguardian/family/family,Family features,newspaper-book-section,1
+anchors_global,2017,theguardian/g2,G2,newspaper-book,1
+anchors_global,2017,theguardian/g2/features,Comment & features,newspaper-book-section,1
+anchors_global,2017,theguardian/guardianreview,Guardian review,newspaper-book,1
+anchors_global,2017,theguardian/guardianreview/saturdayreviewsfeatres,Features & reviews,newspaper-book-section,1
+anchors_global,2017,theguardian/mainsection,Main section,newspaper-book,7
+anchors_global,2017,theguardian/mainsection/commentanddebate,Comment & debate,newspaper-book-section,2
+anchors_global,2017,theguardian/mainsection/editorialsandreply,Editorials & reply,newspaper-book-section,1
+anchors_global,2017,theguardian/mainsection/financial3,Business,newspaper-book-section,2
+anchors_global,2017,theguardian/mainsection/topstories,Top stories,newspaper-book-section,2
+anchors_global,2017,theobserver/news,Main section,newspaper-book,1
+anchors_global,2017,theobserver/news/uknews,News,newspaper-book-section,1
+anchors_global,2017,tone/blog,Blogposts,tone,8
+anchors_global,2017,tone/comment,Comment,tone,8
+anchors_global,2017,tone/features,Features,tone,3
+anchors_global,2017,tone/letters,Letters,tone,1
+anchors_global,2017,tone/minutebyminute,Minute by minute,tone,6
+anchors_global,2017,tone/news,News,tone,13
+anchors_global,2017,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,3
+anchors_global,2017,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+anchors_global,2017,tracking/commissioningdesk/cities,Cities,tracking,1
+anchors_global,2017,tracking/commissioningdesk/family,UK Family,tracking,1
+anchors_global,2017,tracking/commissioningdesk/observer-main,Observer Main,tracking,1
+anchors_global,2017,tracking/commissioningdesk/review,UK Review,tracking,1
+anchors_global,2017,tracking/commissioningdesk/uk-business,UK Business,tracking,7
+anchors_global,2017,tracking/commissioningdesk/uk-culture,UK Culture,tracking,2
+anchors_global,2017,tracking/commissioningdesk/uk-g2-features,UK G2 Features,tracking,1
+anchors_global,2017,tracking/commissioningdesk/uk-home-news,UK Home News,tracking,2
+anchors_global,2017,tracking/commissioningdesk/uk-letters-and-leader-writers,UK Letters and Leader Writers,tracking,1
+anchors_global,2017,tracking/commissioningdesk/uk-media,UK Media,tracking,2
+anchors_global,2017,tracking/commissioningdesk/uk-opinion,UK Opinion,tracking,2
+anchors_global,2017,tracking/commissioningdesk/us-features,US Features,tracking,1
+anchors_global,2017,tracking/commissioningdesk/us-news,US News,tracking,5
+anchors_global,2017,tracking/commissioningdesk/us-opinion,US Opinion,tracking,2
+anchors_global,2017,tracking/commissioningdesk/us-sponsored-content,US Sponsored Content,tracking,1
+anchors_global,2017,tracking/commissioningdesk/us-tech,US Tech,tracking,1
+anchors_global,2017,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,2
+anchors_global,2017,type/article,Article,type,34
+anchors_global,2017,uk/northernireland,Northern Ireland,keyword,1
+anchors_global,2017,uk/uk,UK news,keyword,5
+anchors_global,2017,us-news/barack-obama,Barack Obama,keyword,6
+anchors_global,2017,us-news/ben-carson,Ben Carson,keyword,1
+anchors_global,2017,us-news/california,California,keyword,1
+anchors_global,2017,us-news/donald-trump-inauguration,Donald Trump inauguration,keyword,1
+anchors_global,2017,us-news/donaldtrump,Donald Trump,keyword,12
+anchors_global,2017,us-news/fbi,FBI,keyword,1
+anchors_global,2017,us-news/guantanamo-bay,Guantánamo Bay,keyword,1
+anchors_global,2017,us-news/ivanka-trump,Ivanka Trump,keyword,1
+anchors_global,2017,us-news/james-comey,James Comey,keyword,1
+anchors_global,2017,us-news/jared-kushner,Jared Kushner,keyword,1
+anchors_global,2017,us-news/obama-administration,Obama administration,keyword,2
+anchors_global,2017,us-news/series/guardian-us-briefing,First Thing newsletter,series,1
+anchors_global,2017,us-news/series/the-obama-legacy,The Obama legacy,series,1
+anchors_global,2017,us-news/trump-administration,Trump administration,keyword,5
+anchors_global,2017,us-news/us-congress,US Congress,keyword,1
+anchors_global,2017,us-news/us-elections-2016,US elections 2016,keyword,1
+anchors_global,2017,us-news/us-foreign-policy,US foreign policy,keyword,1
+anchors_global,2017,us-news/us-news,US news,keyword,17
+anchors_global,2017,us-news/us-politics,US politics,keyword,8
+anchors_global,2017,us-news/us-senate,US Senate,keyword,1
+anchors_global,2017,world/1mdb,1MDB,keyword,1
+anchors_global,2017,world/amnesty-international,Amnesty International,keyword,1
+anchors_global,2017,world/asia-pacific,Asia Pacific,keyword,3
+anchors_global,2017,world/black-lives-matter-movement,Black Lives Matter movement,keyword,1
+anchors_global,2017,world/china,China,keyword,3
+anchors_global,2017,world/espionage,Espionage,keyword,1
+anchors_global,2017,world/eu,European Union,keyword,1
+anchors_global,2017,world/europe-news,Europe,keyword,2
+anchors_global,2017,world/malaysia,Malaysia,keyword,1
+anchors_global,2017,world/nuclear-weapons,Nuclear weapons,keyword,1
+anchors_global,2017,world/race,Race,keyword,2
+anchors_global,2017,world/rendition,Rendition,keyword,1
+anchors_global,2017,world/russia,Russia,keyword,4
+anchors_global,2017,world/singapore,Singapore,keyword,1
+anchors_global,2017,world/taiwan,Taiwan,keyword,1
+anchors_global,2017,world/vladimir-putin,Vladimir Putin,keyword,2
+anchors_global,2017,world/world,World news,keyword,8
+anchors_global,2020,australia-news/australia-news,Australia news,keyword,5
+anchors_global,2020,australia-news/australian-politics,Australian politics,keyword,1
+anchors_global,2020,australia-news/coalition,Coalition,keyword,1
+anchors_global,2020,australia-news/health,Health,keyword,2
+anchors_global,2020,australia-news/labor-party,Labor party,keyword,1
+anchors_global,2020,australia-news/mathias-cormann,Mathias Cormann,keyword,1
+anchors_global,2020,australia-news/national-party,National party,keyword,1
+anchors_global,2020,books/rebecca-solnit,Rebecca Solnit,keyword,1
+anchors_global,2020,business/airbus,Airbus,keyword,1
+anchors_global,2020,business/andrew-bailey,Andrew Bailey,keyword,1
+anchors_global,2020,business/australia-economy,Australian economy,keyword,1
+anchors_global,2020,business/banking,Banking,keyword,1
+anchors_global,2020,business/bankofenglandgovernor,Bank of England,keyword,4
+anchors_global,2020,business/britishairways,British Airways,keyword,2
+anchors_global,2020,business/business,Business,keyword,15
+anchors_global,2020,business/compassgroup,Compass,keyword,1
+anchors_global,2020,business/currencies,Currencies,keyword,3
+anchors_global,2020,business/debt-crisis,Eurozone crisis,keyword,1
+anchors_global,2020,business/dollar,Dollar,keyword,1
+anchors_global,2020,business/easyjet,easyJet,keyword,1
+anchors_global,2020,business/economicgrowth,Economic growth (GDP),keyword,1
+anchors_global,2020,business/economics,Economics,keyword,9
+anchors_global,2020,business/european-central-bank,European Central Bank,keyword,1
+anchors_global,2020,business/federal-reserve,Federal Reserve,keyword,3
+anchors_global,2020,business/financial-crisis,Financial crisis,keyword,1
+anchors_global,2020,business/financial-sector,Financial sector,keyword,1
+anchors_global,2020,business/fooddrinks,Food & drink industry,keyword,2
+anchors_global,2020,business/ftse,FTSE,keyword,7
+anchors_global,2020,business/global-economy,Global economy,keyword,1
+anchors_global,2020,business/healthcare,Healthcare industry,keyword,1
+anchors_global,2020,business/interest-rates,Interest rates,keyword,1
+anchors_global,2020,business/john-maynard-keynes,John Maynard Keynes,keyword,1
+anchors_global,2020,business/marksspencer,Marks & Spencer,keyword,1
+anchors_global,2020,business/nils-pratley-on-finance,Nils Pratley on finance,blog,1
+anchors_global,2020,business/oil,Oil,keyword,1
+anchors_global,2020,business/paddy-power,Paddy Power,keyword,1
+anchors_global,2020,business/paddy-power-betfair,Paddy Power Betfair,keyword,1
+anchors_global,2020,business/recession,Recession,keyword,1
+anchors_global,2020,business/ryanair,Ryanair,keyword,2
+anchors_global,2020,business/series/economicsmonday,Economics viewpoint,series,1
+anchors_global,2020,business/series/guardian-business-live,Business live,series,5
+anchors_global,2020,business/sterling,Sterling,keyword,1
+anchors_global,2020,business/stock-markets,Stock markets,keyword,11
+anchors_global,2020,business/theairlineindustry,Airline industry,keyword,3
+anchors_global,2020,business/travelleisure,Travel & leisure,keyword,3
+anchors_global,2020,business/tuitravel,Tui Travel,keyword,1
+anchors_global,2020,business/us-small-business,US small business,keyword,1
+anchors_global,2020,business/useconomy,US economy,keyword,4
+anchors_global,2020,business/willie-walsh,Willie Walsh,keyword,1
+anchors_global,2020,commentisfree/commentisfree,Opinion,blog,4
+anchors_global,2020,gnm-press-office/press-releases,Press releases,keyword,1
+anchors_global,2020,gnm-press-office/press-releases-2020,Press releases 2020,keyword,1
+anchors_global,2020,lifeandstyle/women,Women,keyword,1
+anchors_global,2020,media/digital-media,Digital media,keyword,1
+anchors_global,2020,media/media,Media,keyword,3
+anchors_global,2020,media/new-york-times,New York Times,keyword,1
+anchors_global,2020,media/news-corporation,News Corporation,keyword,1
+anchors_global,2020,media/newspapers,Newspapers,keyword,2
+anchors_global,2020,media/press-freedom,Press freedom,keyword,2
+anchors_global,2020,media/pressandpublishing,Newspapers & magazines,keyword,2
+anchors_global,2020,media/social-media,Social media,keyword,1
+anchors_global,2020,media/time-magazine,Time magazine,keyword,1
+anchors_global,2020,media/us-press-publishing,US press and publishing,keyword,1
+anchors_global,2020,media/wallstreetjournal,Wall Street Journal,keyword,1
+anchors_global,2020,media/washington-post,Washington Post,keyword,1
+anchors_global,2020,politics/boris-johnson,Boris Johnson,keyword,1
+anchors_global,2020,politics/economy,Economic policy,keyword,1
+anchors_global,2020,politics/john-mcdonnell,John McDonnell,keyword,1
+anchors_global,2020,politics/politics,Politics,keyword,2
+anchors_global,2020,politics/rishi-sunak,Rishi Sunak,keyword,2
+anchors_global,2020,politics/taxandspending,Tax and spending,keyword,1
+anchors_global,2020,profile/aamna-mohdin,Aamna Mohdin,contributor,3
+anchors_global,2020,profile/aaron-walawalkar,Aaron Walawalkar,contributor,1
+anchors_global,2020,profile/adam-gabbatt,Adam Gabbatt,contributor,1
+anchors_global,2020,profile/adam-gaffney,Adam Gaffney,contributor,1
+anchors_global,2020,profile/alex-hern,Alex Hern,contributor,3
+anchors_global,2020,profile/ali-martin,Ali Martin,contributor,1
+anchors_global,2020,profile/alison-rourke,Alison Rourke,contributor,1
+anchors_global,2020,profile/amy-remeikis,Amy Remeikis,contributor,1
+anchors_global,2020,profile/andrewpulver,Andrew Pulver,contributor,1
+anchors_global,2020,profile/andrewsparrow,Andrew Sparrow,contributor,1
+anchors_global,2020,profile/angela-giuffrida,Angela Giuffrida,contributor,1
+anchors_global,2020,profile/angela-monaghan,Angela Monaghan,contributor,3
+anchors_global,2020,profile/ashifa-kassam,Ashifa Kassam,contributor,2
+anchors_global,2020,profile/ben-butler,Ben Butler,contributor,4
+anchors_global,2020,profile/ben-doherty,Ben Doherty,contributor,2
+anchors_global,2020,profile/ben-smee,Ben Smee,contributor,3
+anchors_global,2020,profile/benquinn,Ben Quinn,contributor,2
+anchors_global,2020,profile/bethan-mckernan,Bethan McKernan,contributor,1
+anchors_global,2020,profile/bryan-armen-graham,Bryan Armen Graham,contributor,1
+anchors_global,2020,profile/calla-wahlquist,Calla Wahlquist,contributor,3
+anchors_global,2020,profile/charis-mcgowan,Charis McGowan,contributor,1
+anchors_global,2020,profile/charlotte-graham-mclay,Charlotte Graham-McLay,contributor,1
+anchors_global,2020,profile/christopher-knaus,Christopher Knaus,contributor,1
+anchors_global,2020,profile/damiancarrington,Damian Carrington,contributor,1
+anchors_global,2020,profile/damien-gayle,Damien Gayle,contributor,2
+anchors_global,2020,profile/davidbatty,David Batty,contributor,2
+anchors_global,2020,profile/davidsmith,David Smith,contributor,4
+anchors_global,2020,profile/dom-phillips,Dom Phillips,contributor,2
+anchors_global,2020,profile/dominic-rushe,Dominic Rushe,contributor,5
+anchors_global,2020,profile/edwardhelmore,Edward Helmore,contributor,2
+anchors_global,2020,profile/eleanor-de-jong,Eleanor de Jong,contributor,4
+anchors_global,2020,profile/emma-graham-harrison,Emma Graham-Harrison,contributor,2
+anchors_global,2020,profile/gene-marks,Gene Marks,contributor,1
+anchors_global,2020,profile/gnm-press-office,GNM press office,contributor,1
+anchors_global,2020,profile/graemewearden,Graeme Wearden,contributor,5
+anchors_global,2020,profile/graham-russell,Graham Russell,contributor,3
+anchors_global,2020,profile/gwyntopham,Gwyn Topham,contributor,5
+anchors_global,2020,profile/hannah-ellis-petersen,Hannah Ellis-Petersen,contributor,1
+anchors_global,2020,profile/harrietsherwood,Harriet Sherwood,contributor,1
+anchors_global,2020,profile/heatherstewart,Heather Stewart,contributor,1
+anchors_global,2020,profile/helen-davidson,Helen Davidson,contributor,2
+anchors_global,2020,profile/helen-sullivan,Helen Sullivan,contributor,2
+anchors_global,2020,profile/helenasmith,Helena Smith,contributor,3
+anchors_global,2020,profile/hilaryosborne,Hilary Osborne,contributor,2
+anchors_global,2020,profile/iansample,Ian Sample,contributor,1
+anchors_global,2020,profile/jack-banister,Jack Banister,contributor,2
+anchors_global,2020,profile/jamesdart,James Dart,contributor,1
+anchors_global,2020,profile/jasper-jolly,Jasper Jolly,contributor,2
+anchors_global,2020,profile/jennifer-rankin,Jennifer Rankin,contributor,4
+anchors_global,2020,profile/jessica-glenza,Jessica Glenza,contributor,2
+anchors_global,2020,profile/jillian-ambrose,Jillian Ambrose,contributor,2
+anchors_global,2020,profile/joan-greve,Joan E Greve,contributor,3
+anchors_global,2020,profile/joanna-partridge,Joanna Partridge,contributor,2
+anchors_global,2020,profile/joannawalters,Joanna Walters,contributor,2
+anchors_global,2020,profile/josh-taylor,Josh Taylor,contributor,2
+anchors_global,2020,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_global,2020,profile/justinmccurry,Justin McCurry,contributor,3
+anchors_global,2020,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,4
+anchors_global,2020,profile/kate-proctor,Kate Proctor,contributor,1
+anchors_global,2020,profile/kateconnolly,Kate Connolly,contributor,2
+anchors_global,2020,profile/katharine-murphy,Katharine Murphy,contributor,2
+anchors_global,2020,profile/kevin-rawlinson,Kevin Rawlinson,contributor,2
+anchors_global,2020,profile/kim-willsher,Kim Willsher,contributor,1
+anchors_global,2020,profile/larryelliott,Larry Elliott,contributor,2
+anchors_global,2020,profile/lauren-aratani,Lauren Aratani,contributor,1
+anchors_global,2020,profile/lauren-gambino,Lauren Gambino,contributor,1
+anchors_global,2020,profile/leyland-cecco,Leyland Cecco,contributor,2
+anchors_global,2020,profile/libbybrooks,Libby Brooks,contributor,1
+anchors_global,2020,profile/lily-kuo,Lily Kuo,contributor,2
+anchors_global,2020,profile/lisa-cox,Lisa Cox,contributor,2
+anchors_global,2020,profile/lisaocarroll,Lisa O’Carroll,contributor,1
+anchors_global,2020,profile/lorena-allam,Lorena Allam,contributor,1
+anchors_global,2020,profile/lorenzo-tondo,Lorenzo Tondo,contributor,1
+anchors_global,2020,profile/lucy-campbell,Lucy Campbell,contributor,1
+anchors_global,2020,profile/luke-henriques-gomes,Luke Henriques-Gomes,contributor,1
+anchors_global,2020,profile/maanvi-singh,Maanvi Singh,contributor,3
+anchors_global,2020,profile/markbrown,Mark Brown,contributor,1
+anchors_global,2020,profile/marksweney,Mark Sweney,contributor,1
+anchors_global,2020,profile/martin-belam,Martin Belam,contributor,2
+anchors_global,2020,profile/martinfarrer,Martin Farrer,contributor,3
+anchors_global,2020,profile/matt-stoller,Matt Stoller,contributor,1
+anchors_global,2020,profile/mattha-busby,Mattha Busby,contributor,1
+anchors_global,2020,profile/matthewweaver,Matthew Weaver,contributor,1
+anchors_global,2020,profile/melissa-davey,Melissa Davey,contributor,4
+anchors_global,2020,profile/michael-mcgowan,Michael McGowan,contributor,1
+anchors_global,2020,profile/michael-sainato,Michael Sainato,contributor,1
+anchors_global,2020,profile/mike-hytner,Mike Hytner,contributor,2
+anchors_global,2020,profile/molly-blackall,Molly Blackall,contributor,1
+anchors_global,2020,profile/naaman-zhou,Naaman Zhou,contributor,2
+anchors_global,2020,profile/niamh-mcintyre,Niamh McIntyre,contributor,1
+anchors_global,2020,profile/nicola-slawson,Nicola Slawson,contributor,1
+anchors_global,2020,profile/nilspratley,Nils Pratley,contributor,1
+anchors_global,2020,profile/nina-lakhani,Nina Lakhani,contributor,1
+anchors_global,2020,profile/oliver-holmes,Oliver Holmes,contributor,2
+anchors_global,2020,profile/patrick-greenfield,Patrick Greenfield,contributor,3
+anchors_global,2020,profile/patrickbutler,Patrick Butler,contributor,2
+anchors_global,2020,profile/patrickcollinson,Patrick Collinson,contributor,2
+anchors_global,2020,profile/patrickwintour,Patrick Wintour,contributor,1
+anchors_global,2020,profile/paul-karp,Paul Karp,contributor,2
+anchors_global,2020,profile/philip-oltermann,Philip Oltermann,contributor,1
+anchors_global,2020,profile/phillipinman,Phillip Inman,contributor,2
+anchors_global,2020,profile/rebecca-ratcliffe,Rebecca Ratcliffe,contributor,3
+anchors_global,2020,profile/rebeccasmithers,Rebecca Smithers,contributor,3
+anchors_global,2020,profile/richard-partington,Richard Partington,contributor,4
+anchors_global,2020,profile/richard-wolffe,Richard Wolffe,contributor,1
+anchors_global,2020,profile/richardadams,Richard Adams,contributor,2
+anchors_global,2020,profile/richardluscombe,Richard Luscombe,contributor,1
+anchors_global,2020,profile/rob-davies,Rob Davies,contributor,3
+anchors_global,2020,profile/rorycarroll,Rory Carroll,contributor,2
+anchors_global,2020,profile/sam-levine,Sam Levine,contributor,1
+anchors_global,2020,profile/samjones,Sam Jones,contributor,1
+anchors_global,2020,profile/sarah-martin,Sarah Martin,contributor,3
+anchors_global,2020,profile/sarahbutler,Sarah Butler,contributor,3
+anchors_global,2020,profile/severincarrell,Severin Carrell,contributor,1
+anchors_global,2020,profile/shaun-walker,Shaun Walker,contributor,1
+anchors_global,2020,profile/steph-harmon,Steph Harmon,contributor,2
+anchors_global,2020,profile/stephanie-convery,Stephanie Convery,contributor,1
+anchors_global,2020,profile/stephanie-kirchgaessner,Stephanie Kirchgaessner,contributor,1
+anchors_global,2020,profile/stephaniemerritt,Stephanie Merritt,contributor,1
+anchors_global,2020,profile/stevenmorris,Steven Morris,contributor,1
+anchors_global,2020,profile/tomphillips,Tom Phillips,contributor,1
+anchors_global,2020,profile/ukigoni,Uki Goñi,contributor,2
+anchors_global,2020,profile/victoria-bekiempis,Victoria Bekiempis,contributor,1
+anchors_global,2020,profile/vivian-ho,Vivian Ho,contributor,2
+anchors_global,2020,profile/warrenmurray,Warren Murray,contributor,3
+anchors_global,2020,profile/wilson-jason,Jason Wilson,contributor,1
+anchors_global,2020,publication/theguardian,The Guardian,publication,9
+anchors_global,2020,publication/theobserver,The Observer archive,publication,2
+anchors_global,2020,science/infectiousdiseases,Infectious diseases,keyword,12
+anchors_global,2020,science/mathematics,Mathematics,keyword,1
+anchors_global,2020,science/medical-research,Medical research,keyword,3
+anchors_global,2020,science/microbiology,Microbiology,keyword,3
+anchors_global,2020,science/science,Science,keyword,7
+anchors_global,2020,society/health,Health,keyword,1
+anchors_global,2020,society/society,Society,keyword,1
+anchors_global,2020,society/universal-basic-income,Universal basic income,keyword,1
+anchors_global,2020,technology/technology,Technology,keyword,1
+anchors_global,2020,technology/tiktok,TikTok,keyword,1
+anchors_global,2020,theguardian/mainsection,Main section,newspaper-book,9
+anchors_global,2020,theguardian/mainsection/financial3,Business,newspaper-book-section,3
+anchors_global,2020,theguardian/mainsection/international,International,newspaper-book-section,2
+anchors_global,2020,theguardian/mainsection/topstories,Top stories,newspaper-book-section,2
+anchors_global,2020,theguardian/mainsection/uknews,UK news,newspaper-book-section,2
+anchors_global,2020,theobserver/new-review,The New Review,newspaper-book,1
+anchors_global,2020,theobserver/new-review/agenda,Agenda,newspaper-book-section,1
+anchors_global,2020,theobserver/news,Main section,newspaper-book,1
+anchors_global,2020,theobserver/news/business,Business,newspaper-book-section,1
+anchors_global,2020,theobserver/series/the-new-review-q-and-a,Observer New Review Q&A,series,1
+anchors_global,2020,tone/comment,Comment,tone,7
+anchors_global,2020,tone/features,Features,tone,6
+anchors_global,2020,tone/interview,Interviews,tone,1
+anchors_global,2020,tone/minutebyminute,Minute by minute,tone,14
+anchors_global,2020,tone/news,News,tone,26
+anchors_global,2020,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,10
+anchors_global,2020,tracking/commissioningdesk/australia-news,Australia News,tracking,2
+anchors_global,2020,tracking/commissioningdesk/observer-new-review,Observer New Review,tracking,1
+anchors_global,2020,tracking/commissioningdesk/uk-business,UK Business,tracking,11
+anchors_global,2020,tracking/commissioningdesk/uk-data,UK Data,tracking,1
+anchors_global,2020,tracking/commissioningdesk/uk-foreign,UK Foreign,tracking,2
+anchors_global,2020,tracking/commissioningdesk/uk-home-news,UK Home News,tracking,1
+anchors_global,2020,tracking/commissioningdesk/uk-technology,UK Technology,tracking,1
+anchors_global,2020,tracking/commissioningdesk/us-business,US Business,tracking,2
+anchors_global,2020,tracking/commissioningdesk/us-foreign,US Foreign,tracking,2
+anchors_global,2020,tracking/commissioningdesk/us-news,US News,tracking,10
+anchors_global,2020,tracking/commissioningdesk/us-opinion,US Opinion,tracking,3
+anchors_global,2020,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,1
+anchors_global,2020,travel/cruises,Cruises,keyword,1
+anchors_global,2020,type/article,Article,type,45
+anchors_global,2020,uk-news/patrick-vallance,Patrick Vallance,keyword,1
+anchors_global,2020,uk/uk,UK news,keyword,11
+anchors_global,2020,us-news/bernie-sanders,Bernie Sanders,keyword,2
+anchors_global,2020,us-news/california,California,keyword,1
+anchors_global,2020,us-news/connecticut,Connecticut,keyword,1
+anchors_global,2020,us-news/democrats,Democrats,keyword,1
+anchors_global,2020,us-news/donaldtrump,Donald Trump,keyword,7
+anchors_global,2020,us-news/illinois,Illinois,keyword,1
+anchors_global,2020,us-news/joebiden,Joe Biden,keyword,2
+anchors_global,2020,us-news/nancy-pelosi,Nancy Pelosi,keyword,1
+anchors_global,2020,us-news/new-york,New York,keyword,3
+anchors_global,2020,us-news/series/us-politics-live,US politics live,series,2
+anchors_global,2020,us-news/series/us-politics-live-with-joan-e-greve,US politics live with Joan E Greve,series,2
+anchors_global,2020,us-news/trump-administration,Trump administration,keyword,4
+anchors_global,2020,us-news/us-elections-2020,US elections 2020,keyword,2
+anchors_global,2020,us-news/us-news,US news,keyword,21
+anchors_global,2020,us-news/us-political-lobbying,US political lobbying,keyword,1
+anchors_global,2020,us-news/us-politics,US politics,keyword,8
+anchors_global,2020,world/africa,Africa,keyword,2
+anchors_global,2020,world/air-transport,Air transport,keyword,1
+anchors_global,2020,world/asia-pacific,Asia Pacific,keyword,6
+anchors_global,2020,world/china,China,keyword,5
+anchors_global,2020,world/coronavirus-outbreak,Coronavirus,keyword,37
+anchors_global,2020,world/europe-news,Europe,keyword,4
+anchors_global,2020,world/far-right,The far right,keyword,1
+anchors_global,2020,world/italy,Italy,keyword,1
+anchors_global,2020,world/japan,Japan,keyword,1
+anchors_global,2020,world/middleeast,Middle East and north Africa,keyword,2
+anchors_global,2020,world/secondworldwar,Second world war,keyword,1
+anchors_global,2020,world/series/coronavirus-at-a-glance,Coronavirus: at a glance,series,1
+anchors_global,2020,world/series/coronavirus-live,Coronavirus live,series,3
+anchors_global,2020,world/series/coronavirus-the-week-explained,Coronavirus: the week explained,series,1
+anchors_global,2020,world/series/guardian-morning-briefing,Guardian morning briefing,series,3
+anchors_global,2020,world/world,World news,keyword,17
+anchors_global,2026,australia-news/australia-news,Australia news,keyword,1
+anchors_global,2026,australia-news/australian-politics,Australian politics,keyword,1
+anchors_global,2026,australia-news/business-australia,Business,keyword,1
+anchors_global,2026,australia-news/interest-rates-australia,Interest rates,keyword,1
+anchors_global,2026,australia-news/jim-chalmers--australian-politician-,Jim Chalmers,keyword,1
+anchors_global,2026,australia-news/reserve-bank-of-australia,Reserve Bank of Australia,keyword,1
+anchors_global,2026,business/aerospace-industry,Aerospace industry,keyword,1
+anchors_global,2026,business/australia-economy,Australian economy,keyword,1
+anchors_global,2026,business/automotive-industry,Automotive industry,keyword,1
+anchors_global,2026,business/barclay,Barclays,keyword,1
+anchors_global,2026,business/bonds,Bonds,keyword,1
+anchors_global,2026,business/business,Business,keyword,9
+anchors_global,2026,business/commodities,Commodities,keyword,2
+anchors_global,2026,business/currencies,Currencies,keyword,2
+anchors_global,2026,business/economics,Economics,keyword,1
+anchors_global,2026,business/ftse,FTSE,keyword,1
+anchors_global,2026,business/gas,Gas,keyword,1
+anchors_global,2026,business/ipos,IPOs,keyword,1
+anchors_global,2026,business/job-losses,Job losses,keyword,1
+anchors_global,2026,business/oil,Oil,keyword,1
+anchors_global,2026,business/oilandgascompanies,Oil and gas companies,keyword,1
+anchors_global,2026,business/quarterly-results,Quarterly results,keyword,2
+anchors_global,2026,business/series/guardian-business-live,Business live,series,3
+anchors_global,2026,business/stock-markets,Stock markets,keyword,5
+anchors_global,2026,business/technology,Technology sector,keyword,4
+anchors_global,2026,business/unemployment-and-employment-statistics-australia,Unemployment,keyword,1
+anchors_global,2026,business/useconomy,US economy,keyword,1
+anchors_global,2026,campaign/email/breaking-news-australia,Breaking News Australia (newsletter signup),campaign,1
+anchors_global,2026,campaign/email/business-today,Business Today (newsletter signup),campaign,1
+anchors_global,2026,campaign/email/headlines-europe,Headlines Europe,campaign,1
+anchors_global,2026,campaign/email/how-we-win,How we win,campaign,1
+anchors_global,2026,campaign/email/matters-of-opinion,Matters of Opinion,campaign,1
+anchors_global,2026,campaign/email/politics-really,"Politics, really",campaign,1
+anchors_global,2026,campaign/email/tech-scape,TechScape (newsletter signup),campaign,2
+anchors_global,2026,campaign/email/the-guide-staying-in,The Guide (newsletter signup),campaign,1
+anchors_global,2026,campaign/email/the-stakes-2026,The Stakes 2026 (newsletter sign up),campaign,1
+anchors_global,2026,commentisfree/commentisfree,Opinion,blog,3
+anchors_global,2026,culture/culture,Culture,keyword,2
+anchors_global,2026,culture/series/the-guide,The Guide newsletter,series,1
+anchors_global,2026,education/education,Education,keyword,1
+anchors_global,2026,education/schools,Schools,keyword,1
+anchors_global,2026,environment/energy,Energy,keyword,1
+anchors_global,2026,environment/environment,Environment,keyword,1
+anchors_global,2026,environment/gas,Gas,keyword,1
+anchors_global,2026,environment/green-politics,Environment policy,keyword,1
+anchors_global,2026,film/documentary,Documentary films,keyword,1
+anchors_global,2026,film/film,Film,keyword,1
+anchors_global,2026,film/you-can-see-everything,You Can See Everything,keyword,1
+anchors_global,2026,media/itv-news,ITV News,keyword,1
+anchors_global,2026,news/antisemitism,Antisemitism,keyword,1
+anchors_global,2026,news/series/pass-notes,Pass notes,series,1
+anchors_global,2026,news/the-super-rich,The super-rich,keyword,2
+anchors_global,2026,politics/andyburnham,Andy Burnham,keyword,1
+anchors_global,2026,politics/brexit-party,Reform UK,keyword,1
+anchors_global,2026,politics/conservatives,Conservatives,keyword,1
+anchors_global,2026,politics/green-party,Green party,keyword,1
+anchors_global,2026,politics/kemi-badenoch,Kemi Badenoch,keyword,1
+anchors_global,2026,politics/labour,Labour,keyword,1
+anchors_global,2026,politics/miatta-fahnbulleh,Miatta Fahnbulleh,keyword,1
+anchors_global,2026,politics/pmqs,PMQs,keyword,1
+anchors_global,2026,politics/politics,Politics,keyword,1
+anchors_global,2026,politics/series/politics-live-with-andrew-sparrow,Politics live with Andrew Sparrow,series,1
+anchors_global,2026,politics/zack-polanski,Zack Polanski,keyword,1
+anchors_global,2026,profile/aletha-adu,Aletha Adu,contributor,1
+anchors_global,2026,profile/andrewsparrow,Andrew Sparrow,contributor,1
+anchors_global,2026,profile/ariana-baio,Ariana Baio,contributor,2
+anchors_global,2026,profile/chris-stein,Chris Stein,contributor,2
+anchors_global,2026,profile/dara-kerr,Dara Kerr,contributor,1
+anchors_global,2026,profile/davidsmith,David Smith,contributor,2
+anchors_global,2026,profile/debbie-carlson,Debbie Carlson,contributor,1
+anchors_global,2026,profile/editorial,Editorial,contributor,1
+anchors_global,2026,profile/fran-lawther,Fran Lawther,contributor,1
+anchors_global,2026,profile/frances-mao,Frances Mao,contributor,3
+anchors_global,2026,profile/george-chidi,George Chidi,contributor,1
+anchors_global,2026,profile/graemewearden,Graeme Wearden,contributor,1
+anchors_global,2026,profile/gwilym-mumford,Gwilym Mumford,contributor,1
+anchors_global,2026,profile/gwyntopham,Gwyn Topham,contributor,1
+anchors_global,2026,profile/jeremy-barr,Jeremy Barr,contributor,1
+anchors_global,2026,profile/jonathan-yerushalmy,Jonathan Yerushalmy,contributor,2
+anchors_global,2026,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_global,2026,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,1
+anchors_global,2026,profile/lauren-almeida,Lauren Almeida,contributor,2
+anchors_global,2026,profile/lorenzo-tondo,Lorenzo Tondo,contributor,2
+anchors_global,2026,profile/lucy-campbell,Lucy Campbell,contributor,2
+anchors_global,2026,profile/lukeharding,Luke Harding,contributor,2
+anchors_global,2026,profile/marina-dunbar,Marina Dunbar,contributor,2
+anchors_global,2026,profile/marksweney,Mark Sweney,contributor,1
+anchors_global,2026,profile/martin-belam,Martin Belam,contributor,1
+anchors_global,2026,profile/nick-robins-early,Nick Robins-Early,contributor,1
+anchors_global,2026,profile/patrick-commins,Patrick Commins,contributor,2
+anchors_global,2026,profile/peterbeaumont,Peter Beaumont,contributor,1
+anchors_global,2026,profile/pjotr-sauer,Pjotr Sauer,contributor,2
+anchors_global,2026,profile/richard-partington,Richard Partington,contributor,1
+anchors_global,2026,profile/richardadams,Richard Adams,contributor,1
+anchors_global,2026,profile/robert-mackey,Robert Mackey,contributor,2
+anchors_global,2026,profile/sam-levine,Sam Levine,contributor,1
+anchors_global,2026,profile/sarahbutler,Sarah Butler,contributor,1
+anchors_global,2026,profile/shrai-popat,Shrai Popat,contributor,2
+anchors_global,2026,profile/sidneyblumenthal,Sidney Blumenthal,contributor,1
+anchors_global,2026,profile/steve-bloomfield,Steve Bloomfield,contributor,1
+anchors_global,2026,profile/uwa-ede-osifo,Uwa Ede-Osifo,contributor,1
+anchors_global,2026,profile/wilson-jason,Jason Wilson,contributor,1
+anchors_global,2026,profile/yassin-el-moudden,Yassin El-Moudden,contributor,1
+anchors_global,2026,publication/theguardian,The Guardian,publication,8
+anchors_global,2026,science/satellites,Satellites,keyword,1
+anchors_global,2026,science/science,Science,keyword,1
+anchors_global,2026,science/spacex,SpaceX,keyword,4
+anchors_global,2026,society/hospitals,Hospitals,keyword,1
+anchors_global,2026,society/sex-trafficking,Sex trafficking,keyword,1
+anchors_global,2026,technology/anthropic,Anthropic,keyword,1
+anchors_global,2026,technology/artificialintelligenceai,AI (artificial intelligence),keyword,3
+anchors_global,2026,technology/computing,Computing,keyword,1
+anchors_global,2026,technology/elon-musk,Elon Musk,keyword,7
+anchors_global,2026,technology/mark-zuckerberg,Mark Zuckerberg,keyword,1
+anchors_global,2026,technology/mergers-acquisitions,"Mergers, acquisitions and funding",keyword,1
+anchors_global,2026,technology/meta,Meta,keyword,1
+anchors_global,2026,technology/robots,Robots,keyword,1
+anchors_global,2026,technology/self-driving-cars,Self-driving cars,keyword,1
+anchors_global,2026,technology/series/reworked,Reworked,series,1
+anchors_global,2026,technology/technology,Technology,keyword,5
+anchors_global,2026,technology/tesla,Tesla,keyword,1
+anchors_global,2026,theguardian/g2,G2,newspaper-book,1
+anchors_global,2026,theguardian/g2/features,Comment & features,newspaper-book-section,1
+anchors_global,2026,theguardian/journal,Journal,newspaper-book,2
+anchors_global,2026,theguardian/journal/opinion,Opinion,newspaper-book-section,2
+anchors_global,2026,theguardian/mainsection,Main section,newspaper-book,5
+anchors_global,2026,theguardian/mainsection/financial3,Business,newspaper-book-section,1
+anchors_global,2026,theguardian/mainsection/international,International,newspaper-book-section,2
+anchors_global,2026,theguardian/mainsection/uknews,UK news,newspaper-book-section,2
+anchors_global,2026,tone/analysis,Analysis,tone,2
+anchors_global,2026,tone/comment,Comment,tone,4
+anchors_global,2026,tone/editorials,Editorials,tone,1
+anchors_global,2026,tone/explainers,Explainers,tone,4
+anchors_global,2026,tone/features,Features,tone,3
+anchors_global,2026,tone/minutebyminute,Minute by minute,tone,7
+anchors_global,2026,tone/news,News,tone,17
+anchors_global,2026,tone/newsletter-tone,Newsletters,tone,1
+anchors_global,2026,tracking/audience/au,Au,tracking,1
+anchors_global,2026,tracking/audience/global,Global,tracking,16
+anchors_global,2026,tracking/audience/uk,UK,tracking,2
+anchors_global,2026,tracking/audience/us,US,tracking,5
+anchors_global,2026,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,4
+anchors_global,2026,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+anchors_global,2026,tracking/commissioningdesk/australia-politics,Australia Politics,tracking,1
+anchors_global,2026,tracking/commissioningdesk/newsletters,Newsletters,tracking,1
+anchors_global,2026,tracking/commissioningdesk/uk-business,UK Business,tracking,5
+anchors_global,2026,tracking/commissioningdesk/uk-foreign,UK Foreign,tracking,4
+anchors_global,2026,tracking/commissioningdesk/uk-g2-features,UK G2 Features,tracking,1
+anchors_global,2026,tracking/commissioningdesk/uk-g2-production,UK G2 production,tracking,1
+anchors_global,2026,tracking/commissioningdesk/uk-home-news,UK Home News,tracking,1
+anchors_global,2026,tracking/commissioningdesk/uk-letters-and-leader-writers,UK Letters and Leader Writers,tracking,1
+anchors_global,2026,tracking/commissioningdesk/uk-opinion,UK Opinion,tracking,1
+anchors_global,2026,tracking/commissioningdesk/us-business,US Business,tracking,1
+anchors_global,2026,tracking/commissioningdesk/us-investigations,US investigations,tracking,1
+anchors_global,2026,tracking/commissioningdesk/us-news,US News,tracking,3
+anchors_global,2026,tracking/commissioningdesk/us-opinion,US Opinion,tracking,1
+anchors_global,2026,tracking/commissioningdesk/us-tech,US Tech,tracking,3
+anchors_global,2026,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,5
+anchors_global,2026,tv-and-radio/nathan-fielder,Nathan Fielder,keyword,1
+anchors_global,2026,type/article,Article,type,30
+anchors_global,2026,uk-news/palestine-action,Palestine Action,keyword,1
+anchors_global,2026,uk/immigration,Immigration and asylum,keyword,1
+anchors_global,2026,uk/scotland,Scotland,keyword,1
+anchors_global,2026,uk/uk,UK news,keyword,2
+anchors_global,2026,us-news/california,California,keyword,1
+anchors_global,2026,us-news/democrats,Democrats,keyword,2
+anchors_global,2026,us-news/donaldtrump,Donald Trump,keyword,9
+anchors_global,2026,us-news/jeffrey-epstein,Jeffrey Epstein,keyword,1
+anchors_global,2026,us-news/marco-rubio,Marco Rubio,keyword,1
+anchors_global,2026,us-news/missouri,Missouri,keyword,1
+anchors_global,2026,us-news/new-york,New York,keyword,1
+anchors_global,2026,us-news/ohio,Ohio,keyword,2
+anchors_global,2026,us-news/republicans,Republicans,keyword,3
+anchors_global,2026,us-news/series/us-politics-live,US politics live,series,2
+anchors_global,2026,us-news/series/us-politics-live-with-shrai-popat,US politics live with Shrai Popat,series,2
+anchors_global,2026,us-news/texas,Texas,keyword,1
+anchors_global,2026,us-news/trump-administration,Trump administration,keyword,6
+anchors_global,2026,us-news/us-foreign-policy,US foreign policy,keyword,6
+anchors_global,2026,us-news/us-gas-prices,US gas prices,keyword,1
+anchors_global,2026,us-news/us-midterm-elections-2026,US midterm elections 2026,keyword,4
+anchors_global,2026,us-news/us-news,US news,keyword,14
+anchors_global,2026,us-news/us-politics,US politics,keyword,11
+anchors_global,2026,us-news/vivek-ramaswamy,Vivek Ramaswamy,keyword,1
+anchors_global,2026,us-news/west-coast,West Coast,keyword,1
+anchors_global,2026,world/china,China,keyword,2
+anchors_global,2026,world/europe-news,Europe,keyword,10
+anchors_global,2026,world/migration,Migration,keyword,1
+anchors_global,2026,world/nato,Nato,keyword,2
+anchors_global,2026,world/norway,Norway,keyword,1
+anchors_global,2026,world/russia,Russia,keyword,11
+anchors_global,2026,world/series/europe-live,Europe live,series,1
+anchors_global,2026,world/series/russia-ukraine-war-at-a-glance,Russia-Ukraine war at a glance,series,3
+anchors_global,2026,world/ukraine,Ukraine,keyword,11
+anchors_global,2026,world/unitednations,United Nations,keyword,1
+anchors_global,2026,world/vladimir-putin,Vladimir Putin,keyword,7
+anchors_global,2026,world/volodymyr-zelenskiy,Volodymyr Zelenskyy,keyword,8
+anchors_global,2026,world/world,World news,keyword,12
+anchors_global,2026,world/xi-jinping,Xi Jinping,keyword,2
+anchors_stock_market_tag,2017,business/business,Business,keyword,6
+anchors_stock_market_tag,2017,business/currencies,Currencies,keyword,4
+anchors_stock_market_tag,2017,business/davos-2017,Davos 2017,keyword,2
+anchors_stock_market_tag,2017,business/dollar,Dollar,keyword,1
+anchors_stock_market_tag,2017,business/dowjones,Dow Jones,keyword,1
+anchors_stock_market_tag,2017,business/economics,Economics,keyword,3
+anchors_stock_market_tag,2017,business/ftse,FTSE,keyword,4
+anchors_stock_market_tag,2017,business/series/eurozone-crisis-live,Eurozone crisis live,series,4
+anchors_stock_market_tag,2017,business/series/guardian-business-live,Business live,series,4
+anchors_stock_market_tag,2017,business/sterling,Sterling,keyword,4
+anchors_stock_market_tag,2017,business/stock-markets,Stock markets,keyword,6
+anchors_stock_market_tag,2017,business/useconomy,US economy,keyword,1
+anchors_stock_market_tag,2017,money/money,Money,keyword,1
+anchors_stock_market_tag,2017,money/moneyinvestments,Investments,keyword,1
+anchors_stock_market_tag,2017,money/shares,Shares,keyword,1
+anchors_stock_market_tag,2017,politics/eu-referendum,Brexit,keyword,1
+anchors_stock_market_tag,2017,politics/politics,Politics,keyword,1
+anchors_stock_market_tag,2017,profile/angela-monaghan,Angela Monaghan,contributor,1
+anchors_stock_market_tag,2017,profile/graemewearden,Graeme Wearden,contributor,3
+anchors_stock_market_tag,2017,profile/jilltreanor,Jill Treanor,contributor,1
+anchors_stock_market_tag,2017,profile/juliakollewe,Julia Kollewe,contributor,1
+anchors_stock_market_tag,2017,profile/nickfletcher,Nick Fletcher,contributor,6
+anchors_stock_market_tag,2017,publication/theguardian,The Guardian,publication,2
+anchors_stock_market_tag,2017,theguardian/mainsection,Main section,newspaper-book,2
+anchors_stock_market_tag,2017,theguardian/mainsection/financial3,Business,newspaper-book-section,2
+anchors_stock_market_tag,2017,tone/blog,Blogposts,tone,4
+anchors_stock_market_tag,2017,tone/minutebyminute,Minute by minute,tone,4
+anchors_stock_market_tag,2017,tone/news,News,tone,2
+anchors_stock_market_tag,2017,tracking/commissioningdesk/uk-business,UK Business,tracking,6
+anchors_stock_market_tag,2017,type/article,Article,type,6
+anchors_stock_market_tag,2017,uk/uk,UK news,keyword,1
+anchors_stock_market_tag,2017,us-news/us-news,US news,keyword,1
+anchors_stock_market_tag,2017,world/china,China,keyword,1
+anchors_stock_market_tag,2020,australia-news/australia-news,Australia news,keyword,1
+anchors_stock_market_tag,2020,business/airbus,Airbus,keyword,1
+anchors_stock_market_tag,2020,business/andrew-bailey,Andrew Bailey,keyword,1
+anchors_stock_market_tag,2020,business/bankofenglandgovernor,Bank of England,keyword,3
+anchors_stock_market_tag,2020,business/britishairways,British Airways,keyword,2
+anchors_stock_market_tag,2020,business/business,Business,keyword,10
+anchors_stock_market_tag,2020,business/compassgroup,Compass,keyword,1
+anchors_stock_market_tag,2020,business/currencies,Currencies,keyword,3
+anchors_stock_market_tag,2020,business/debt-crisis,Eurozone crisis,keyword,1
+anchors_stock_market_tag,2020,business/dollar,Dollar,keyword,1
+anchors_stock_market_tag,2020,business/easyjet,easyJet,keyword,1
+anchors_stock_market_tag,2020,business/economics,Economics,keyword,8
+anchors_stock_market_tag,2020,business/european-central-bank,European Central Bank,keyword,1
+anchors_stock_market_tag,2020,business/federal-reserve,Federal Reserve,keyword,2
+anchors_stock_market_tag,2020,business/ftse,FTSE,keyword,7
+anchors_stock_market_tag,2020,business/global-economy,Global economy,keyword,1
+anchors_stock_market_tag,2020,business/interest-rates,Interest rates,keyword,1
+anchors_stock_market_tag,2020,business/marksspencer,Marks & Spencer,keyword,1
+anchors_stock_market_tag,2020,business/nils-pratley-on-finance,Nils Pratley on finance,blog,1
+anchors_stock_market_tag,2020,business/oil,Oil,keyword,1
+anchors_stock_market_tag,2020,business/paddy-power,Paddy Power,keyword,1
+anchors_stock_market_tag,2020,business/paddy-power-betfair,Paddy Power Betfair,keyword,1
+anchors_stock_market_tag,2020,business/recession,Recession,keyword,1
+anchors_stock_market_tag,2020,business/ryanair,Ryanair,keyword,2
+anchors_stock_market_tag,2020,business/series/guardian-business-live,Business live,series,5
+anchors_stock_market_tag,2020,business/sterling,Sterling,keyword,1
+anchors_stock_market_tag,2020,business/stock-markets,Stock markets,keyword,11
+anchors_stock_market_tag,2020,business/theairlineindustry,Airline industry,keyword,3
+anchors_stock_market_tag,2020,business/travelleisure,Travel & leisure,keyword,2
+anchors_stock_market_tag,2020,business/tuitravel,Tui Travel,keyword,1
+anchors_stock_market_tag,2020,business/useconomy,US economy,keyword,3
+anchors_stock_market_tag,2020,business/willie-walsh,Willie Walsh,keyword,1
+anchors_stock_market_tag,2020,politics/rishi-sunak,Rishi Sunak,keyword,1
+anchors_stock_market_tag,2020,profile/alex-hern,Alex Hern,contributor,1
+anchors_stock_market_tag,2020,profile/angela-monaghan,Angela Monaghan,contributor,3
+anchors_stock_market_tag,2020,profile/dominic-rushe,Dominic Rushe,contributor,4
+anchors_stock_market_tag,2020,profile/graemewearden,Graeme Wearden,contributor,4
+anchors_stock_market_tag,2020,profile/gwyntopham,Gwyn Topham,contributor,4
+anchors_stock_market_tag,2020,profile/hilaryosborne,Hilary Osborne,contributor,2
+anchors_stock_market_tag,2020,profile/jasper-jolly,Jasper Jolly,contributor,2
+anchors_stock_market_tag,2020,profile/jennifer-rankin,Jennifer Rankin,contributor,2
+anchors_stock_market_tag,2020,profile/jillian-ambrose,Jillian Ambrose,contributor,2
+anchors_stock_market_tag,2020,profile/joanna-partridge,Joanna Partridge,contributor,2
+anchors_stock_market_tag,2020,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_stock_market_tag,2020,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,4
+anchors_stock_market_tag,2020,profile/kateconnolly,Kate Connolly,contributor,1
+anchors_stock_market_tag,2020,profile/larryelliott,Larry Elliott,contributor,1
+anchors_stock_market_tag,2020,profile/lisaocarroll,Lisa O’Carroll,contributor,1
+anchors_stock_market_tag,2020,profile/marksweney,Mark Sweney,contributor,1
+anchors_stock_market_tag,2020,profile/martinfarrer,Martin Farrer,contributor,1
+anchors_stock_market_tag,2020,profile/nilspratley,Nils Pratley,contributor,1
+anchors_stock_market_tag,2020,profile/patrickcollinson,Patrick Collinson,contributor,2
+anchors_stock_market_tag,2020,profile/phillipinman,Phillip Inman,contributor,2
+anchors_stock_market_tag,2020,profile/richard-partington,Richard Partington,contributor,4
+anchors_stock_market_tag,2020,profile/rob-davies,Rob Davies,contributor,3
+anchors_stock_market_tag,2020,profile/sarahbutler,Sarah Butler,contributor,3
+anchors_stock_market_tag,2020,publication/theguardian,The Guardian,publication,3
+anchors_stock_market_tag,2020,publication/theobserver,The Observer archive,publication,1
+anchors_stock_market_tag,2020,science/infectiousdiseases,Infectious diseases,keyword,1
+anchors_stock_market_tag,2020,science/science,Science,keyword,1
+anchors_stock_market_tag,2020,theguardian/mainsection,Main section,newspaper-book,3
+anchors_stock_market_tag,2020,theguardian/mainsection/financial3,Business,newspaper-book-section,1
+anchors_stock_market_tag,2020,theguardian/mainsection/topstories,Top stories,newspaper-book-section,1
+anchors_stock_market_tag,2020,theguardian/mainsection/uknews,UK news,newspaper-book-section,1
+anchors_stock_market_tag,2020,theobserver/news,Main section,newspaper-book,1
+anchors_stock_market_tag,2020,theobserver/news/business,Business,newspaper-book-section,1
+anchors_stock_market_tag,2020,tone/comment,Comment,tone,1
+anchors_stock_market_tag,2020,tone/features,Features,tone,1
+anchors_stock_market_tag,2020,tone/minutebyminute,Minute by minute,tone,5
+anchors_stock_market_tag,2020,tone/news,News,tone,8
+anchors_stock_market_tag,2020,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,1
+anchors_stock_market_tag,2020,tracking/commissioningdesk/uk-business,UK Business,tracking,10
+anchors_stock_market_tag,2020,type/article,Article,type,11
+anchors_stock_market_tag,2020,uk/uk,UK news,keyword,7
+anchors_stock_market_tag,2020,world/asia-pacific,Asia Pacific,keyword,1
+anchors_stock_market_tag,2020,world/china,China,keyword,1
+anchors_stock_market_tag,2020,world/coronavirus-outbreak,Coronavirus,keyword,11
+anchors_stock_market_tag,2020,world/europe-news,Europe,keyword,1
+anchors_stock_market_tag,2020,world/world,World news,keyword,2
+anchors_stock_market_tag,2026,business/barclay,Barclays,keyword,1
+anchors_stock_market_tag,2026,business/bonds,Bonds,keyword,1
+anchors_stock_market_tag,2026,business/business,Business,keyword,5
+anchors_stock_market_tag,2026,business/commodities,Commodities,keyword,2
+anchors_stock_market_tag,2026,business/currencies,Currencies,keyword,2
+anchors_stock_market_tag,2026,business/ftse,FTSE,keyword,1
+anchors_stock_market_tag,2026,business/ipos,IPOs,keyword,1
+anchors_stock_market_tag,2026,business/series/guardian-business-live,Business live,series,3
+anchors_stock_market_tag,2026,business/stock-markets,Stock markets,keyword,5
+anchors_stock_market_tag,2026,business/technology,Technology sector,keyword,2
+anchors_stock_market_tag,2026,campaign/email/breaking-news-australia,Breaking News Australia (newsletter signup),campaign,1
+anchors_stock_market_tag,2026,campaign/email/business-today,Business Today (newsletter signup),campaign,1
+anchors_stock_market_tag,2026,profile/aletha-adu,Aletha Adu,contributor,1
+anchors_stock_market_tag,2026,profile/gwyntopham,Gwyn Topham,contributor,1
+anchors_stock_market_tag,2026,profile/juliakollewe,Julia Kollewe,contributor,2
+anchors_stock_market_tag,2026,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,1
+anchors_stock_market_tag,2026,profile/lauren-almeida,Lauren Almeida,contributor,2
+anchors_stock_market_tag,2026,profile/lorenzo-tondo,Lorenzo Tondo,contributor,2
+anchors_stock_market_tag,2026,profile/marksweney,Mark Sweney,contributor,1
+anchors_stock_market_tag,2026,profile/patrick-commins,Patrick Commins,contributor,1
+anchors_stock_market_tag,2026,profile/richard-partington,Richard Partington,contributor,1
+anchors_stock_market_tag,2026,profile/sarahbutler,Sarah Butler,contributor,1
+anchors_stock_market_tag,2026,science/spacex,SpaceX,keyword,1
+anchors_stock_market_tag,2026,technology/anthropic,Anthropic,keyword,1
+anchors_stock_market_tag,2026,technology/artificialintelligenceai,AI (artificial intelligence),keyword,2
+anchors_stock_market_tag,2026,technology/elon-musk,Elon Musk,keyword,1
+anchors_stock_market_tag,2026,technology/technology,Technology,keyword,1
+anchors_stock_market_tag,2026,tone/analysis,Analysis,tone,1
+anchors_stock_market_tag,2026,tone/minutebyminute,Minute by minute,tone,3
+anchors_stock_market_tag,2026,tone/news,News,tone,4
+anchors_stock_market_tag,2026,tracking/audience/au,Au,tracking,1
+anchors_stock_market_tag,2026,tracking/audience/global,Global,tracking,1
+anchors_stock_market_tag,2026,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+anchors_stock_market_tag,2026,tracking/commissioningdesk/uk-business,UK Business,tracking,4
+anchors_stock_market_tag,2026,type/article,Article,type,5
+anchors_stock_market_tag,2026,uk/uk,UK news,keyword,1
+anchors_stock_market_tag,2026,us-news/us-news,US news,keyword,1
+anchors_stock_market_tag,2026,world/world,World news,keyword,1
+anchors_us_office,2017,business/business,Business,keyword,1
+anchors_us_office,2017,commentisfree/commentisfree,Opinion,blog,2
+anchors_us_office,2017,environment/carbon-emissions,Greenhouse gas emissions,keyword,1
+anchors_us_office,2017,environment/carbonfootprints,Carbon footprints,keyword,1
+anchors_us_office,2017,environment/climate-crisis,Climate crisis,keyword,1
+anchors_us_office,2017,environment/cop-21-un-climate-change-conference-paris,COP 21: Paris climate change conference 2015,keyword,1
+anchors_us_office,2017,environment/environment,Environment,keyword,1
+anchors_us_office,2017,environment/epa,US Environmental Protection Agency,keyword,1
+anchors_us_office,2017,environment/global-climate-talks,Global climate talks,keyword,1
+anchors_us_office,2017,environment/paris-climate-agreement,Paris climate agreement,keyword,1
+anchors_us_office,2017,film/golden-globes-2017,Golden Globes 2017,keyword,1
+anchors_us_office,2017,money/money,Money,keyword,1
+anchors_us_office,2017,profile/alan-yuhas,Alan Yuhas,contributor,2
+anchors_us_office,2017,profile/carol-j-clouse,CJ Clouse,contributor,1
+anchors_us_office,2017,profile/cornel-west,Cornel West,contributor,1
+anchors_us_office,2017,profile/frances-robinson,Frances Robinson,contributor,1
+anchors_us_office,2017,profile/keeanga-yamahtta-taylor,Keeanga-Yamahtta Taylor,contributor,1
+anchors_us_office,2017,profile/lauren-gambino,Lauren Gambino,contributor,1
+anchors_us_office,2017,profile/nicole-puglise,Nicole Puglise,contributor,1
+anchors_us_office,2017,profile/spencerackerman,Spencer Ackerman,contributor,2
+anchors_us_office,2017,publication/theguardian,The Guardian,publication,1
+anchors_us_office,2017,science/psychology,Psychology,keyword,1
+anchors_us_office,2017,science/science,Science,keyword,1
+anchors_us_office,2017,science/space,Space,keyword,1
+anchors_us_office,2017,science/spacex,SpaceX,keyword,1
+anchors_us_office,2017,society/society,Society,keyword,1
+anchors_us_office,2017,sustainable-business/series/the-new-bottom-line,The new bottom line,series,1
+anchors_us_office,2017,sustainable-business/sustainable-business,Guardian sustainable business,keyword,1
+anchors_us_office,2017,technology/elon-musk,Elon Musk,keyword,1
+anchors_us_office,2017,technology/hacking,Hacking,keyword,1
+anchors_us_office,2017,technology/technology,Technology,keyword,1
+anchors_us_office,2017,theguardian/mainsection,Main section,newspaper-book,1
+anchors_us_office,2017,theguardian/mainsection/topstories,Top stories,newspaper-book-section,1
+anchors_us_office,2017,tone/comment,Comment,tone,2
+anchors_us_office,2017,tone/features,Features,tone,1
+anchors_us_office,2017,tone/news,News,tone,6
+anchors_us_office,2017,tracking/commissioningdesk/us-features,US Features,tracking,1
+anchors_us_office,2017,tracking/commissioningdesk/us-news,US News,tracking,5
+anchors_us_office,2017,tracking/commissioningdesk/us-opinion,US Opinion,tracking,2
+anchors_us_office,2017,tracking/commissioningdesk/us-sponsored-content,US Sponsored Content,tracking,1
+anchors_us_office,2017,tracking/commissioningdesk/us-tech,US Tech,tracking,1
+anchors_us_office,2017,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,2
+anchors_us_office,2017,type/article,Article,type,9
+anchors_us_office,2017,us-news/barack-obama,Barack Obama,keyword,2
+anchors_us_office,2017,us-news/california,California,keyword,1
+anchors_us_office,2017,us-news/donaldtrump,Donald Trump,keyword,4
+anchors_us_office,2017,us-news/fbi,FBI,keyword,1
+anchors_us_office,2017,us-news/ivanka-trump,Ivanka Trump,keyword,1
+anchors_us_office,2017,us-news/james-comey,James Comey,keyword,1
+anchors_us_office,2017,us-news/jared-kushner,Jared Kushner,keyword,1
+anchors_us_office,2017,us-news/series/guardian-us-briefing,First Thing newsletter,series,1
+anchors_us_office,2017,us-news/series/the-obama-legacy,The Obama legacy,series,1
+anchors_us_office,2017,us-news/trump-administration,Trump administration,keyword,3
+anchors_us_office,2017,us-news/us-congress,US Congress,keyword,1
+anchors_us_office,2017,us-news/us-news,US news,keyword,7
+anchors_us_office,2017,us-news/us-politics,US politics,keyword,4
+anchors_us_office,2017,us-news/us-senate,US Senate,keyword,1
+anchors_us_office,2017,world/black-lives-matter-movement,Black Lives Matter movement,keyword,1
+anchors_us_office,2017,world/race,Race,keyword,1
+anchors_us_office,2017,world/russia,Russia,keyword,2
+anchors_us_office,2017,world/world,World news,keyword,2
+anchors_us_office,2020,business/bankofenglandgovernor,Bank of England,keyword,1
+anchors_us_office,2020,business/business,Business,keyword,2
+anchors_us_office,2020,business/federal-reserve,Federal Reserve,keyword,1
+anchors_us_office,2020,business/us-small-business,US small business,keyword,1
+anchors_us_office,2020,business/useconomy,US economy,keyword,1
+anchors_us_office,2020,commentisfree/commentisfree,Opinion,blog,3
+anchors_us_office,2020,media/media,Media,keyword,1
+anchors_us_office,2020,media/news-corporation,News Corporation,keyword,1
+anchors_us_office,2020,profile/adam-gabbatt,Adam Gabbatt,contributor,1
+anchors_us_office,2020,profile/adam-gaffney,Adam Gaffney,contributor,1
+anchors_us_office,2020,profile/bryan-armen-graham,Bryan Armen Graham,contributor,1
+anchors_us_office,2020,profile/davidsmith,David Smith,contributor,3
+anchors_us_office,2020,profile/dominic-rushe,Dominic Rushe,contributor,1
+anchors_us_office,2020,profile/edwardhelmore,Edward Helmore,contributor,2
+anchors_us_office,2020,profile/gene-marks,Gene Marks,contributor,1
+anchors_us_office,2020,profile/graemewearden,Graeme Wearden,contributor,1
+anchors_us_office,2020,profile/jessica-glenza,Jessica Glenza,contributor,2
+anchors_us_office,2020,profile/joan-greve,Joan E Greve,contributor,2
+anchors_us_office,2020,profile/joannawalters,Joanna Walters,contributor,2
+anchors_us_office,2020,profile/lauren-aratani,Lauren Aratani,contributor,1
+anchors_us_office,2020,profile/lauren-gambino,Lauren Gambino,contributor,1
+anchors_us_office,2020,profile/leyland-cecco,Leyland Cecco,contributor,1
+anchors_us_office,2020,profile/maanvi-singh,Maanvi Singh,contributor,3
+anchors_us_office,2020,profile/martin-belam,Martin Belam,contributor,2
+anchors_us_office,2020,profile/matt-stoller,Matt Stoller,contributor,1
+anchors_us_office,2020,profile/nina-lakhani,Nina Lakhani,contributor,1
+anchors_us_office,2020,profile/richardluscombe,Richard Luscombe,contributor,1
+anchors_us_office,2020,profile/victoria-bekiempis,Victoria Bekiempis,contributor,1
+anchors_us_office,2020,profile/wilson-jason,Jason Wilson,contributor,1
+anchors_us_office,2020,publication/theguardian,The Guardian,publication,1
+anchors_us_office,2020,science/infectiousdiseases,Infectious diseases,keyword,5
+anchors_us_office,2020,science/mathematics,Mathematics,keyword,1
+anchors_us_office,2020,science/medical-research,Medical research,keyword,1
+anchors_us_office,2020,science/microbiology,Microbiology,keyword,2
+anchors_us_office,2020,science/science,Science,keyword,2
+anchors_us_office,2020,society/health,Health,keyword,1
+anchors_us_office,2020,society/society,Society,keyword,1
+anchors_us_office,2020,theguardian/mainsection,Main section,newspaper-book,1
+anchors_us_office,2020,theguardian/mainsection/financial3,Business,newspaper-book-section,1
+anchors_us_office,2020,tone/comment,Comment,tone,4
+anchors_us_office,2020,tone/features,Features,tone,3
+anchors_us_office,2020,tone/minutebyminute,Minute by minute,tone,4
+anchors_us_office,2020,tone/news,News,tone,8
+anchors_us_office,2020,tracking/commissioningdesk/uk-foreign,UK Foreign,tracking,2
+anchors_us_office,2020,tracking/commissioningdesk/us-business,US Business,tracking,2
+anchors_us_office,2020,tracking/commissioningdesk/us-foreign,US Foreign,tracking,1
+anchors_us_office,2020,tracking/commissioningdesk/us-news,US News,tracking,10
+anchors_us_office,2020,tracking/commissioningdesk/us-opinion,US Opinion,tracking,3
+anchors_us_office,2020,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,1
+anchors_us_office,2020,travel/cruises,Cruises,keyword,1
+anchors_us_office,2020,type/article,Article,type,16
+anchors_us_office,2020,us-news/bernie-sanders,Bernie Sanders,keyword,2
+anchors_us_office,2020,us-news/california,California,keyword,1
+anchors_us_office,2020,us-news/connecticut,Connecticut,keyword,1
+anchors_us_office,2020,us-news/democrats,Democrats,keyword,1
+anchors_us_office,2020,us-news/donaldtrump,Donald Trump,keyword,6
+anchors_us_office,2020,us-news/illinois,Illinois,keyword,1
+anchors_us_office,2020,us-news/joebiden,Joe Biden,keyword,2
+anchors_us_office,2020,us-news/nancy-pelosi,Nancy Pelosi,keyword,1
+anchors_us_office,2020,us-news/new-york,New York,keyword,3
+anchors_us_office,2020,us-news/series/us-politics-live,US politics live,series,2
+anchors_us_office,2020,us-news/series/us-politics-live-with-joan-e-greve,US politics live with Joan E Greve,series,2
+anchors_us_office,2020,us-news/trump-administration,Trump administration,keyword,4
+anchors_us_office,2020,us-news/us-elections-2020,US elections 2020,keyword,2
+anchors_us_office,2020,us-news/us-news,US news,keyword,13
+anchors_us_office,2020,us-news/us-political-lobbying,US political lobbying,keyword,1
+anchors_us_office,2020,us-news/us-politics,US politics,keyword,8
+anchors_us_office,2020,world/air-transport,Air transport,keyword,1
+anchors_us_office,2020,world/coronavirus-outbreak,Coronavirus,keyword,16
+anchors_us_office,2020,world/far-right,The far right,keyword,1
+anchors_us_office,2020,world/world,World news,keyword,6
+anchors_us_office,2026,business/aerospace-industry,Aerospace industry,keyword,1
+anchors_us_office,2026,business/automotive-industry,Automotive industry,keyword,1
+anchors_us_office,2026,business/business,Business,keyword,3
+anchors_us_office,2026,business/economics,Economics,keyword,1
+anchors_us_office,2026,business/job-losses,Job losses,keyword,1
+anchors_us_office,2026,business/oil,Oil,keyword,1
+anchors_us_office,2026,business/quarterly-results,Quarterly results,keyword,2
+anchors_us_office,2026,business/technology,Technology sector,keyword,2
+anchors_us_office,2026,business/useconomy,US economy,keyword,1
+anchors_us_office,2026,campaign/email/how-we-win,How we win,campaign,1
+anchors_us_office,2026,campaign/email/tech-scape,TechScape (newsletter signup),campaign,2
+anchors_us_office,2026,campaign/email/the-stakes-2026,The Stakes 2026 (newsletter sign up),campaign,1
+anchors_us_office,2026,commentisfree/commentisfree,Opinion,blog,1
+anchors_us_office,2026,news/the-super-rich,The super-rich,keyword,1
+anchors_us_office,2026,profile/ariana-baio,Ariana Baio,contributor,2
+anchors_us_office,2026,profile/chris-stein,Chris Stein,contributor,2
+anchors_us_office,2026,profile/dara-kerr,Dara Kerr,contributor,1
+anchors_us_office,2026,profile/davidsmith,David Smith,contributor,2
+anchors_us_office,2026,profile/debbie-carlson,Debbie Carlson,contributor,1
+anchors_us_office,2026,profile/fran-lawther,Fran Lawther,contributor,1
+anchors_us_office,2026,profile/frances-mao,Frances Mao,contributor,2
+anchors_us_office,2026,profile/george-chidi,George Chidi,contributor,1
+anchors_us_office,2026,profile/jeremy-barr,Jeremy Barr,contributor,1
+anchors_us_office,2026,profile/lucy-campbell,Lucy Campbell,contributor,1
+anchors_us_office,2026,profile/marina-dunbar,Marina Dunbar,contributor,1
+anchors_us_office,2026,profile/nick-robins-early,Nick Robins-Early,contributor,1
+anchors_us_office,2026,profile/robert-mackey,Robert Mackey,contributor,2
+anchors_us_office,2026,profile/sam-levine,Sam Levine,contributor,1
+anchors_us_office,2026,profile/shrai-popat,Shrai Popat,contributor,2
+anchors_us_office,2026,profile/sidneyblumenthal,Sidney Blumenthal,contributor,1
+anchors_us_office,2026,profile/uwa-ede-osifo,Uwa Ede-Osifo,contributor,1
+anchors_us_office,2026,profile/wilson-jason,Jason Wilson,contributor,1
+anchors_us_office,2026,publication/theguardian,The Guardian,publication,1
+anchors_us_office,2026,science/satellites,Satellites,keyword,1
+anchors_us_office,2026,science/science,Science,keyword,1
+anchors_us_office,2026,science/spacex,SpaceX,keyword,2
+anchors_us_office,2026,society/hospitals,Hospitals,keyword,1
+anchors_us_office,2026,society/sex-trafficking,Sex trafficking,keyword,1
+anchors_us_office,2026,technology/artificialintelligenceai,AI (artificial intelligence),keyword,1
+anchors_us_office,2026,technology/computing,Computing,keyword,1
+anchors_us_office,2026,technology/elon-musk,Elon Musk,keyword,3
+anchors_us_office,2026,technology/mergers-acquisitions,"Mergers, acquisitions and funding",keyword,1
+anchors_us_office,2026,technology/robots,Robots,keyword,1
+anchors_us_office,2026,technology/self-driving-cars,Self-driving cars,keyword,1
+anchors_us_office,2026,technology/series/reworked,Reworked,series,1
+anchors_us_office,2026,technology/technology,Technology,keyword,3
+anchors_us_office,2026,technology/tesla,Tesla,keyword,1
+anchors_us_office,2026,theguardian/mainsection,Main section,newspaper-book,1
+anchors_us_office,2026,theguardian/mainsection/financial3,Business,newspaper-book-section,1
+anchors_us_office,2026,tone/comment,Comment,tone,2
+anchors_us_office,2026,tone/features,Features,tone,1
+anchors_us_office,2026,tone/minutebyminute,Minute by minute,tone,2
+anchors_us_office,2026,tone/news,News,tone,7
+anchors_us_office,2026,tracking/audience/global,Global,tracking,6
+anchors_us_office,2026,tracking/audience/us,US,tracking,5
+anchors_us_office,2026,tracking/commissioningdesk/us-business,US Business,tracking,1
+anchors_us_office,2026,tracking/commissioningdesk/us-investigations,US investigations,tracking,1
+anchors_us_office,2026,tracking/commissioningdesk/us-news,US News,tracking,3
+anchors_us_office,2026,tracking/commissioningdesk/us-opinion,US Opinion,tracking,1
+anchors_us_office,2026,tracking/commissioningdesk/us-tech,US Tech,tracking,3
+anchors_us_office,2026,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,5
+anchors_us_office,2026,type/article,Article,type,10
+anchors_us_office,2026,us-news/democrats,Democrats,keyword,2
+anchors_us_office,2026,us-news/donaldtrump,Donald Trump,keyword,5
+anchors_us_office,2026,us-news/jeffrey-epstein,Jeffrey Epstein,keyword,1
+anchors_us_office,2026,us-news/missouri,Missouri,keyword,1
+anchors_us_office,2026,us-news/new-york,New York,keyword,1
+anchors_us_office,2026,us-news/ohio,Ohio,keyword,2
+anchors_us_office,2026,us-news/republicans,Republicans,keyword,2
+anchors_us_office,2026,us-news/series/us-politics-live,US politics live,series,2
+anchors_us_office,2026,us-news/series/us-politics-live-with-shrai-popat,US politics live with Shrai Popat,series,2
+anchors_us_office,2026,us-news/texas,Texas,keyword,1
+anchors_us_office,2026,us-news/trump-administration,Trump administration,keyword,2
+anchors_us_office,2026,us-news/us-foreign-policy,US foreign policy,keyword,2
+anchors_us_office,2026,us-news/us-gas-prices,US gas prices,keyword,1
+anchors_us_office,2026,us-news/us-midterm-elections-2026,US midterm elections 2026,keyword,4
+anchors_us_office,2026,us-news/us-news,US news,keyword,8
+anchors_us_office,2026,us-news/us-politics,US politics,keyword,6
+anchors_us_office,2026,us-news/vivek-ramaswamy,Vivek Ramaswamy,keyword,1
+anchors_us_office,2026,world/europe-news,Europe,keyword,1
+anchors_us_office,2026,world/russia,Russia,keyword,2
+anchors_us_office,2026,world/ukraine,Ukraine,keyword,2
+anchors_us_office,2026,world/vladimir-putin,Vladimir Putin,keyword,2
+anchors_us_office,2026,world/volodymyr-zelenskiy,Volodymyr Zelenskyy,keyword,2
+anchors_us_office,2026,world/world,World news,keyword,2
+broad_business_control,2017,business/business,Business,keyword,8
+broad_business_control,2017,business/currencies,Currencies,keyword,4
+broad_business_control,2017,business/davos-2017,Davos 2017,keyword,2
+broad_business_control,2017,business/debenhams,Debenhams,keyword,1
+broad_business_control,2017,business/dollar,Dollar,keyword,1
+broad_business_control,2017,business/dowjones,Dow Jones,keyword,1
+broad_business_control,2017,business/economics,Economics,keyword,3
+broad_business_control,2017,business/ftse,FTSE,keyword,5
+broad_business_control,2017,business/marksspencer,Marks & Spencer,keyword,2
+broad_business_control,2017,business/nils-pratley-on-finance,Nils Pratley on finance,blog,1
+broad_business_control,2017,business/retail,Retail industry,keyword,2
+broad_business_control,2017,business/series/eurozone-crisis-live,Eurozone crisis live,series,4
+broad_business_control,2017,business/series/guardian-business-live,Business live,series,5
+broad_business_control,2017,business/sterling,Sterling,keyword,4
+broad_business_control,2017,business/stock-markets,Stock markets,keyword,7
+broad_business_control,2017,business/supermarkets,Supermarkets,keyword,2
+broad_business_control,2017,business/tesco,Tesco,keyword,2
+broad_business_control,2017,business/useconomy,US economy,keyword,1
+broad_business_control,2017,money/money,Money,keyword,1
+broad_business_control,2017,money/moneyinvestments,Investments,keyword,1
+broad_business_control,2017,money/shares,Shares,keyword,1
+broad_business_control,2017,politics/eu-referendum,Brexit,keyword,1
+broad_business_control,2017,politics/politics,Politics,keyword,1
+broad_business_control,2017,profile/angela-monaghan,Angela Monaghan,contributor,1
+broad_business_control,2017,profile/graemewearden,Graeme Wearden,contributor,4
+broad_business_control,2017,profile/jilltreanor,Jill Treanor,contributor,1
+broad_business_control,2017,profile/juliakollewe,Julia Kollewe,contributor,2
+broad_business_control,2017,profile/nickfletcher,Nick Fletcher,contributor,7
+broad_business_control,2017,profile/nilspratley,Nils Pratley,contributor,1
+broad_business_control,2017,profile/sarahbutler,Sarah Butler,contributor,1
+broad_business_control,2017,publication/theguardian,The Guardian,publication,3
+broad_business_control,2017,theguardian/mainsection,Main section,newspaper-book,3
+broad_business_control,2017,theguardian/mainsection/financial3,Business,newspaper-book-section,3
+broad_business_control,2017,tone/blog,Blogposts,tone,5
+broad_business_control,2017,tone/comment,Comment,tone,1
+broad_business_control,2017,tone/minutebyminute,Minute by minute,tone,5
+broad_business_control,2017,tone/news,News,tone,2
+broad_business_control,2017,tracking/commissioningdesk/uk-business,UK Business,tracking,8
+broad_business_control,2017,type/article,Article,type,8
+broad_business_control,2017,uk/uk,UK news,keyword,1
+broad_business_control,2017,us-news/us-news,US news,keyword,1
+broad_business_control,2017,world/china,China,keyword,1
+broad_business_control,2020,australia-news/anz,ANZ,keyword,1
+broad_business_control,2020,australia-news/australia-news,Australia news,keyword,2
+broad_business_control,2020,australia-news/business-australia,Business,keyword,1
+broad_business_control,2020,australia-news/crown-resorts,Crown Resorts,keyword,1
+broad_business_control,2020,australia-news/national-australia-bank,National Australia Bank,keyword,1
+broad_business_control,2020,australia-news/westpac,Westpac,keyword,1
+broad_business_control,2020,business/airbus,Airbus,keyword,1
+broad_business_control,2020,business/andrew-bailey,Andrew Bailey,keyword,1
+broad_business_control,2020,business/australia-economy,Australian economy,keyword,1
+broad_business_control,2020,business/banking,Banking,keyword,1
+broad_business_control,2020,business/bankofenglandgovernor,Bank of England,keyword,4
+broad_business_control,2020,business/bonds,Bonds,keyword,1
+broad_business_control,2020,business/britishairways,British Airways,keyword,2
+broad_business_control,2020,business/business,Business,keyword,16
+broad_business_control,2020,business/commercial-property,Commercial property,keyword,1
+broad_business_control,2020,business/compassgroup,Compass,keyword,1
+broad_business_control,2020,business/consumerspending,Consumer spending,keyword,1
+broad_business_control,2020,business/currencies,Currencies,keyword,2
+broad_business_control,2020,business/debt-crisis,Eurozone crisis,keyword,1
+broad_business_control,2020,business/easyjet,easyJet,keyword,1
+broad_business_control,2020,business/economicgrowth,Economic growth (GDP),keyword,1
+broad_business_control,2020,business/economics,Economics,keyword,10
+broad_business_control,2020,business/european-central-bank,European Central Bank,keyword,1
+broad_business_control,2020,business/federal-reserve,Federal Reserve,keyword,3
+broad_business_control,2020,business/financial-crisis,Financial crisis,keyword,1
+broad_business_control,2020,business/financial-sector,Financial sector,keyword,1
+broad_business_control,2020,business/fishing-industry,Fishing industry,keyword,1
+broad_business_control,2020,business/fooddrinks,Food & drink industry,keyword,1
+broad_business_control,2020,business/ftse,FTSE,keyword,6
+broad_business_control,2020,business/global-economy,Global economy,keyword,1
+broad_business_control,2020,business/healthcare,Healthcare industry,keyword,1
+broad_business_control,2020,business/interest-rates,Interest rates,keyword,1
+broad_business_control,2020,business/john-maynard-keynes,John Maynard Keynes,keyword,1
+broad_business_control,2020,business/marksspencer,Marks & Spencer,keyword,2
+broad_business_control,2020,business/nils-pratley-on-finance,Nils Pratley on finance,blog,2
+broad_business_control,2020,business/oil,Oil,keyword,1
+broad_business_control,2020,business/paddy-power,Paddy Power,keyword,1
+broad_business_control,2020,business/paddy-power-betfair,Paddy Power Betfair,keyword,1
+broad_business_control,2020,business/qantas,Qantas,keyword,1
+broad_business_control,2020,business/realestate,Real estate,keyword,1
+broad_business_control,2020,business/recession,Recession,keyword,1
+broad_business_control,2020,business/regulators,Regulators,keyword,1
+broad_business_control,2020,business/retail,Retail industry,keyword,3
+broad_business_control,2020,business/ryanair,Ryanair,keyword,2
+broad_business_control,2020,business/series/economicsmonday,Economics viewpoint,series,1
+broad_business_control,2020,business/series/guardian-business-live,Business live,series,5
+broad_business_control,2020,business/shortselling,Short-selling,keyword,1
+broad_business_control,2020,business/stock-markets,Stock markets,keyword,10
+broad_business_control,2020,business/supermarkets,Supermarkets,keyword,1
+broad_business_control,2020,business/theairlineindustry,Airline industry,keyword,3
+broad_business_control,2020,business/travelleisure,Travel & leisure,keyword,2
+broad_business_control,2020,business/tuitravel,Tui Travel,keyword,1
+broad_business_control,2020,business/us-small-business,US small business,keyword,1
+broad_business_control,2020,business/useconomy,US economy,keyword,4
+broad_business_control,2020,business/virgin-australia,Virgin Australia,keyword,1
+broad_business_control,2020,business/whsmith,WH Smith,keyword,1
+broad_business_control,2020,business/willie-walsh,Willie Walsh,keyword,1
+broad_business_control,2020,campaign/callout/callout-coronavirus,callout-coronavirus,campaign,1
+broad_business_control,2020,environment/environment,Environment,keyword,1
+broad_business_control,2020,environment/fish,Fish,keyword,1
+broad_business_control,2020,money/consumer-affairs,Consumer affairs,keyword,1
+broad_business_control,2020,money/online-shopping,Online shopping,keyword,1
+broad_business_control,2020,news/commonwealth-bank,Commonwealth Bank,keyword,1
+broad_business_control,2020,politics/economy,Economic policy,keyword,1
+broad_business_control,2020,politics/politics,Politics,keyword,1
+broad_business_control,2020,politics/rishi-sunak,Rishi Sunak,keyword,1
+broad_business_control,2020,profile/alex-hern,Alex Hern,contributor,1
+broad_business_control,2020,profile/angela-monaghan,Angela Monaghan,contributor,3
+broad_business_control,2020,profile/ben-butler,Ben Butler,contributor,1
+broad_business_control,2020,profile/damiancarrington,Damian Carrington,contributor,1
+broad_business_control,2020,profile/dominic-rushe,Dominic Rushe,contributor,5
+broad_business_control,2020,profile/gene-marks,Gene Marks,contributor,1
+broad_business_control,2020,profile/graemewearden,Graeme Wearden,contributor,4
+broad_business_control,2020,profile/gwyntopham,Gwyn Topham,contributor,4
+broad_business_control,2020,profile/hilaryosborne,Hilary Osborne,contributor,2
+broad_business_control,2020,profile/jasper-jolly,Jasper Jolly,contributor,2
+broad_business_control,2020,profile/jennifer-rankin,Jennifer Rankin,contributor,2
+broad_business_control,2020,profile/jillian-ambrose,Jillian Ambrose,contributor,2
+broad_business_control,2020,profile/joanna-partridge,Joanna Partridge,contributor,3
+broad_business_control,2020,profile/juliakollewe,Julia Kollewe,contributor,2
+broad_business_control,2020,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,5
+broad_business_control,2020,profile/kateconnolly,Kate Connolly,contributor,1
+broad_business_control,2020,profile/larryelliott,Larry Elliott,contributor,2
+broad_business_control,2020,profile/lisaocarroll,Lisa O’Carroll,contributor,1
+broad_business_control,2020,profile/marksweney,Mark Sweney,contributor,1
+broad_business_control,2020,profile/nilspratley,Nils Pratley,contributor,2
+broad_business_control,2020,profile/patrickcollinson,Patrick Collinson,contributor,2
+broad_business_control,2020,profile/phillipinman,Phillip Inman,contributor,2
+broad_business_control,2020,profile/richard-partington,Richard Partington,contributor,4
+broad_business_control,2020,profile/rob-davies,Rob Davies,contributor,3
+broad_business_control,2020,profile/sarahbutler,Sarah Butler,contributor,3
+broad_business_control,2020,publication/theguardian,The Guardian,publication,6
+broad_business_control,2020,publication/theobserver,The Observer archive,publication,1
+broad_business_control,2020,science/infectiousdiseases,Infectious diseases,keyword,1
+broad_business_control,2020,society/universal-basic-income,Universal basic income,keyword,1
+broad_business_control,2020,technology/amazon,Amazon,keyword,1
+broad_business_control,2020,technology/efinance,E-commerce,keyword,1
+broad_business_control,2020,technology/technology,Technology,keyword,1
+broad_business_control,2020,theguardian/mainsection,Main section,newspaper-book,6
+broad_business_control,2020,theguardian/mainsection/financial3,Business,newspaper-book-section,4
+broad_business_control,2020,theguardian/mainsection/topstories,Top stories,newspaper-book-section,1
+broad_business_control,2020,theguardian/mainsection/uknews,UK news,newspaper-book-section,1
+broad_business_control,2020,theobserver/news,Main section,newspaper-book,1
+broad_business_control,2020,theobserver/news/business,Business,newspaper-book-section,1
+broad_business_control,2020,tone/callout,Callout,tone,1
+broad_business_control,2020,tone/comment,Comment,tone,5
+broad_business_control,2020,tone/features,Features,tone,1
+broad_business_control,2020,tone/minutebyminute,Minute by minute,tone,5
+broad_business_control,2020,tone/news,News,tone,12
+broad_business_control,2020,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+broad_business_control,2020,tracking/commissioningdesk/uk-business,UK Business,tracking,14
+broad_business_control,2020,tracking/commissioningdesk/uk-environment,UK Environment,tracking,1
+broad_business_control,2020,tracking/commissioningdesk/us-business,US Business,tracking,2
+broad_business_control,2020,tracking/commissioningdesk/us-opinion,US Opinion,tracking,1
+broad_business_control,2020,type/article,Article,type,18
+broad_business_control,2020,uk/uk,UK news,keyword,10
+broad_business_control,2020,us-news/donaldtrump,Donald Trump,keyword,1
+broad_business_control,2020,us-news/us-news,US news,keyword,2
+broad_business_control,2020,world/asia-pacific,Asia Pacific,keyword,1
+broad_business_control,2020,world/china,China,keyword,1
+broad_business_control,2020,world/coronavirus-outbreak,Coronavirus,keyword,18
+broad_business_control,2020,world/eu,European Union,keyword,1
+broad_business_control,2020,world/europe-news,Europe,keyword,2
+broad_business_control,2020,world/secondworldwar,Second world war,keyword,1
+broad_business_control,2020,world/world,World news,keyword,4
+broad_business_control,2026,australia-news/australia-news,Australia news,keyword,1
+broad_business_control,2026,australia-news/australian-politics,Australian politics,keyword,1
+broad_business_control,2026,australia-news/business-australia,Business,keyword,1
+broad_business_control,2026,australia-news/interest-rates-australia,Interest rates,keyword,1
+broad_business_control,2026,australia-news/jim-chalmers--australian-politician-,Jim Chalmers,keyword,1
+broad_business_control,2026,australia-news/reserve-bank-of-australia,Reserve Bank of Australia,keyword,1
+broad_business_control,2026,business/aramco,Aramco,keyword,1
+broad_business_control,2026,business/australia-economy,Australian economy,keyword,1
+broad_business_control,2026,business/barclay,Barclays,keyword,1
+broad_business_control,2026,business/bonds,Bonds,keyword,1
+broad_business_control,2026,business/business,Business,keyword,6
+broad_business_control,2026,business/commodities,Commodities,keyword,3
+broad_business_control,2026,business/currencies,Currencies,keyword,2
+broad_business_control,2026,business/energy-industry,Energy industry,keyword,2
+broad_business_control,2026,business/ftse,FTSE,keyword,1
+broad_business_control,2026,business/oil,Oil,keyword,2
+broad_business_control,2026,business/oilandgascompanies,Oil and gas companies,keyword,1
+broad_business_control,2026,business/series/guardian-business-live,Business live,series,3
+broad_business_control,2026,business/stock-markets,Stock markets,keyword,5
+broad_business_control,2026,business/technology,Technology sector,keyword,1
+broad_business_control,2026,business/unemployment-and-employment-statistics-australia,Unemployment,keyword,1
+broad_business_control,2026,campaign/email/breaking-news-australia,Breaking News Australia (newsletter signup),campaign,1
+broad_business_control,2026,campaign/email/business-today,Business Today (newsletter signup),campaign,2
+broad_business_control,2026,campaign/email/politics-really,"Politics, really",campaign,1
+broad_business_control,2026,environment/activism,Environmental activism,keyword,1
+broad_business_control,2026,environment/climate-crisis,Climate crisis,keyword,1
+broad_business_control,2026,environment/environment,Environment,keyword,1
+broad_business_control,2026,environment/greenpeace,Greenpeace,keyword,1
+broad_business_control,2026,politics/labour,Labour,keyword,1
+broad_business_control,2026,politics/politics,Politics,keyword,1
+broad_business_control,2026,profile/aletha-adu,Aletha Adu,contributor,1
+broad_business_control,2026,profile/gwyntopham,Gwyn Topham,contributor,1
+broad_business_control,2026,profile/jillian-ambrose,Jillian Ambrose,contributor,1
+broad_business_control,2026,profile/juliakollewe,Julia Kollewe,contributor,2
+broad_business_control,2026,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,1
+broad_business_control,2026,profile/lauren-almeida,Lauren Almeida,contributor,2
+broad_business_control,2026,profile/lorenzo-tondo,Lorenzo Tondo,contributor,2
+broad_business_control,2026,profile/marksweney,Mark Sweney,contributor,1
+broad_business_control,2026,profile/patrick-commins,Patrick Commins,contributor,2
+broad_business_control,2026,profile/richard-partington,Richard Partington,contributor,1
+broad_business_control,2026,profile/sarahbutler,Sarah Butler,contributor,1
+broad_business_control,2026,publication/theguardian,The Guardian,publication,2
+broad_business_control,2026,technology/artificialintelligenceai,AI (artificial intelligence),keyword,1
+broad_business_control,2026,theguardian/mainsection,Main section,newspaper-book,2
+broad_business_control,2026,theguardian/mainsection/financial3,Business,newspaper-book-section,1
+broad_business_control,2026,theguardian/mainsection/uknews,UK news,newspaper-book-section,1
+broad_business_control,2026,tone/analysis,Analysis,tone,2
+broad_business_control,2026,tone/explainers,Explainers,tone,1
+broad_business_control,2026,tone/minutebyminute,Minute by minute,tone,3
+broad_business_control,2026,tone/news,News,tone,4
+broad_business_control,2026,tracking/audience/au,Au,tracking,1
+broad_business_control,2026,tracking/audience/global,Global,tracking,1
+broad_business_control,2026,tracking/audience/uk,UK,tracking,1
+broad_business_control,2026,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+broad_business_control,2026,tracking/commissioningdesk/australia-politics,Australia Politics,tracking,1
+broad_business_control,2026,tracking/commissioningdesk/uk-business,UK Business,tracking,5
+broad_business_control,2026,type/article,Article,type,7
+broad_business_control,2026,uk/scotland,Scotland,keyword,1
+broad_business_control,2026,uk/uk,UK news,keyword,1
+broad_business_control,2026,world/houthi,Houthis,keyword,1
+broad_business_control,2026,world/middleeast,Middle East and north Africa,keyword,1
+broad_business_control,2026,world/saudiarabia,Saudi Arabia,keyword,1
+broad_business_control,2026,world/strait-of-hormuz,Strait of Hormuz,keyword,1
+geography_and_equity,2017,artanddesign/architecture,Architecture,keyword,1
+geography_and_equity,2017,australia-news/australia-news,Australia news,keyword,1
+geography_and_equity,2017,australia-news/gold-coast,Gold Coast,keyword,1
+geography_and_equity,2017,australia-news/queensland,Queensland,keyword,1
+geography_and_equity,2017,books/books,Books,keyword,3
+geography_and_equity,2017,books/fiction,Fiction,keyword,1
+geography_and_equity,2017,books/hermanmelville,Herman Melville,keyword,1
+geography_and_equity,2017,books/history,History books,keyword,1
+geography_and_equity,2017,books/jgballard,JG Ballard,keyword,1
+geography_and_equity,2017,books/pankaj-mishra,Pankaj Mishra,keyword,1
+geography_and_equity,2017,books/politics,Politics books,keyword,1
+geography_and_equity,2017,books/publishing,Publishing,keyword,1
+geography_and_equity,2017,books/series/books-of-defiance,Books of defiance,series,1
+geography_and_equity,2017,books/short-stories,Short stories,keyword,1
+geography_and_equity,2017,business/austerity,Austerity,keyword,1
+geography_and_equity,2017,business/business,Business,keyword,8
+geography_and_equity,2017,business/chinese-economy,Chinese economy,keyword,1
+geography_and_equity,2017,business/currencies,Currencies,keyword,4
+geography_and_equity,2017,business/davos-2017,Davos 2017,keyword,2
+geography_and_equity,2017,business/debenhams,Debenhams,keyword,1
+geography_and_equity,2017,business/dollar,Dollar,keyword,1
+geography_and_equity,2017,business/dowjones,Dow Jones,keyword,1
+geography_and_equity,2017,business/economics,Economics,keyword,3
+geography_and_equity,2017,business/ftse,FTSE,keyword,4
+geography_and_equity,2017,business/marksspencer,Marks & Spencer,keyword,1
+geography_and_equity,2017,business/retail,Retail industry,keyword,1
+geography_and_equity,2017,business/series/eurozone-crisis-live,Eurozone crisis live,series,4
+geography_and_equity,2017,business/series/guardian-business-live,Business live,series,5
+geography_and_equity,2017,business/sterling,Sterling,keyword,4
+geography_and_equity,2017,business/stock-markets,Stock markets,keyword,6
+geography_and_equity,2017,business/supermarkets,Supermarkets,keyword,1
+geography_and_equity,2017,business/tesco,Tesco,keyword,1
+geography_and_equity,2017,business/useconomy,US economy,keyword,1
+geography_and_equity,2017,cities/cities,Cities,keyword,1
+geography_and_equity,2017,commentisfree/commentisfree,Opinion,blog,5
+geography_and_equity,2017,culture/culture,Culture,keyword,4
+geography_and_equity,2017,education/education,Education,keyword,1
+geography_and_equity,2017,education/plagiarism,Plagiarism,keyword,1
+geography_and_equity,2017,environment/carbon-emissions,Greenhouse gas emissions,keyword,1
+geography_and_equity,2017,environment/carbonfootprints,Carbon footprints,keyword,1
+geography_and_equity,2017,environment/climate-crisis,Climate crisis,keyword,1
+geography_and_equity,2017,environment/cop-21-un-climate-change-conference-paris,COP 21: Paris climate change conference 2015,keyword,1
+geography_and_equity,2017,environment/environment,Environment,keyword,1
+geography_and_equity,2017,environment/epa,US Environmental Protection Agency,keyword,1
+geography_and_equity,2017,environment/global-climate-talks,Global climate talks,keyword,1
+geography_and_equity,2017,environment/paris-climate-agreement,Paris climate agreement,keyword,1
+geography_and_equity,2017,film/golden-globes-2017,Golden Globes 2017,keyword,1
+geography_and_equity,2017,food/food,Food,keyword,1
+geography_and_equity,2017,housing-network/housing-network,Housing Network,keyword,1
+geography_and_equity,2017,inequality/income-inequality,Income inequality,keyword,1
+geography_and_equity,2017,law/human-rights,Human rights,keyword,1
+geography_and_equity,2017,law/law-us,Law (US),keyword,1
+geography_and_equity,2017,law/torture,Torture,keyword,1
+geography_and_equity,2017,lifeandstyle/family,Family,keyword,1
+geography_and_equity,2017,lifeandstyle/lifeandstyle,Life and style,keyword,1
+geography_and_equity,2017,lifeandstyle/series/familylife,Family life,series,1
+geography_and_equity,2017,media/dailymail,Daily Mail,keyword,1
+geography_and_equity,2017,media/greenslade,Greenslade,blog,1
+geography_and_equity,2017,media/media,Media,keyword,2
+geography_and_equity,2017,media/mind-your-language,Mind your language,blog,1
+geography_and_equity,2017,media/national-newspapers,National newspapers,keyword,1
+geography_and_equity,2017,media/newspapers,Newspapers,keyword,1
+geography_and_equity,2017,media/sun,The Sun,keyword,1
+geography_and_equity,2017,media/theguardian,The Guardian,keyword,1
+geography_and_equity,2017,media/trevor-kavanagh,Trevor Kavanagh,keyword,1
+geography_and_equity,2017,money/money,Money,keyword,2
+geography_and_equity,2017,money/moneyinvestments,Investments,keyword,1
+geography_and_equity,2017,money/pay,Pay,keyword,1
+geography_and_equity,2017,money/shares,Shares,keyword,1
+geography_and_equity,2017,music/music,Music,keyword,1
+geography_and_equity,2017,politics/blog,Politics blog,blog,1
+geography_and_equity,2017,politics/boris-johnson,Boris Johnson,keyword,2
+geography_and_equity,2017,politics/chris-bryant,Chris Bryant,keyword,1
+geography_and_equity,2017,politics/economy,Economic policy,keyword,1
+geography_and_equity,2017,politics/eu-referendum,Brexit,keyword,3
+geography_and_equity,2017,politics/foreignpolicy,Foreign policy,keyword,1
+geography_and_equity,2017,politics/jeremy-corbyn,Jeremy Corbyn,keyword,3
+geography_and_equity,2017,politics/labour,Labour,keyword,3
+geography_and_equity,2017,politics/liamfox,Liam Fox,keyword,1
+geography_and_equity,2017,politics/martin-mcguinness,Martin McGuinness,keyword,1
+geography_and_equity,2017,politics/momentum,Momentum,keyword,1
+geography_and_equity,2017,politics/politics,Politics,keyword,5
+geography_and_equity,2017,politics/series/politics-live-with-andrew-sparrow,Politics live with Andrew Sparrow,series,1
+geography_and_equity,2017,profile/alan-yuhas,Alan Yuhas,contributor,2
+geography_and_equity,2017,profile/andrewsparrow,Andrew Sparrow,contributor,1
+geography_and_equity,2017,profile/angela-monaghan,Angela Monaghan,contributor,1
+geography_and_equity,2017,profile/carol-j-clouse,CJ Clouse,contributor,1
+geography_and_equity,2017,profile/cornel-west,Cornel West,contributor,1
+geography_and_equity,2017,profile/damien-gayle,Damien Gayle,contributor,1
+geography_and_equity,2017,profile/danutakean,Danuta Kean,contributor,1
+geography_and_equity,2017,profile/davidsmith,David Smith,contributor,1
+geography_and_equity,2017,profile/frances-robinson,Frances Robinson,contributor,1
+geography_and_equity,2017,profile/graemewearden,Graeme Wearden,contributor,4
+geography_and_equity,2017,profile/henrymcdonald,Henry McDonald,contributor,1
+geography_and_equity,2017,profile/ianjack,Ian Jack,contributor,1
+geography_and_equity,2017,profile/jilltreanor,Jill Treanor,contributor,1
+geography_and_equity,2017,profile/joshua-robertson,Joshua Robertson,contributor,1
+geography_and_equity,2017,profile/juliakollewe,Julia Kollewe,contributor,2
+geography_and_equity,2017,profile/keeanga-yamahtta-taylor,Keeanga-Yamahtta Taylor,contributor,1
+geography_and_equity,2017,profile/lauren-gambino,Lauren Gambino,contributor,1
+geography_and_equity,2017,profile/maraithe-thomas,Maraithe Thomas,contributor,1
+geography_and_equity,2017,profile/marktownsend,Mark Townsend,contributor,1
+geography_and_equity,2017,profile/martinfarrer,Martin Farrer,contributor,1
+geography_and_equity,2017,profile/nickfletcher,Nick Fletcher,contributor,7
+geography_and_equity,2017,profile/nicole-puglise,Nicole Puglise,contributor,1
+geography_and_equity,2017,profile/pankajmishra,Pankaj Mishra,contributor,1
+geography_and_equity,2017,profile/rowena-mason,Rowena Mason,contributor,1
+geography_and_equity,2017,profile/roygreenslade,Roy Greenslade,contributor,1
+geography_and_equity,2017,profile/sarahbutler,Sarah Butler,contributor,1
+geography_and_equity,2017,profile/simonjenkins,Simon Jenkins,contributor,1
+geography_and_equity,2017,profile/spencerackerman,Spencer Ackerman,contributor,2
+geography_and_equity,2017,profile/stuart-kelly,Stuart Kelly,contributor,1
+geography_and_equity,2017,profile/suzannemoore,Suzanne Moore,contributor,1
+geography_and_equity,2017,profile/tomphillips,Tom Phillips,contributor,1
+geography_and_equity,2017,publication/theguardian,The Guardian,publication,10
+geography_and_equity,2017,publication/theobserver,The Observer archive,publication,1
+geography_and_equity,2017,science/psychology,Psychology,keyword,1
+geography_and_equity,2017,science/science,Science,keyword,1
+geography_and_equity,2017,science/space,Space,keyword,1
+geography_and_equity,2017,science/spacex,SpaceX,keyword,1
+geography_and_equity,2017,society/communities,Communities,keyword,1
+geography_and_equity,2017,society/housing,Housing,keyword,1
+geography_and_equity,2017,society/society,Society,keyword,2
+geography_and_equity,2017,sustainable-business/series/the-new-bottom-line,The new bottom line,series,1
+geography_and_equity,2017,sustainable-business/sustainable-business,Guardian sustainable business,keyword,1
+geography_and_equity,2017,technology/elon-musk,Elon Musk,keyword,1
+geography_and_equity,2017,technology/hacking,Hacking,keyword,1
+geography_and_equity,2017,technology/technology,Technology,keyword,1
+geography_and_equity,2017,theguardian/family,Family,newspaper-book,1
+geography_and_equity,2017,theguardian/family/family,Family features,newspaper-book-section,1
+geography_and_equity,2017,theguardian/g2,G2,newspaper-book,1
+geography_and_equity,2017,theguardian/g2/features,Comment & features,newspaper-book-section,1
+geography_and_equity,2017,theguardian/guardianreview,Guardian review,newspaper-book,1
+geography_and_equity,2017,theguardian/guardianreview/saturdayreviewsfeatres,Features & reviews,newspaper-book-section,1
+geography_and_equity,2017,theguardian/mainsection,Main section,newspaper-book,7
+geography_and_equity,2017,theguardian/mainsection/commentanddebate,Comment & debate,newspaper-book-section,2
+geography_and_equity,2017,theguardian/mainsection/editorialsandreply,Editorials & reply,newspaper-book-section,1
+geography_and_equity,2017,theguardian/mainsection/financial3,Business,newspaper-book-section,2
+geography_and_equity,2017,theguardian/mainsection/topstories,Top stories,newspaper-book-section,2
+geography_and_equity,2017,theobserver/news,Main section,newspaper-book,1
+geography_and_equity,2017,theobserver/news/uknews,News,newspaper-book-section,1
+geography_and_equity,2017,tone/blog,Blogposts,tone,8
+geography_and_equity,2017,tone/comment,Comment,tone,8
+geography_and_equity,2017,tone/features,Features,tone,3
+geography_and_equity,2017,tone/letters,Letters,tone,1
+geography_and_equity,2017,tone/minutebyminute,Minute by minute,tone,6
+geography_and_equity,2017,tone/news,News,tone,14
+geography_and_equity,2017,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,3
+geography_and_equity,2017,tracking/commissioningdesk/australia-news,Australia News,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/cities,Cities,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/family,UK Family,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/observer-main,Observer Main,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/review,UK Review,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/uk-business,UK Business,tracking,7
+geography_and_equity,2017,tracking/commissioningdesk/uk-culture,UK Culture,tracking,2
+geography_and_equity,2017,tracking/commissioningdesk/uk-g2-features,UK G2 Features,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/uk-home-news,UK Home News,tracking,3
+geography_and_equity,2017,tracking/commissioningdesk/uk-letters-and-leader-writers,UK Letters and Leader Writers,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/uk-media,UK Media,tracking,2
+geography_and_equity,2017,tracking/commissioningdesk/uk-opinion,UK Opinion,tracking,2
+geography_and_equity,2017,tracking/commissioningdesk/us-features,US Features,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/us-news,US News,tracking,5
+geography_and_equity,2017,tracking/commissioningdesk/us-opinion,US Opinion,tracking,2
+geography_and_equity,2017,tracking/commissioningdesk/us-sponsored-content,US Sponsored Content,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/us-tech,US Tech,tracking,1
+geography_and_equity,2017,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,2
+geography_and_equity,2017,type/article,Article,type,35
+geography_and_equity,2017,uk/northernireland,Northern Ireland,keyword,2
+geography_and_equity,2017,uk/scotland,Scotland,keyword,1
+geography_and_equity,2017,uk/uk,UK news,keyword,6
+geography_and_equity,2017,uk/weather,UK weather,keyword,1
+geography_and_equity,2017,us-news/barack-obama,Barack Obama,keyword,6
+geography_and_equity,2017,us-news/ben-carson,Ben Carson,keyword,1
+geography_and_equity,2017,us-news/california,California,keyword,1
+geography_and_equity,2017,us-news/donald-trump-inauguration,Donald Trump inauguration,keyword,1
+geography_and_equity,2017,us-news/donaldtrump,Donald Trump,keyword,12
+geography_and_equity,2017,us-news/fbi,FBI,keyword,1
+geography_and_equity,2017,us-news/guantanamo-bay,Guantánamo Bay,keyword,1
+geography_and_equity,2017,us-news/ivanka-trump,Ivanka Trump,keyword,1
+geography_and_equity,2017,us-news/james-comey,James Comey,keyword,1
+geography_and_equity,2017,us-news/jared-kushner,Jared Kushner,keyword,1
+geography_and_equity,2017,us-news/obama-administration,Obama administration,keyword,2
+geography_and_equity,2017,us-news/series/guardian-us-briefing,First Thing newsletter,series,1
+geography_and_equity,2017,us-news/series/the-obama-legacy,The Obama legacy,series,1
+geography_and_equity,2017,us-news/trump-administration,Trump administration,keyword,5
+geography_and_equity,2017,us-news/us-congress,US Congress,keyword,1
+geography_and_equity,2017,us-news/us-elections-2016,US elections 2016,keyword,1
+geography_and_equity,2017,us-news/us-foreign-policy,US foreign policy,keyword,1
+geography_and_equity,2017,us-news/us-news,US news,keyword,17
+geography_and_equity,2017,us-news/us-politics,US politics,keyword,8
+geography_and_equity,2017,us-news/us-senate,US Senate,keyword,1
+geography_and_equity,2017,world/1mdb,1MDB,keyword,1
+geography_and_equity,2017,world/amnesty-international,Amnesty International,keyword,1
+geography_and_equity,2017,world/asia-pacific,Asia Pacific,keyword,3
+geography_and_equity,2017,world/black-lives-matter-movement,Black Lives Matter movement,keyword,1
+geography_and_equity,2017,world/china,China,keyword,3
+geography_and_equity,2017,world/espionage,Espionage,keyword,1
+geography_and_equity,2017,world/eu,European Union,keyword,1
+geography_and_equity,2017,world/europe-news,Europe,keyword,2
+geography_and_equity,2017,world/malaysia,Malaysia,keyword,1
+geography_and_equity,2017,world/nuclear-weapons,Nuclear weapons,keyword,1
+geography_and_equity,2017,world/race,Race,keyword,2
+geography_and_equity,2017,world/rendition,Rendition,keyword,1
+geography_and_equity,2017,world/russia,Russia,keyword,4
+geography_and_equity,2017,world/singapore,Singapore,keyword,1
+geography_and_equity,2017,world/snow,Snow,keyword,1
+geography_and_equity,2017,world/taiwan,Taiwan,keyword,1
+geography_and_equity,2017,world/vladimir-putin,Vladimir Putin,keyword,2
+geography_and_equity,2017,world/world,World news,keyword,9
+geography_and_equity,2020,australia-news/anz,ANZ,keyword,1
+geography_and_equity,2020,australia-news/australia-news,Australia news,keyword,15
+geography_and_equity,2020,australia-news/australian-politics,Australian politics,keyword,5
+geography_and_equity,2020,australia-news/banking,Banking ,keyword,1
+geography_and_equity,2020,australia-news/business-australia,Business,keyword,2
+geography_and_equity,2020,australia-news/coalition,Coalition,keyword,3
+geography_and_equity,2020,australia-news/crown-resorts,Crown Resorts,keyword,1
+geography_and_equity,2020,australia-news/gladys-berejiklian,Gladys Berejiklian,keyword,1
+geography_and_equity,2020,australia-news/health,Health,keyword,9
+geography_and_equity,2020,australia-news/josh-frydenberg,Josh Frydenberg,keyword,1
+geography_and_equity,2020,australia-news/labor-party,Labor party,keyword,1
+geography_and_equity,2020,australia-news/mathias-cormann,Mathias Cormann,keyword,1
+geography_and_equity,2020,australia-news/national-australia-bank,National Australia Bank,keyword,1
+geography_and_equity,2020,australia-news/national-party,National party,keyword,1
+geography_and_equity,2020,australia-news/new-south-wales,New South Wales,keyword,3
+geography_and_equity,2020,australia-news/new-south-wales-politics,New South Wales politics,keyword,1
+geography_and_equity,2020,australia-news/queensland,Queensland,keyword,1
+geography_and_equity,2020,australia-news/scott-morrison,Scott Morrison,keyword,2
+geography_and_equity,2020,australia-news/series/guardian-australia-s-morning-mail,Morning mail newsletter,series,1
+geography_and_equity,2020,australia-news/simon-birmingham,Simon Birmingham,keyword,1
+geography_and_equity,2020,australia-news/south-australia,South Australia,keyword,1
+geography_and_equity,2020,australia-news/sydney,Sydney,keyword,2
+geography_and_equity,2020,australia-news/victoria,Victoria,keyword,1
+geography_and_equity,2020,australia-news/westpac,Westpac,keyword,1
+geography_and_equity,2020,books/rebecca-solnit,Rebecca Solnit,keyword,1
+geography_and_equity,2020,business/airbus,Airbus,keyword,1
+geography_and_equity,2020,business/andrew-bailey,Andrew Bailey,keyword,1
+geography_and_equity,2020,business/australia-economy,Australian economy,keyword,5
+geography_and_equity,2020,business/banking,Banking,keyword,1
+geography_and_equity,2020,business/bankofenglandgovernor,Bank of England,keyword,3
+geography_and_equity,2020,business/britishairways,British Airways,keyword,2
+geography_and_equity,2020,business/business,Business,keyword,23
+geography_and_equity,2020,business/compassgroup,Compass,keyword,1
+geography_and_equity,2020,business/currencies,Currencies,keyword,3
+geography_and_equity,2020,business/debt-crisis,Eurozone crisis,keyword,1
+geography_and_equity,2020,business/dollar,Dollar,keyword,1
+geography_and_equity,2020,business/easyjet,easyJet,keyword,1
+geography_and_equity,2020,business/economicgrowth,Economic growth (GDP),keyword,1
+geography_and_equity,2020,business/economics,Economics,keyword,10
+geography_and_equity,2020,business/european-central-bank,European Central Bank,keyword,1
+geography_and_equity,2020,business/federal-reserve,Federal Reserve,keyword,3
+geography_and_equity,2020,business/financial-crisis,Financial crisis,keyword,1
+geography_and_equity,2020,business/financial-sector,Financial sector,keyword,1
+geography_and_equity,2020,business/fishing-industry,Fishing industry,keyword,1
+geography_and_equity,2020,business/fooddrinks,Food & drink industry,keyword,2
+geography_and_equity,2020,business/ftse,FTSE,keyword,7
+geography_and_equity,2020,business/global-economy,Global economy,keyword,2
+geography_and_equity,2020,business/healthcare,Healthcare industry,keyword,1
+geography_and_equity,2020,business/interest-rates,Interest rates,keyword,1
+geography_and_equity,2020,business/j-sainsbury,J Sainsbury,keyword,1
+geography_and_equity,2020,business/john-maynard-keynes,John Maynard Keynes,keyword,1
+geography_and_equity,2020,business/marksspencer,Marks & Spencer,keyword,1
+geography_and_equity,2020,business/nils-pratley-on-finance,Nils Pratley on finance,blog,1
+geography_and_equity,2020,business/ocado,Ocado,keyword,1
+geography_and_equity,2020,business/oil,Oil,keyword,1
+geography_and_equity,2020,business/paddy-power,Paddy Power,keyword,1
+geography_and_equity,2020,business/paddy-power-betfair,Paddy Power Betfair,keyword,1
+geography_and_equity,2020,business/pharmaceuticals-industry,Pharmaceuticals industry,keyword,2
+geography_and_equity,2020,business/qantas,Qantas,keyword,1
+geography_and_equity,2020,business/recession,Recession,keyword,1
+geography_and_equity,2020,business/regulators,Regulators,keyword,1
+geography_and_equity,2020,business/retail,Retail industry,keyword,2
+geography_and_equity,2020,business/ryanair,Ryanair,keyword,2
+geography_and_equity,2020,business/series/economicsmonday,Economics viewpoint,series,1
+geography_and_equity,2020,business/series/guardian-business-live,Business live,series,5
+geography_and_equity,2020,business/shortselling,Short-selling,keyword,1
+geography_and_equity,2020,business/sterling,Sterling,keyword,1
+geography_and_equity,2020,business/stock-markets,Stock markets,keyword,13
+geography_and_equity,2020,business/supermarkets,Supermarkets,keyword,1
+geography_and_equity,2020,business/theairlineindustry,Airline industry,keyword,4
+geography_and_equity,2020,business/travelleisure,Travel & leisure,keyword,3
+geography_and_equity,2020,business/tuitravel,Tui Travel,keyword,1
+geography_and_equity,2020,business/us-small-business,US small business,keyword,1
+geography_and_equity,2020,business/useconomy,US economy,keyword,4
+geography_and_equity,2020,business/virgin-australia,Virgin Australia,keyword,1
+geography_and_equity,2020,business/willie-walsh,Willie Walsh,keyword,1
+geography_and_equity,2020,campaign/callout/callout-coronavirus,callout-coronavirus,campaign,3
+geography_and_equity,2020,commentisfree/commentisfree,Opinion,blog,6
+geography_and_equity,2020,education/education,Education,keyword,1
+geography_and_equity,2020,education/schools,Schools,keyword,1
+geography_and_equity,2020,environment/environment,Environment,keyword,1
+geography_and_equity,2020,environment/fish,Fish,keyword,1
+geography_and_equity,2020,lifeandstyle/women,Women,keyword,1
+geography_and_equity,2020,media/digital-media,Digital media,keyword,1
+geography_and_equity,2020,media/media,Media,keyword,3
+geography_and_equity,2020,media/new-york-times,New York Times,keyword,1
+geography_and_equity,2020,media/news-corporation,News Corporation,keyword,1
+geography_and_equity,2020,media/newspapers,Newspapers,keyword,2
+geography_and_equity,2020,media/press-freedom,Press freedom,keyword,2
+geography_and_equity,2020,media/pressandpublishing,Newspapers & magazines,keyword,2
+geography_and_equity,2020,media/social-media,Social media,keyword,1
+geography_and_equity,2020,media/time-magazine,Time magazine,keyword,1
+geography_and_equity,2020,media/us-press-publishing,US press and publishing,keyword,1
+geography_and_equity,2020,media/wallstreetjournal,Wall Street Journal,keyword,1
+geography_and_equity,2020,media/washington-post,Washington Post,keyword,1
+geography_and_equity,2020,money/consumer-affairs,Consumer affairs,keyword,1
+geography_and_equity,2020,money/online-shopping,Online shopping,keyword,1
+geography_and_equity,2020,news/commonwealth-bank,Commonwealth Bank,keyword,1
+geography_and_equity,2020,news/series/the-long-read,The long read,series,1
+geography_and_equity,2020,politics/boris-johnson,Boris Johnson,keyword,2
+geography_and_equity,2020,politics/economy,Economic policy,keyword,2
+geography_and_equity,2020,politics/gavin-williamson,Gavin Williamson,keyword,1
+geography_and_equity,2020,politics/george-eustice,George Eustice,keyword,1
+geography_and_equity,2020,politics/jeremy-corbyn,Jeremy Corbyn,keyword,1
+geography_and_equity,2020,politics/john-mcdonnell,John McDonnell,keyword,1
+geography_and_equity,2020,politics/pmqs,PMQs,keyword,1
+geography_and_equity,2020,politics/politics,Politics,keyword,5
+geography_and_equity,2020,politics/rishi-sunak,Rishi Sunak,keyword,3
+geography_and_equity,2020,politics/series/politics-live-with-andrew-sparrow,Politics live with Andrew Sparrow,series,1
+geography_and_equity,2020,politics/taxandspending,Tax and spending,keyword,1
+geography_and_equity,2020,profile/aamna-mohdin,Aamna Mohdin,contributor,6
+geography_and_equity,2020,profile/aaron-walawalkar,Aaron Walawalkar,contributor,1
+geography_and_equity,2020,profile/adam-gabbatt,Adam Gabbatt,contributor,1
+geography_and_equity,2020,profile/adam-gaffney,Adam Gaffney,contributor,1
+geography_and_equity,2020,profile/akhtar-mohammad-makoii,Akhtar Mohammad Makoii,contributor,1
+geography_and_equity,2020,profile/alex-hern,Alex Hern,contributor,6
+geography_and_equity,2020,profile/alexandratopping,Alexandra Topping,contributor,1
+geography_and_equity,2020,profile/ali-martin,Ali Martin,contributor,1
+geography_and_equity,2020,profile/alison-rourke,Alison Rourke,contributor,2
+geography_and_equity,2020,profile/amanda-holpuch,Amanda Holpuch,contributor,1
+geography_and_equity,2020,profile/amy-remeikis,Amy Remeikis,contributor,2
+geography_and_equity,2020,profile/amy-walker,Amy Walker,contributor,1
+geography_and_equity,2020,profile/andrewpulver,Andrew Pulver,contributor,2
+geography_and_equity,2020,profile/andrewsparrow,Andrew Sparrow,contributor,2
+geography_and_equity,2020,profile/angela-giuffrida,Angela Giuffrida,contributor,1
+geography_and_equity,2020,profile/angela-monaghan,Angela Monaghan,contributor,3
+geography_and_equity,2020,profile/antonia-wilson,	 Antonia Wilson,contributor,1
+geography_and_equity,2020,profile/ashifa-kassam,Ashifa Kassam,contributor,5
+geography_and_equity,2020,profile/ben-butler,Ben Butler,contributor,9
+geography_and_equity,2020,profile/ben-doherty,Ben Doherty,contributor,6
+geography_and_equity,2020,profile/ben-smee,Ben Smee,contributor,4
+geography_and_equity,2020,profile/benquinn,Ben Quinn,contributor,5
+geography_and_equity,2020,profile/bethan-mckernan,Bethan McKernan,contributor,2
+geography_and_equity,2020,profile/bryan-armen-graham,Bryan Armen Graham,contributor,1
+geography_and_equity,2020,profile/calla-wahlquist,Calla Wahlquist,contributor,5
+geography_and_equity,2020,profile/charis-mcgowan,Charis McGowan,contributor,1
+geography_and_equity,2020,profile/charlotte-graham-mclay,Charlotte Graham-McLay,contributor,1
+geography_and_equity,2020,profile/chrismcgreal,Chris McGreal,contributor,1
+geography_and_equity,2020,profile/christopher-knaus,Christopher Knaus,contributor,7
+geography_and_equity,2020,profile/clea-skopeliti,Clea Skopeliti,contributor,1
+geography_and_equity,2020,profile/damiancarrington,Damian Carrington,contributor,2
+geography_and_equity,2020,profile/damien-gayle,Damien Gayle,contributor,4
+geography_and_equity,2020,profile/dan-collyns,Dan Collyns,contributor,1
+geography_and_equity,2020,profile/david-pegg,David Pegg,contributor,1
+geography_and_equity,2020,profile/davidbatty,David Batty,contributor,2
+geography_and_equity,2020,profile/davidsmith,David Smith,contributor,7
+geography_and_equity,2020,profile/dom-phillips,Dom Phillips,contributor,3
+geography_and_equity,2020,profile/dominic-phillips,Dominic Phillips,contributor,1
+geography_and_equity,2020,profile/dominic-rushe,Dominic Rushe,contributor,5
+geography_and_equity,2020,profile/donna-ferguson,Donna Ferguson,contributor,1
+geography_and_equity,2020,profile/edpilkington,Ed Pilkington,contributor,1
+geography_and_equity,2020,profile/edwardhelmore,Edward Helmore,contributor,2
+geography_and_equity,2020,profile/eleanor-de-jong,Eleanor de Jong,contributor,7
+geography_and_equity,2020,profile/emily-holden,Emily Holden,contributor,1
+geography_and_equity,2020,profile/emma-graham-harrison,Emma Graham-Harrison,contributor,2
+geography_and_equity,2020,profile/frances-perraudin,Frances Perraudin,contributor,1
+geography_and_equity,2020,profile/gavin-francis,Gavin Francis,contributor,1
+geography_and_equity,2020,profile/gene-marks,Gene Marks,contributor,1
+geography_and_equity,2020,profile/graemewearden,Graeme Wearden,contributor,6
+geography_and_equity,2020,profile/graham-readfearn,Graham Readfearn,contributor,1
+geography_and_equity,2020,profile/graham-russell,Graham Russell,contributor,3
+geography_and_equity,2020,profile/gregory-robinson,Gregory Robinson,contributor,1
+geography_and_equity,2020,profile/guardian-readers,Guardian readers,contributor,1
+geography_and_equity,2020,profile/gwyntopham,Gwyn Topham,contributor,7
+geography_and_equity,2020,profile/hallie-golden,Hallie Golden,contributor,1
+geography_and_equity,2020,profile/hannah-ellis-petersen,Hannah Ellis-Petersen,contributor,3
+geography_and_equity,2020,profile/hannah-mays,Hannah Mays,contributor,1
+geography_and_equity,2020,profile/haroonsiddique,Haroon Siddique,contributor,1
+geography_and_equity,2020,profile/harrietsherwood,Harriet Sherwood,contributor,2
+geography_and_equity,2020,profile/heatherstewart,Heather Stewart,contributor,2
+geography_and_equity,2020,profile/helen-davidson,Helen Davidson,contributor,6
+geography_and_equity,2020,profile/helen-sullivan,Helen Sullivan,contributor,3
+geography_and_equity,2020,profile/helenasmith,Helena Smith,contributor,6
+geography_and_equity,2020,profile/hilaryosborne,Hilary Osborne,contributor,2
+geography_and_equity,2020,profile/iansample,Ian Sample,contributor,1
+geography_and_equity,2020,profile/jack-banister,Jack Banister,contributor,3
+geography_and_equity,2020,profile/james-murray,James Murray,contributor,1
+geography_and_equity,2020,profile/jamesdart,James Dart,contributor,1
+geography_and_equity,2020,profile/janine-israel,Janine Israel,contributor,1
+geography_and_equity,2020,profile/jasper-jolly,Jasper Jolly,contributor,3
+geography_and_equity,2020,profile/jennifer-rankin,Jennifer Rankin,contributor,4
+geography_and_equity,2020,profile/jessica-glenza,Jessica Glenza,contributor,2
+geography_and_equity,2020,profile/jillian-ambrose,Jillian Ambrose,contributor,2
+geography_and_equity,2020,profile/jim-waterson,Jim Waterson,contributor,1
+geography_and_equity,2020,profile/joan-greve,Joan E Greve,contributor,6
+geography_and_equity,2020,profile/joanna-partridge,Joanna Partridge,contributor,3
+geography_and_equity,2020,profile/joannawalters,Joanna Walters,contributor,2
+geography_and_equity,2020,profile/joe-parkin-daniels,Joe Parkin Daniels,contributor,1
+geography_and_equity,2020,profile/jonhenley,Jon Henley,contributor,1
+geography_and_equity,2020,profile/josh-halliday,Josh Halliday,contributor,2
+geography_and_equity,2020,profile/josh-taylor,Josh Taylor,contributor,5
+geography_and_equity,2020,profile/julia-carrie-wong,Julia Carrie Wong,contributor,1
+geography_and_equity,2020,profile/juliakollewe,Julia Kollewe,contributor,3
+geography_and_equity,2020,profile/justinmccurry,Justin McCurry,contributor,4
+geography_and_equity,2020,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,5
+geography_and_equity,2020,profile/kari-paul,Kari Paul,contributor,1
+geography_and_equity,2020,profile/kate-proctor,Kate Proctor,contributor,1
+geography_and_equity,2020,profile/kateconnolly,Kate Connolly,contributor,2
+geography_and_equity,2020,profile/katharine-murphy,Katharine Murphy,contributor,5
+geography_and_equity,2020,profile/kenya-evelyn,Kenya Evelyn,contributor,1
+geography_and_equity,2020,profile/kevin-rawlinson,Kevin Rawlinson,contributor,4
+geography_and_equity,2020,profile/kim-willsher,Kim Willsher,contributor,3
+geography_and_equity,2020,profile/lanre-bakare,Lanre Bakare,contributor,2
+geography_and_equity,2020,profile/larryelliott,Larry Elliott,contributor,2
+geography_and_equity,2020,profile/laughland-oliver,Oliver Laughland,contributor,1
+geography_and_equity,2020,profile/laura-laker,Laura Laker,contributor,1
+geography_and_equity,2020,profile/lauren-aratani,Lauren Aratani,contributor,1
+geography_and_equity,2020,profile/lauren-gambino,Lauren Gambino,contributor,3
+geography_and_equity,2020,profile/lenore-taylor,Lenore Taylor,contributor,1
+geography_and_equity,2020,profile/leyland-cecco,Leyland Cecco,contributor,2
+geography_and_equity,2020,profile/libbybrooks,Libby Brooks,contributor,1
+geography_and_equity,2020,profile/lily-kuo,Lily Kuo,contributor,3
+geography_and_equity,2020,profile/lisa-cox,Lisa Cox,contributor,3
+geography_and_equity,2020,profile/lisaocarroll,Lisa O’Carroll,contributor,2
+geography_and_equity,2020,profile/lorena-allam,Lorena Allam,contributor,1
+geography_and_equity,2020,profile/lorenzo-tondo,Lorenzo Tondo,contributor,1
+geography_and_equity,2020,profile/lucy-campbell,Lucy Campbell,contributor,2
+geography_and_equity,2020,profile/luke-henriques-gomes,Luke Henriques-Gomes,contributor,2
+geography_and_equity,2020,profile/lukeharding,Luke Harding,contributor,1
+geography_and_equity,2020,profile/maanvi-singh,Maanvi Singh,contributor,3
+geography_and_equity,2020,profile/markbrown,Mark Brown,contributor,2
+geography_and_equity,2020,profile/marksweney,Mark Sweney,contributor,1
+geography_and_equity,2020,profile/martin-belam,Martin Belam,contributor,3
+geography_and_equity,2020,profile/martin-pengelly,Martin Pengelly,contributor,1
+geography_and_equity,2020,profile/martinfarrer,Martin Farrer,contributor,6
+geography_and_equity,2020,profile/matt-stoller,Matt Stoller,contributor,1
+geography_and_equity,2020,profile/mattha-busby,Mattha Busby,contributor,3
+geography_and_equity,2020,profile/matthewweaver,Matthew Weaver,contributor,2
+geography_and_equity,2020,profile/max-benwell,Max Benwell,contributor,1
+geography_and_equity,2020,profile/melissa-davey,Melissa Davey,contributor,6
+geography_and_equity,2020,profile/merran-hitchick,Merran Hitchick,contributor,1
+geography_and_equity,2020,profile/michael-mcgowan,Michael McGowan,contributor,1
+geography_and_equity,2020,profile/michael-sainato,Michael Sainato,contributor,1
+geography_and_equity,2020,profile/michael-savage,Michael Savage,contributor,1
+geography_and_equity,2020,profile/mike-hytner,Mike Hytner,contributor,2
+geography_and_equity,2020,profile/molly-blackall,Molly Blackall,contributor,1
+geography_and_equity,2020,profile/naaman-zhou,Naaman Zhou,contributor,5
+geography_and_equity,2020,profile/nathan-robinson,Nathan Robinson,contributor,1
+geography_and_equity,2020,profile/niamh-mcintyre,Niamh McIntyre,contributor,2
+geography_and_equity,2020,profile/nicola-slawson,Nicola Slawson,contributor,1
+geography_and_equity,2020,profile/nilspratley,Nils Pratley,contributor,1
+geography_and_equity,2020,profile/nina-lakhani,Nina Lakhani,contributor,1
+geography_and_equity,2020,profile/oliver-holmes,Oliver Holmes,contributor,2
+geography_and_equity,2020,profile/pamela-duncan,Pamela Duncan,contributor,1
+geography_and_equity,2020,profile/patrick-greenfield,Patrick Greenfield,contributor,6
+geography_and_equity,2020,profile/patrickbutler,Patrick Butler,contributor,2
+geography_and_equity,2020,profile/patrickcollinson,Patrick Collinson,contributor,2
+geography_and_equity,2020,profile/patrickwintour,Patrick Wintour,contributor,3
+geography_and_equity,2020,profile/paul-karp,Paul Karp,contributor,4
+geography_and_equity,2020,profile/peterwalker,Peter Walker,contributor,2
+geography_and_equity,2020,profile/philip-oltermann,Philip Oltermann,contributor,3
+geography_and_equity,2020,profile/phillipinman,Phillip Inman,contributor,3
+geography_and_equity,2020,profile/rebecca-ratcliffe,Rebecca Ratcliffe,contributor,5
+geography_and_equity,2020,profile/rebeccasmithers,Rebecca Smithers,contributor,6
+geography_and_equity,2020,profile/richard-partington,Richard Partington,contributor,5
+geography_and_equity,2020,profile/richard-wolffe,Richard Wolffe,contributor,1
+geography_and_equity,2020,profile/richardadams,Richard Adams,contributor,4
+geography_and_equity,2020,profile/richardluscombe,Richard Luscombe,contributor,1
+geography_and_equity,2020,profile/rob-davies,Rob Davies,contributor,3
+geography_and_equity,2020,profile/robert-reich,Robert Reich,contributor,1
+geography_and_equity,2020,profile/robertbooth,Robert Booth,contributor,2
+geography_and_equity,2020,profile/robinmckie,Robin McKie,contributor,1
+geography_and_equity,2020,profile/rorycarroll,Rory Carroll,contributor,2
+geography_and_equity,2020,profile/roth-andrew,Andrew Roth,contributor,1
+geography_and_equity,2020,profile/ruth-michaelson,Ruth Michaelson,contributor,1
+geography_and_equity,2020,profile/sam-cowie,Sam Cowie,contributor,1
+geography_and_equity,2020,profile/sam-levine,Sam Levine,contributor,2
+geography_and_equity,2020,profile/samjones,Sam Jones,contributor,1
+geography_and_equity,2020,profile/sarah-marsh,Sarah Marsh,contributor,3
+geography_and_equity,2020,profile/sarah-martin,Sarah Martin,contributor,4
+geography_and_equity,2020,profile/sarahbutler,Sarah Butler,contributor,3
+geography_and_equity,2020,profile/severincarrell,Severin Carrell,contributor,2
+geography_and_equity,2020,profile/shaun-walker,Shaun Walker,contributor,2
+geography_and_equity,2020,profile/simon-murphy,Simon Murphy,contributor,1
+geography_and_equity,2020,profile/simonjenkins,Simon Jenkins,contributor,1
+geography_and_equity,2020,profile/steph-harmon,Steph Harmon,contributor,4
+geography_and_equity,2020,profile/stephanie-convery,Stephanie Convery,contributor,2
+geography_and_equity,2020,profile/stephanie-kirchgaessner,Stephanie Kirchgaessner,contributor,2
+geography_and_equity,2020,profile/stephaniemerritt,Stephanie Merritt,contributor,1
+geography_and_equity,2020,profile/stevenmorris,Steven Morris,contributor,2
+geography_and_equity,2020,profile/tomphillips,Tom Phillips,contributor,2
+geography_and_equity,2020,profile/ukigoni,Uki Goñi,contributor,4
+geography_and_equity,2020,profile/victoria-bekiempis,Victoria Bekiempis,contributor,1
+geography_and_equity,2020,profile/vikramdodd,Vikram Dodd,contributor,2
+geography_and_equity,2020,profile/vivian-ho,Vivian Ho,contributor,2
+geography_and_equity,2020,profile/walker-tim,Tim Walker,contributor,1
+geography_and_equity,2020,profile/warrenmurray,Warren Murray,contributor,4
+geography_and_equity,2020,profile/william-turvill,William Turvill,contributor,1
+geography_and_equity,2020,profile/wilson-jason,Jason Wilson,contributor,1
+geography_and_equity,2020,publication/theguardian,The Guardian,publication,12
+geography_and_equity,2020,publication/theobserver,The Observer archive,publication,3
+geography_and_equity,2020,science/drugs,Drugs,keyword,1
+geography_and_equity,2020,science/infectiousdiseases,Infectious diseases,keyword,23
+geography_and_equity,2020,science/mathematics,Mathematics,keyword,1
+geography_and_equity,2020,science/medical-research,Medical research,keyword,6
+geography_and_equity,2020,science/microbiology,Microbiology,keyword,3
+geography_and_equity,2020,science/science,Science,keyword,11
+geography_and_equity,2020,society/cannabis,Cannabis,keyword,1
+geography_and_equity,2020,society/doctors,Doctors,keyword,1
+geography_and_equity,2020,society/drugs,Drugs,keyword,1
+geography_and_equity,2020,society/gps,GPs,keyword,1
+geography_and_equity,2020,society/health,Health,keyword,2
+geography_and_equity,2020,society/nhs,NHS,keyword,1
+geography_and_equity,2020,society/older-people,Older people,keyword,1
+geography_and_equity,2020,society/society,Society,keyword,2
+geography_and_equity,2020,society/universal-basic-income,Universal basic income,keyword,1
+geography_and_equity,2020,technology/amazon,Amazon,keyword,2
+geography_and_equity,2020,technology/efinance,E-commerce,keyword,1
+geography_and_equity,2020,technology/technology,Technology,keyword,2
+geography_and_equity,2020,technology/tiktok,TikTok,keyword,1
+geography_and_equity,2020,theguardian/journal,Journal,newspaper-book,2
+geography_and_equity,2020,theguardian/journal/letters,Letters,newspaper-book-section,1
+geography_and_equity,2020,theguardian/journal/the-long-read,The Long Read,newspaper-book-section,1
+geography_and_equity,2020,theguardian/mainsection,Main section,newspaper-book,10
+geography_and_equity,2020,theguardian/mainsection/financial3,Business,newspaper-book-section,2
+geography_and_equity,2020,theguardian/mainsection/international,International,newspaper-book-section,2
+geography_and_equity,2020,theguardian/mainsection/topstories,Top stories,newspaper-book-section,2
+geography_and_equity,2020,theguardian/mainsection/uknews,UK news,newspaper-book-section,4
+geography_and_equity,2020,theobserver/new-review,The New Review,newspaper-book,1
+geography_and_equity,2020,theobserver/new-review/agenda,Agenda,newspaper-book-section,1
+geography_and_equity,2020,theobserver/news,Main section,newspaper-book,2
+geography_and_equity,2020,theobserver/news/business,Business,newspaper-book-section,1
+geography_and_equity,2020,theobserver/news/uknews,News,newspaper-book-section,1
+geography_and_equity,2020,theobserver/series/the-new-review-q-and-a,Observer New Review Q&A,series,1
+geography_and_equity,2020,tone/callout,Callout,tone,1
+geography_and_equity,2020,tone/comment,Comment,tone,10
+geography_and_equity,2020,tone/features,Features,tone,9
+geography_and_equity,2020,tone/interview,Interviews,tone,1
+geography_and_equity,2020,tone/letters,Letters,tone,1
+geography_and_equity,2020,tone/minutebyminute,Minute by minute,tone,23
+geography_and_equity,2020,tone/news,News,tone,51
+geography_and_equity,2020,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,14
+geography_and_equity,2020,tracking/commissioningdesk/australia-news,Australia News,tracking,11
+geography_and_equity,2020,tracking/commissioningdesk/australia-politics,Australia Politics,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/digital-backbench,UK Digital Backbench,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/long-read,UK Long Read,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/observer-main,Observer Main,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/observer-new-review,Observer New Review,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/uk-business,UK Business,tracking,13
+geography_and_equity,2020,tracking/commissioningdesk/uk-data,UK Data,tracking,3
+geography_and_equity,2020,tracking/commissioningdesk/uk-environment,UK Environment,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/uk-foreign,UK Foreign,tracking,3
+geography_and_equity,2020,tracking/commissioningdesk/uk-home-news,UK Home News,tracking,3
+geography_and_equity,2020,tracking/commissioningdesk/uk-letters-and-leader-writers,UK Letters and Leader Writers,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/uk-technology,UK Technology,tracking,1
+geography_and_equity,2020,tracking/commissioningdesk/us-business,US Business,tracking,3
+geography_and_equity,2020,tracking/commissioningdesk/us-foreign,US Foreign,tracking,2
+geography_and_equity,2020,tracking/commissioningdesk/us-news,US News,tracking,18
+geography_and_equity,2020,tracking/commissioningdesk/us-opinion,US Opinion,tracking,6
+geography_and_equity,2020,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,4
+geography_and_equity,2020,travel/cruises,Cruises,keyword,1
+geography_and_equity,2020,type/article,Article,type,78
+geography_and_equity,2020,uk-news/patrick-vallance,Patrick Vallance,keyword,1
+geography_and_equity,2020,uk/london,London,keyword,1
+geography_and_equity,2020,uk/ruralaffairs,Rural affairs,keyword,1
+geography_and_equity,2020,uk/scotland,Scotland,keyword,1
+geography_and_equity,2020,uk/uk,UK news,keyword,18
+geography_and_equity,2020,uk/wales,Wales,keyword,1
+geography_and_equity,2020,us-news/bernie-sanders,Bernie Sanders,keyword,3
+geography_and_equity,2020,us-news/california,California,keyword,1
+geography_and_equity,2020,us-news/connecticut,Connecticut,keyword,1
+geography_and_equity,2020,us-news/democrats,Democrats,keyword,1
+geography_and_equity,2020,us-news/donaldtrump,Donald Trump,keyword,13
+geography_and_equity,2020,us-news/illinois,Illinois,keyword,1
+geography_and_equity,2020,us-news/joebiden,Joe Biden,keyword,3
+geography_and_equity,2020,us-news/nancy-pelosi,Nancy Pelosi,keyword,1
+geography_and_equity,2020,us-news/new-york,New York,keyword,4
+geography_and_equity,2020,us-news/republicans,Republicans,keyword,1
+geography_and_equity,2020,us-news/series/guardian-us-briefing,First Thing newsletter,series,1
+geography_and_equity,2020,us-news/series/us-politics-live,US politics live,series,4
+geography_and_equity,2020,us-news/series/us-politics-live-with-joan-e-greve,US politics live with Joan E Greve,series,3
+geography_and_equity,2020,us-news/trump-administration,Trump administration,keyword,5
+geography_and_equity,2020,us-news/us-elections-2020,US elections 2020,keyword,4
+geography_and_equity,2020,us-news/us-news,US news,keyword,32
+geography_and_equity,2020,us-news/us-political-lobbying,US political lobbying,keyword,1
+geography_and_equity,2020,us-news/us-politics,US politics,keyword,13
+geography_and_equity,2020,us-news/us-senate,US Senate,keyword,1
+geography_and_equity,2020,world/africa,Africa,keyword,3
+geography_and_equity,2020,world/air-transport,Air transport,keyword,1
+geography_and_equity,2020,world/americas,Americas,keyword,1
+geography_and_equity,2020,world/asia-pacific,Asia Pacific,keyword,7
+geography_and_equity,2020,world/canada,Canada,keyword,1
+geography_and_equity,2020,world/china,China,keyword,5
+geography_and_equity,2020,world/coronavirus-outbreak,Coronavirus,keyword,67
+geography_and_equity,2020,world/eu,European Union,keyword,1
+geography_and_equity,2020,world/europe-news,Europe,keyword,7
+geography_and_equity,2020,world/far-right,The far right,keyword,1
+geography_and_equity,2020,world/iran,Iran,keyword,1
+geography_and_equity,2020,world/italy,Italy,keyword,3
+geography_and_equity,2020,world/japan,Japan,keyword,2
+geography_and_equity,2020,world/middleeast,Middle East and north Africa,keyword,3
+geography_and_equity,2020,world/secondworldwar,Second world war,keyword,1
+geography_and_equity,2020,world/series/coronavirus-at-a-glance,Coronavirus: at a glance,series,2
+geography_and_equity,2020,world/series/coronavirus-live,Coronavirus live,series,6
+geography_and_equity,2020,world/series/coronavirus-the-week-explained,Coronavirus: the week explained,series,1
+geography_and_equity,2020,world/series/guardian-morning-briefing,Guardian morning briefing,series,4
+geography_and_equity,2020,world/southafrica,South Africa,keyword,1
+geography_and_equity,2020,world/spain,Spain,keyword,1
+geography_and_equity,2020,world/world,World news,keyword,27
+geography_and_equity,2026,australia-news/australia-news,Australia news,keyword,2
+geography_and_equity,2026,australia-news/australian-politics,Australian politics,keyword,1
+geography_and_equity,2026,australia-news/business-australia,Business,keyword,1
+geography_and_equity,2026,australia-news/interest-rates-australia,Interest rates,keyword,1
+geography_and_equity,2026,australia-news/jim-chalmers--australian-politician-,Jim Chalmers,keyword,1
+geography_and_equity,2026,australia-news/reserve-bank-of-australia,Reserve Bank of Australia,keyword,1
+geography_and_equity,2026,australia-news/series/guardian-australia-s-morning-mail,Morning mail newsletter,series,1
+geography_and_equity,2026,business/aerospace-industry,Aerospace industry,keyword,2
+geography_and_equity,2026,business/aramco,Aramco,keyword,1
+geography_and_equity,2026,business/australia-economy,Australian economy,keyword,1
+geography_and_equity,2026,business/automotive-industry,Automotive industry,keyword,1
+geography_and_equity,2026,business/barclay,Barclays,keyword,1
+geography_and_equity,2026,business/bonds,Bonds,keyword,2
+geography_and_equity,2026,business/business,Business,keyword,12
+geography_and_equity,2026,business/commodities,Commodities,keyword,3
+geography_and_equity,2026,business/currencies,Currencies,keyword,3
+geography_and_equity,2026,business/economics,Economics,keyword,2
+geography_and_equity,2026,business/energy-industry,Energy industry,keyword,2
+geography_and_equity,2026,business/euro,Euro,keyword,1
+geography_and_equity,2026,business/ftse,FTSE,keyword,1
+geography_and_equity,2026,business/gas,Gas,keyword,1
+geography_and_equity,2026,business/ipos,IPOs,keyword,1
+geography_and_equity,2026,business/job-losses,Job losses,keyword,1
+geography_and_equity,2026,business/oil,Oil,keyword,3
+geography_and_equity,2026,business/oilandgascompanies,Oil and gas companies,keyword,2
+geography_and_equity,2026,business/quarterly-results,Quarterly results,keyword,2
+geography_and_equity,2026,business/series/guardian-business-live,Business live,series,3
+geography_and_equity,2026,business/stock-markets,Stock markets,keyword,7
+geography_and_equity,2026,business/technology,Technology sector,keyword,4
+geography_and_equity,2026,business/unemployment-and-employment-statistics-australia,Unemployment,keyword,1
+geography_and_equity,2026,business/useconomy,US economy,keyword,1
+geography_and_equity,2026,campaign/email/breaking-news-australia,Breaking News Australia (newsletter signup),campaign,1
+geography_and_equity,2026,campaign/email/business-today,Business Today (newsletter signup),campaign,3
+geography_and_equity,2026,campaign/email/headlines-europe,Headlines Europe,campaign,1
+geography_and_equity,2026,campaign/email/how-we-win,How we win,campaign,1
+geography_and_equity,2026,campaign/email/matters-of-opinion,Matters of Opinion,campaign,1
+geography_and_equity,2026,campaign/email/morning-mail,Morning Mail AUS (newsletter signup),campaign,1
+geography_and_equity,2026,campaign/email/politics-really,"Politics, really",campaign,1
+geography_and_equity,2026,campaign/email/tech-scape,TechScape (newsletter signup),campaign,2
+geography_and_equity,2026,campaign/email/the-guide-staying-in,The Guide (newsletter signup),campaign,1
+geography_and_equity,2026,campaign/email/the-stakes-2026,The Stakes 2026 (newsletter sign up),campaign,1
+geography_and_equity,2026,campaign/email/this-is-europe,This is Europe (newsletter signup),campaign,1
+geography_and_equity,2026,commentisfree/commentisfree,Opinion,blog,3
+geography_and_equity,2026,culture/culture,Culture,keyword,2
+geography_and_equity,2026,culture/series/the-guide,The Guide newsletter,series,1
+geography_and_equity,2026,education/education,Education,keyword,1
+geography_and_equity,2026,education/schools,Schools,keyword,1
+geography_and_equity,2026,environment/activism,Environmental activism,keyword,1
+geography_and_equity,2026,environment/climate-crisis,Climate crisis,keyword,1
+geography_and_equity,2026,environment/energy,Energy,keyword,1
+geography_and_equity,2026,environment/environment,Environment,keyword,3
+geography_and_equity,2026,environment/gas,Gas,keyword,1
+geography_and_equity,2026,environment/green-politics,Environment policy,keyword,1
+geography_and_equity,2026,environment/greenpeace,Greenpeace,keyword,1
+geography_and_equity,2026,environment/oil-spills,Oil spills,keyword,1
+geography_and_equity,2026,environment/pollution,Pollution,keyword,1
+geography_and_equity,2026,environment/rivers,Rivers,keyword,1
+geography_and_equity,2026,film/documentary,Documentary films,keyword,1
+geography_and_equity,2026,film/film,Film,keyword,1
+geography_and_equity,2026,film/you-can-see-everything,You Can See Everything,keyword,1
+geography_and_equity,2026,football/football,Football,keyword,1
+geography_and_equity,2026,football/series/footballdaily,Football Daily newsletter,series,1
+geography_and_equity,2026,media/itv-news,ITV News,keyword,1
+geography_and_equity,2026,news/antisemitism,Antisemitism,keyword,1
+geography_and_equity,2026,news/series/pass-notes,Pass notes,series,1
+geography_and_equity,2026,news/the-super-rich,The super-rich,keyword,2
+geography_and_equity,2026,politics/andyburnham,Andy Burnham,keyword,1
+geography_and_equity,2026,politics/brexit-party,Reform UK,keyword,1
+geography_and_equity,2026,politics/conservatives,Conservatives,keyword,1
+geography_and_equity,2026,politics/green-party,Green party,keyword,1
+geography_and_equity,2026,politics/kemi-badenoch,Kemi Badenoch,keyword,1
+geography_and_equity,2026,politics/labour,Labour,keyword,2
+geography_and_equity,2026,politics/miatta-fahnbulleh,Miatta Fahnbulleh,keyword,1
+geography_and_equity,2026,politics/pmqs,PMQs,keyword,1
+geography_and_equity,2026,politics/politics,Politics,keyword,2
+geography_and_equity,2026,politics/series/politics-live-with-andrew-sparrow,Politics live with Andrew Sparrow,series,1
+geography_and_equity,2026,politics/zack-polanski,Zack Polanski,keyword,1
+geography_and_equity,2026,profile/aletha-adu,Aletha Adu,contributor,1
+geography_and_equity,2026,profile/andrewsparrow,Andrew Sparrow,contributor,1
+geography_and_equity,2026,profile/ariana-baio,Ariana Baio,contributor,2
+geography_and_equity,2026,profile/chris-stein,Chris Stein,contributor,2
+geography_and_equity,2026,profile/dara-kerr,Dara Kerr,contributor,1
+geography_and_equity,2026,profile/davidsmith,David Smith,contributor,2
+geography_and_equity,2026,profile/debbie-carlson,Debbie Carlson,contributor,1
+geography_and_equity,2026,profile/eben-muse,Eben Muse,contributor,1
+geography_and_equity,2026,profile/editorial,Editorial,contributor,1
+geography_and_equity,2026,profile/fran-lawther,Fran Lawther,contributor,1
+geography_and_equity,2026,profile/frances-mao,Frances Mao,contributor,3
+geography_and_equity,2026,profile/george-chidi,George Chidi,contributor,1
+geography_and_equity,2026,profile/graemewearden,Graeme Wearden,contributor,1
+geography_and_equity,2026,profile/gwilym-mumford,Gwilym Mumford,contributor,1
+geography_and_equity,2026,profile/gwyntopham,Gwyn Topham,contributor,1
+geography_and_equity,2026,profile/jakub-krupa,Jakub Krupa,contributor,1
+geography_and_equity,2026,profile/jennifer-rankin,Jennifer Rankin,contributor,1
+geography_and_equity,2026,profile/jeremy-barr,Jeremy Barr,contributor,1
+geography_and_equity,2026,profile/jillian-ambrose,Jillian Ambrose,contributor,1
+geography_and_equity,2026,profile/jonathan-yerushalmy,Jonathan Yerushalmy,contributor,2
+geography_and_equity,2026,profile/jonhenley,Jon Henley,contributor,1
+geography_and_equity,2026,profile/juliakollewe,Julia Kollewe,contributor,2
+geography_and_equity,2026,profile/julianborger,Julian Borger,contributor,1
+geography_and_equity,2026,profile/kalyeena-makortoff,Kalyeena Makortoff,contributor,1
+geography_and_equity,2026,profile/kim-willsher,Kim Willsher,contributor,1
+geography_and_equity,2026,profile/lauren-almeida,Lauren Almeida,contributor,4
+geography_and_equity,2026,profile/lorenzo-tondo,Lorenzo Tondo,contributor,3
+geography_and_equity,2026,profile/lucy-campbell,Lucy Campbell,contributor,2
+geography_and_equity,2026,profile/lukeharding,Luke Harding,contributor,2
+geography_and_equity,2026,profile/marina-dunbar,Marina Dunbar,contributor,2
+geography_and_equity,2026,profile/marksweney,Mark Sweney,contributor,1
+geography_and_equity,2026,profile/martin-belam,Martin Belam,contributor,2
+geography_and_equity,2026,profile/martinfarrer,Martin Farrer,contributor,1
+geography_and_equity,2026,profile/mishaglenny,Misha Glenny,contributor,1
+geography_and_equity,2026,profile/nick-robins-early,Nick Robins-Early,contributor,1
+geography_and_equity,2026,profile/patrick-commins,Patrick Commins,contributor,2
+geography_and_equity,2026,profile/peterbeaumont,Peter Beaumont,contributor,1
+geography_and_equity,2026,profile/pjotr-sauer,Pjotr Sauer,contributor,2
+geography_and_equity,2026,profile/richard-partington,Richard Partington,contributor,1
+geography_and_equity,2026,profile/richardadams,Richard Adams,contributor,1
+geography_and_equity,2026,profile/robert-mackey,Robert Mackey,contributor,2
+geography_and_equity,2026,profile/robsmyth,Rob Smyth,contributor,1
+geography_and_equity,2026,profile/sam-levine,Sam Levine,contributor,1
+geography_and_equity,2026,profile/sarahbutler,Sarah Butler,contributor,1
+geography_and_equity,2026,profile/shrai-popat,Shrai Popat,contributor,2
+geography_and_equity,2026,profile/sidneyblumenthal,Sidney Blumenthal,contributor,1
+geography_and_equity,2026,profile/steve-bloomfield,Steve Bloomfield,contributor,1
+geography_and_equity,2026,profile/uwa-ede-osifo,Uwa Ede-Osifo,contributor,1
+geography_and_equity,2026,profile/wilson-jason,Jason Wilson,contributor,1
+geography_and_equity,2026,profile/yassin-el-moudden,Yassin El-Moudden,contributor,1
+geography_and_equity,2026,publication/theguardian,The Guardian,publication,11
+geography_and_equity,2026,science/satellites,Satellites,keyword,1
+geography_and_equity,2026,science/science,Science,keyword,1
+geography_and_equity,2026,science/spacex,SpaceX,keyword,4
+geography_and_equity,2026,society/hospitals,Hospitals,keyword,1
+geography_and_equity,2026,society/sex-trafficking,Sex trafficking,keyword,1
+geography_and_equity,2026,sport/sport,Sport,keyword,1
+geography_and_equity,2026,technology/anthropic,Anthropic,keyword,1
+geography_and_equity,2026,technology/artificialintelligenceai,AI (artificial intelligence),keyword,3
+geography_and_equity,2026,technology/computing,Computing,keyword,1
+geography_and_equity,2026,technology/elon-musk,Elon Musk,keyword,7
+geography_and_equity,2026,technology/mark-zuckerberg,Mark Zuckerberg,keyword,1
+geography_and_equity,2026,technology/mergers-acquisitions,"Mergers, acquisitions and funding",keyword,1
+geography_and_equity,2026,technology/meta,Meta,keyword,1
+geography_and_equity,2026,technology/robots,Robots,keyword,1
+geography_and_equity,2026,technology/self-driving-cars,Self-driving cars,keyword,1
+geography_and_equity,2026,technology/series/reworked,Reworked,series,1
+geography_and_equity,2026,technology/technology,Technology,keyword,5
+geography_and_equity,2026,technology/tesla,Tesla,keyword,1
+geography_and_equity,2026,theguardian/g2,G2,newspaper-book,1
+geography_and_equity,2026,theguardian/g2/features,Comment & features,newspaper-book-section,1
+geography_and_equity,2026,theguardian/journal,Journal,newspaper-book,2
+geography_and_equity,2026,theguardian/journal/opinion,Opinion,newspaper-book-section,2
+geography_and_equity,2026,theguardian/mainsection,Main section,newspaper-book,8
+geography_and_equity,2026,theguardian/mainsection/financial3,Business,newspaper-book-section,3
+geography_and_equity,2026,theguardian/mainsection/international,International,newspaper-book-section,2
+geography_and_equity,2026,theguardian/mainsection/uknews,UK news,newspaper-book-section,3
+geography_and_equity,2026,tone/analysis,Analysis,tone,2
+geography_and_equity,2026,tone/comment,Comment,tone,4
+geography_and_equity,2026,tone/editorials,Editorials,tone,1
+geography_and_equity,2026,tone/explainers,Explainers,tone,5
+geography_and_equity,2026,tone/features,Features,tone,5
+geography_and_equity,2026,tone/minutebyminute,Minute by minute,tone,8
+geography_and_equity,2026,tone/news,News,tone,22
+geography_and_equity,2026,tone/newsletter-tone,Newsletters,tone,4
+geography_and_equity,2026,tracking/audience/au,Au,tracking,1
+geography_and_equity,2026,tracking/audience/global,Global,tracking,19
+geography_and_equity,2026,tracking/audience/uk,UK,tracking,4
+geography_and_equity,2026,tracking/audience/us,US,tracking,5
+geography_and_equity,2026,tracking/commissioningdesk/australia-foreign,Australia Foreign,tracking,4
+geography_and_equity,2026,tracking/commissioningdesk/australia-news,Australia News,tracking,2
+geography_and_equity,2026,tracking/commissioningdesk/australia-politics,Australia Politics,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/newsletters,Newsletters,tracking,3
+geography_and_equity,2026,tracking/commissioningdesk/uk-business,UK Business,tracking,8
+geography_and_equity,2026,tracking/commissioningdesk/uk-environment,UK Environment,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/uk-foreign,UK Foreign,tracking,5
+geography_and_equity,2026,tracking/commissioningdesk/uk-g2-features,UK G2 Features,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/uk-g2-production,UK G2 production,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/uk-home-news,UK Home News,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/uk-letters-and-leader-writers,UK Letters and Leader Writers,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/uk-opinion,UK Opinion,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/us-business,US Business,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/us-investigations,US investigations,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/us-news,US News,tracking,3
+geography_and_equity,2026,tracking/commissioningdesk/us-opinion,US Opinion,tracking,1
+geography_and_equity,2026,tracking/commissioningdesk/us-tech,US Tech,tracking,3
+geography_and_equity,2026,tracking/commissioningdesk/west-coast-news,West Coast News,tracking,5
+geography_and_equity,2026,tv-and-radio/nathan-fielder,Nathan Fielder,keyword,1
+geography_and_equity,2026,type/article,Article,type,38
+geography_and_equity,2026,uk-news/palestine-action,Palestine Action,keyword,1
+geography_and_equity,2026,uk/immigration,Immigration and asylum,keyword,1
+geography_and_equity,2026,uk/scotland,Scotland,keyword,2
+geography_and_equity,2026,uk/uk,UK news,keyword,4
+geography_and_equity,2026,uk/wales,Wales,keyword,1
+geography_and_equity,2026,us-news/california,California,keyword,1
+geography_and_equity,2026,us-news/democrats,Democrats,keyword,2
+geography_and_equity,2026,us-news/donaldtrump,Donald Trump,keyword,10
+geography_and_equity,2026,us-news/jeffrey-epstein,Jeffrey Epstein,keyword,1
+geography_and_equity,2026,us-news/marco-rubio,Marco Rubio,keyword,1
+geography_and_equity,2026,us-news/missouri,Missouri,keyword,1
+geography_and_equity,2026,us-news/new-york,New York,keyword,1
+geography_and_equity,2026,us-news/ohio,Ohio,keyword,2
+geography_and_equity,2026,us-news/republicans,Republicans,keyword,3
+geography_and_equity,2026,us-news/series/us-politics-live,US politics live,series,2
+geography_and_equity,2026,us-news/series/us-politics-live-with-shrai-popat,US politics live with Shrai Popat,series,2
+geography_and_equity,2026,us-news/texas,Texas,keyword,1
+geography_and_equity,2026,us-news/trump-administration,Trump administration,keyword,6
+geography_and_equity,2026,us-news/us-foreign-policy,US foreign policy,keyword,6
+geography_and_equity,2026,us-news/us-gas-prices,US gas prices,keyword,1
+geography_and_equity,2026,us-news/us-midterm-elections-2026,US midterm elections 2026,keyword,4
+geography_and_equity,2026,us-news/us-news,US news,keyword,14
+geography_and_equity,2026,us-news/us-politics,US politics,keyword,11
+geography_and_equity,2026,us-news/vivek-ramaswamy,Vivek Ramaswamy,keyword,1
+geography_and_equity,2026,us-news/west-coast,West Coast,keyword,1
+geography_and_equity,2026,world/china,China,keyword,2
+geography_and_equity,2026,world/cost-of-living-crisis,Cost of living crisis,keyword,1
+geography_and_equity,2026,world/eu,European Union,keyword,1
+geography_and_equity,2026,world/europe-news,Europe,keyword,13
+geography_and_equity,2026,world/far-right,The far right,keyword,1
+geography_and_equity,2026,world/france,France,keyword,2
+geography_and_equity,2026,world/houthi,Houthis,keyword,1
+geography_and_equity,2026,world/middleeast,Middle East and north Africa,keyword,1
+geography_and_equity,2026,world/migration,Migration,keyword,1
+geography_and_equity,2026,world/nato,Nato,keyword,2
+geography_and_equity,2026,world/norway,Norway,keyword,1
+geography_and_equity,2026,world/protest,Protest,keyword,1
+geography_and_equity,2026,world/russia,Russia,keyword,13
+geography_and_equity,2026,world/saudiarabia,Saudi Arabia,keyword,1
+geography_and_equity,2026,world/series/europe-live,Europe live,series,1
+geography_and_equity,2026,world/series/europe-live-with-jakub-krupa,Europe live with Jakub Krupa,series,1
+geography_and_equity,2026,world/series/russia-ukraine-war-at-a-glance,Russia-Ukraine war at a glance,series,3
+geography_and_equity,2026,world/series/this-is-europe,This Is Europe,series,1
+geography_and_equity,2026,world/strait-of-hormuz,Strait of Hormuz,keyword,1
+geography_and_equity,2026,world/ukraine,Ukraine,keyword,13
+geography_and_equity,2026,world/unitednations,United Nations,keyword,1
+geography_and_equity,2026,world/vladimir-putin,Vladimir Putin,keyword,8
+geography_and_equity,2026,world/volodymyr-zelenskiy,Volodymyr Zelenskyy,keyword,9
+geography_and_equity,2026,world/world,World news,keyword,15
+geography_and_equity,2026,world/xi-jinping,Xi Jinping,keyword,2

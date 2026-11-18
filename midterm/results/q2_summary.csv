@@ -1,0 +1,3 @@
+method,test_accuracy,correct,test_size,features,iterations
+CountVectorizer,0.8311111111111111,748,900,25267,37
+TfidfVectorizer,0.84,756,900,25267,24

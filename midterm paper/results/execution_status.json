@@ -1,0 +1,145 @@
+{
+  "checked_on_client_date": "2026-10-26",
+  "code_status": "WSI-FGI validation and calendar-aligned lead-lag / change diagnostics complete; no market-return analysis",
+  "guardian_api_second_pilot": {
+    "status": "completed; robots auxiliary 401 separated from Content API authentication",
+    "configuration_file": ".env; GUARDIAN_API_KEY=",
+    "strategies": 6,
+    "pilot_windows": [
+      "2017-01-09/2017-01-15",
+      "2020-03-16/2020-03-22",
+      "2026-10-19/2026-10-25"
+    ],
+    "live_api_requests": 28,
+    "all_strategy_year_searches": "18 of 18 complete; HTTP 200",
+    "raw_records_including_utc_buffer": 425,
+    "records_in_et_pilot_windows_including_strategy_duplicates": 374,
+    "duplicate_records_removed": 218,
+    "actual_api_articles": 156,
+    "actual_manual_review_articles": 124,
+    "manual_sample_per_year": {
+      "2017": 36,
+      "2020": 50,
+      "2026": 38
+    },
+    "manual_review_csv": "results/guardian_api_pilot/manual_review_sample.csv; relevance labels blank",
+    "numeric_volume_estimates": "metadata-based estimates saved; full-period pagination not performed",
+    "validation": "robots 401 plus search 200 proceeds; API 401/403/429 and explicit robots disallow stop; 14 review-notebook cells executed without additional HTTP; saved artifacts checked for key leakage",
+    "full_collection_launched": false
+  },
+  "current_design": {
+    "title": "Validating the Fear & Greed Index with Web-Based Financial Sentiment: Correlation and Lead-Lag Analysis",
+    "target_start": "2017-01-01",
+    "target_end": "2026-10-25",
+    "primary_index": "WSI_count",
+    "robustness_index": "WSI_continuous",
+    "news_and_reddit_kept_separate": true,
+    "full_collection_launched": false,
+    "source_pilot_notebook": "12 cells executed successfully using actual saved pilot results; no HTTP requests",
+    "incremental_validation": "verify_source_pilot.py passed",
+    "pilot_review": "SOURCE_PILOT_REVIEW.md"
+  },
+  "offline_validation": {
+    "formulas": "passed",
+    "calendar_lag_sign_and_missing_dates": "passed",
+    "access_limit_stop_and_text_preservation": "passed",
+    "notebook_structure_and_python_syntax": "passed",
+    "synthetic_end_to_end_pipeline": "passed",
+    "synthetic_notebook_execution": "25 of 25 cells passed in a fresh kernel",
+    "synthetic_documents_after_deduplication": 640,
+    "synthetic_figures_generated": 18,
+    "synthetic_artifacts": "temporary directory only; removed after checks; not empirical results"
+  },
+  "empirical_data_status": {
+    "fear_greed_observations_saved": 2443,
+    "fear_greed_date_range": [
+      "2017-01-03",
+      "2026-10-23"
+    ],
+    "fear_greed_source": "third_party_cnn_archive",
+    "news": "Guardian HTML pilot: 9 real documents, 3 each in 2017/2020/2026; publication times and VADER document scores checked",
+    "gdelt": "2026 probe ConnectionError; 2020 probe HTTP 429; 2017 request not sent after host denial",
+    "reddit": "not attempted; research access unconfirmed and official rolling coverage does not meet full target",
+    "empirical_daily_indices_and_correlations": "not computed; pilot samples are not a daily estimation dataset"
+  },
+  "guardian_full_collection": {
+    "target_start": "2017-01-01",
+    "target_end": "2026-10-25",
+    "status": "complete",
+    "primary_strategy": "broad_business_control",
+    "strict_robustness_strategy": "anchors_stock_market_tag",
+    "unique_articles": 5265,
+    "overlap": 2301,
+    "primary_unique": 5054,
+    "strict_unique": 2512,
+    "days_with_zero_articles": 806,
+    "missing_title": 0,
+    "missing_description": 0,
+    "missing_date": 0,
+    "validation": "verify_guardian_full_data.py passed",
+    "downstream_analysis_started": false
+  },
+  "guardian_text_preprocessing": {
+    "status": "complete_pending_review",
+    "articles": 5265,
+    "primary_frequency": "weekly",
+    "robustness_frequency": "weekly",
+    "exact_visible_headline_description_duplicates": 0,
+    "near_duplicate_candidates": 0,
+    "custom_stopwords_applied": [],
+    "lemmatization_applied": false,
+    "yearly_wordclouds": 20,
+    "yearly_panels": 2,
+    "weekly_descriptive_rows": 1026,
+    "validation": "all original metadata columns and raw hashes preserved; weekly counts crosschecked",
+    "downstream_sentiment_analysis_started": false
+  },
+  "guardian_final_preprocessing": {
+    "status": "validated_and_frozen",
+    "version": "guardian_text_v2_final",
+    "policy_sha256": "2874fd2b32c45097b161ccc62931a899777a0c7b9711d98efd587d7d1b1dff5d",
+    "custom_stopwords": [
+      "coverage",
+      "happened",
+      "latest",
+      "live",
+      "news",
+      "rolling"
+    ],
+    "lemmatization": false,
+    "articles": 5265,
+    "wordcloud_files": 25,
+    "raw_and_sentiment_unchanged": true,
+    "downstream_sentiment_analysis_started": false
+  },
+  "guardian_vader_weekly_WSI": {
+    "status": "diagnostics_complete",
+    "articles": 5265,
+    "model": "vaderSentiment==3.3.2",
+    "preprocessing_policy_unchanged": true,
+    "FGI_merged": false,
+    "lead_lag_or_market_analysis_started": false
+  },
+  "guardian_WSI_FGI_validation": {
+    "status": "diagnostics_complete",
+    "FGI_daily_observations": 2443,
+    "lags": [
+      -4,
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "weekly_FGI": [
+      "mean",
+      "last"
+    ],
+    "first_difference_robustness": true,
+    "preprocessing_and_WSI_unchanged": true,
+    "market_returns_regression_forecasting_started": false
+  }
+}

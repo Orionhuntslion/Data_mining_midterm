@@ -1,0 +1,5 @@
+﻿scope,strategy,label,n_weeks,total_articles,mean,median,min,max,p25,p75,zero_article_weeks,lt3_article_weeks,lt5_article_weeks,zero_article_weeks_pct,lt3_article_weeks_pct,lt5_article_weeks_pct
+complete_weeks,broad_business_control,broad,512,5054,9.87109375,9.0,3,27,8.0,12.0,0,0,18,0.0,0.0,3.515625
+complete_weeks,anchors_stock_market_tag,strict,512,2512,4.90625,5.0,0,23,3.0,6.0,8,71,251,1.5625,13.8671875,49.0234375
+all_intersecting_weeks,broad_business_control,broad,513,5054,9.851851851851851,9.0,0,27,8.0,12.0,1,1,19,0.1949317738791423,0.1949317738791423,3.7037037037037033
+all_intersecting_weeks,anchors_stock_market_tag,strict,513,2512,4.896686159844054,5.0,0,23,3.0,6.0,9,72,252,1.7543859649122806,14.035087719298245,49.122807017543856

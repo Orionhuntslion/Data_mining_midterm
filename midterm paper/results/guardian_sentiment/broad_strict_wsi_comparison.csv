@@ -1,0 +1,5 @@
+﻿scope,metric,paired_valid_weeks,broad_strict_pearson_correlation
+complete_weeks,WSI_count,504,0.6826305608110922
+complete_weeks,WSI_continuous,504,0.716922883581671
+all_calendar_weeks,WSI_count,504,0.6826305608110922
+all_calendar_weeks,WSI_continuous,504,0.716922883581671

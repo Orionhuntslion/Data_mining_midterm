@@ -1,0 +1,5 @@
+﻿query_strategy,WSI_metric,FGI_metric,analysis,scope,lag_weeks,n_pairs,pearson,spearman
+broad_business_control,WSI_count,FGI_weekly_mean,first_differences,complete_weeks,0,506,0.11028365465572472,0.10678306193469486
+broad_business_control,WSI_continuous,FGI_weekly_mean,first_differences,complete_weeks,0,506,0.13011291329478425,0.11928859157260277
+anchors_stock_market_tag,WSI_count,FGI_weekly_mean,first_differences,complete_weeks,0,490,0.05117890526239672,0.06569802021603799
+anchors_stock_market_tag,WSI_continuous,FGI_weekly_mean,first_differences,complete_weeks,0,490,0.07488592354779797,0.07466845341434618

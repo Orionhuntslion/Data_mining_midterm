@@ -1,0 +1,9 @@
+﻿scope,query_strategy,metric,calendar_weeks,valid_weeks,missing_weeks,mean,median,std,min,max,weeks_lt3_articles,weeks_lt5_articles,degenerate_intervals,intervals_outside_0_100
+complete_weeks,broad_business_control,WSI_count,512,512,0,45.39507542968973,44.99999999999999,18.333223037586844,0.0,100.0,0,18,4,115
+complete_weeks,broad_business_control,WSI_continuous,512,512,0,46.31764208925739,46.80164285714285,10.377640386585693,17.068,73.18299999999999,0,18,4,115
+complete_weeks,anchors_stock_market_tag,WSI_count,512,504,8,43.63410684452109,41.666666666666664,26.321112163109532,0.0,100.0,71,251,76,288
+complete_weeks,anchors_stock_market_tag,WSI_continuous,512,504,8,45.52781525834829,45.810500000000005,14.763564769553804,8.875,88.25,71,251,76,288
+all_calendar_weeks,broad_business_control,WSI_count,513,512,1,45.39507542968973,44.99999999999999,18.333223037586844,0.0,100.0,1,19,4,115
+all_calendar_weeks,broad_business_control,WSI_continuous,513,512,1,46.31764208925739,46.80164285714285,10.377640386585693,17.068,73.18299999999999,1,19,4,115
+all_calendar_weeks,anchors_stock_market_tag,WSI_count,513,504,9,43.63410684452109,41.666666666666664,26.321112163109532,0.0,100.0,72,252,76,288
+all_calendar_weeks,anchors_stock_market_tag,WSI_continuous,513,504,9,45.52781525834829,45.810500000000005,14.763564769553804,8.875,88.25,72,252,76,288

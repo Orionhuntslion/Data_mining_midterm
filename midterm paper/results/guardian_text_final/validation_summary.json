@@ -1,0 +1,135 @@
+{
+  "status": "passed",
+  "physical_articles": 5265,
+  "strategy_article_counts": {
+    "broad_business_control": 5054,
+    "anchors_stock_market_tag": 2512
+  },
+  "only_six_approved_tokens_removed": true,
+  "all_other_token_counts_unchanged": true,
+  "raw_and_sentiment_text_unchanged": true,
+  "raw_parquet_and_v1_baseline_unchanged": true,
+  "baseline_hashes": {
+    "data\\processed\\guardian_text\\articles\\year=2017\\part-00000.parquet": "cb75eb9c630301e86e09020e40b10e3b2932d9236569c304493b18fc4ff8b991",
+    "data\\processed\\guardian_text\\articles\\year=2018\\part-00000.parquet": "84604c4d6f98fe6dd9eb52a38f6f428c5eae9cd0ce0b6ffdc01f1b97ea7abe57",
+    "data\\processed\\guardian_text\\articles\\year=2019\\part-00000.parquet": "f3bdfddb1ef52b813e2affe259cedcafa3afd6e99cb0a7409a8c30bce84f51c6",
+    "data\\processed\\guardian_text\\articles\\year=2020\\part-00000.parquet": "448004800c6f09865b4a8ad6394aa1fca791f7e89fcf1def5c33ececb5611abd",
+    "data\\processed\\guardian_text\\articles\\year=2021\\part-00000.parquet": "c7d4d65fcd0123fbf32770d9c8908b56ddfcb128420fbe62be3a14b1c4d2e4e3",
+    "data\\processed\\guardian_text\\articles\\year=2022\\part-00000.parquet": "9e668fc0e3ea4ef8ac84e4a384a04edcbc3445c4435ee48fffc544bf50426884",
+    "data\\processed\\guardian_text\\articles\\year=2023\\part-00000.parquet": "e720717a67aeaee67ada8a576952cf6c732d45d5d34c5626f2bc133c6a35b6de",
+    "data\\processed\\guardian_text\\articles\\year=2024\\part-00000.parquet": "1f1c112d6547c3d11591698812ab372c2e4d105681c321a03f7623444695d171",
+    "data\\processed\\guardian_text\\articles\\year=2025\\part-00000.parquet": "c1e23b111d93841c9dbfc8c40fa1d9c21eef215fed582a008a56ce814b39fe87",
+    "data\\processed\\guardian_text\\articles\\year=2026\\part-00000.parquet": "c8cdad47fe0a5ff5dc5f8f8d5b4ad688bdcb0329544b7134372b5115c535ef8b"
+  },
+  "raw_hashes": {
+    "data\\raw\\news\\guardian_full\\articles\\year=2017\\part-00000.parquet": "4ecb8acc23c8932f28578d75252def42ce42d29002a20c24c899a46deeb6eb6c",
+    "data\\raw\\news\\guardian_full\\articles\\year=2018\\part-00000.parquet": "ad5ff6b2de1644e4a26957c663d406d7f140593bba807e480bcc55b7c49db6e8",
+    "data\\raw\\news\\guardian_full\\articles\\year=2019\\part-00000.parquet": "9670ef06f642502aad7adf112526d564ddafa410a752ecad28bc6837f7f9e0fb",
+    "data\\raw\\news\\guardian_full\\articles\\year=2020\\part-00000.parquet": "b67ae04c96fc8fa6aa2d7bf6da32f1e55a8be4001e84eb3475b1c84ca901b3d0",
+    "data\\raw\\news\\guardian_full\\articles\\year=2021\\part-00000.parquet": "1874902de2150f0424c23c424bb15c7c37864c933e235d854396dd9dbdb1d8c1",
+    "data\\raw\\news\\guardian_full\\articles\\year=2022\\part-00000.parquet": "5712e599a4d83e6f5f0c9433b1513d2241570db9e4b7a253fba3775f3c8d4ec7",
+    "data\\raw\\news\\guardian_full\\articles\\year=2023\\part-00000.parquet": "cd56db73226a991ed1e6196779ffc8bcd2228349102abc78a1fcffedc05c286a",
+    "data\\raw\\news\\guardian_full\\articles\\year=2024\\part-00000.parquet": "98c654bb4a8c8bcc207bde8cdb5dfb42c2e6a42749af6f22f8ba106f32ac34a0",
+    "data\\raw\\news\\guardian_full\\articles\\year=2025\\part-00000.parquet": "508c96e65d22d2a8d65689eb972eab3fd08067724bb2d3495a142ac0a49835ae",
+    "data\\raw\\news\\guardian_full\\articles\\year=2026\\part-00000.parquet": "71e6f1a9b7aa1488531a3326e26a29354a7b3b0d7a74e6e779ce9973d2a85785"
+  },
+  "financial_vocabulary_preserved": true,
+  "new_year_business_says_preserved": true,
+  "bigrams_exclude_approved_stopwords": true,
+  "no_phrase_level_rules_added": true,
+  "lemmatization": false,
+  "policy_sha256": "2874fd2b32c45097b161ccc62931a899777a0c7b9711d98efd587d7d1b1dff5d",
+  "wordcloud_files": [
+    "figures\\guardian_text_final\\wordcloud_broad_2017.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2018.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2019.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2020.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2021.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2022.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2023.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2024.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2025.png",
+    "figures\\guardian_text_final\\wordcloud_broad_2026.png",
+    "figures\\guardian_text_final\\wordcloud_broad_all_years.png",
+    "figures\\guardian_text_final\\wordcloud_broad_full_period.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2017.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2018.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2019.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2020.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2021.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2022.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2023.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2024.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2025.png",
+    "figures\\guardian_text_final\\wordcloud_strict_2026.png",
+    "figures\\guardian_text_final\\wordcloud_strict_all_years.png",
+    "figures\\guardian_text_final\\wordcloud_strict_full_period.png",
+    "figures\\guardian_text_final\\wordcloud_representative_years.png"
+  ],
+  "output_manifest": [
+    {
+      "year": 2017,
+      "articles": 448,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2017\\part-00000.parquet",
+      "sha256": "30cbf6b16617fd59e9f7516696e15e132d88d47f893aabb94f90746a9fb8d41b"
+    },
+    {
+      "year": 2018,
+      "articles": 538,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2018\\part-00000.parquet",
+      "sha256": "3ee50533c55b3c70f46ece66951882fd26242869c5172bde39bbf5e9df75f374"
+    },
+    {
+      "year": 2019,
+      "articles": 569,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2019\\part-00000.parquet",
+      "sha256": "dee72f512000306083e9dbe940e5e9d47fa8f7527be1afd49458909fa513471a"
+    },
+    {
+      "year": 2020,
+      "articles": 589,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2020\\part-00000.parquet",
+      "sha256": "d20e777510a814eed0c51bb9ec62558ee62d3c7ec63f45165e8fd3e15143d018"
+    },
+    {
+      "year": 2021,
+      "articles": 610,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2021\\part-00000.parquet",
+      "sha256": "a0fdb68dff5f685a916111c6a981a0667ead5a0831dff4e78ef077c62918a2fc"
+    },
+    {
+      "year": 2022,
+      "articles": 502,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2022\\part-00000.parquet",
+      "sha256": "eae92460bb9fa4d08e33756ba8cf7594c0981c344cb04770b5191cd5b728a5ee"
+    },
+    {
+      "year": 2023,
+      "articles": 422,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2023\\part-00000.parquet",
+      "sha256": "2a64530923e48a3ee9f80345a142d86346e5d9dcd78e9f3b232aae4f450cf075"
+    },
+    {
+      "year": 2024,
+      "articles": 525,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2024\\part-00000.parquet",
+      "sha256": "949ba7ae43742e8d078abd35544190d9178f6b1949892506f3d0cff9404de013"
+    },
+    {
+      "year": 2025,
+      "articles": 570,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2025\\part-00000.parquet",
+      "sha256": "70997b22d879e7d9245a4bc36ba85957128f39ffad64cca9f274e21a36e0fc00"
+    },
+    {
+      "year": 2026,
+      "articles": 492,
+      "file": "data\\processed\\guardian_text_final\\articles\\year=2026\\part-00000.parquet",
+      "sha256": "175af505605352e76a8d351f590ee266cf1c1dac7a37c5b43c318ff0ba5ee54d"
+    }
+  ],
+  "network_requests": 0,
+  "sentiment_scoring": false,
+  "WSI_constructed": false,
+  "FGI_merged": false
+}

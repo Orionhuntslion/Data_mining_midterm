@@ -1,0 +1,11 @@
+﻿predictor,role,relationship,return_variable,calendar_complete_weeks,valid_predictor_weeks,valid_return_weeks,valid_paired_weeks,predictor_only_weeks,return_only_weeks,neither_valid_weeks,first_matched_predictor_week,last_matched_predictor_week,first_matched_return_week,last_matched_return_week
+broad_WSI_count,primary,contemporaneous,weekly_log_return,512,512,511,511,1,0,0,2017-01-09,2026-10-19,2017-01-09,2026-10-19
+broad_WSI_count,primary,exploratory_next_week,next_week_log_return,512,512,511,511,1,0,0,2017-01-02,2026-10-12,2017-01-09,2026-10-19
+broad_WSI_continuous,continuous_robustness,contemporaneous,weekly_log_return,512,512,511,511,1,0,0,2017-01-09,2026-10-19,2017-01-09,2026-10-19
+broad_WSI_continuous,continuous_robustness,exploratory_next_week,next_week_log_return,512,512,511,511,1,0,0,2017-01-02,2026-10-12,2017-01-09,2026-10-19
+strict_WSI_count,strict_robustness,contemporaneous,weekly_log_return,512,504,511,503,1,8,0,2017-01-09,2026-10-19,2017-01-09,2026-10-19
+strict_WSI_count,strict_robustness,exploratory_next_week,next_week_log_return,512,504,511,503,1,8,0,2017-01-02,2026-10-12,2017-01-09,2026-10-19
+strict_WSI_continuous,strict_continuous_robustness,contemporaneous,weekly_log_return,512,504,511,503,1,8,0,2017-01-09,2026-10-19,2017-01-09,2026-10-19
+strict_WSI_continuous,strict_continuous_robustness,exploratory_next_week,next_week_log_return,512,504,511,503,1,8,0,2017-01-02,2026-10-12,2017-01-09,2026-10-19
+FGI_weekly_mean,FGI_context_benchmark,contemporaneous,weekly_log_return,512,508,511,507,1,4,0,2017-01-09,2026-10-19,2017-01-09,2026-10-19
+FGI_weekly_mean,FGI_context_benchmark,exploratory_next_week,next_week_log_return,512,508,511,507,1,4,0,2017-01-02,2026-10-12,2017-01-09,2026-10-19

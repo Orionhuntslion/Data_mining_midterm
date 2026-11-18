@@ -1,0 +1,12 @@
+{
+  "source_daily_counts_sha256": "d2126248399bd0503963b15f51bee32a2e2793d33cfefdc2a15d2c7468e0c633",
+  "week_definition": "Monday through Sunday; America/New_York calendar date",
+  "complete_weeks": 512,
+  "all_intersecting_weeks": 513,
+  "partial_weeks": 1,
+  "weekly_totals_match_daily_and_collection": true,
+  "independent_parquet_iso_week_crosscheck": true,
+  "network_requests": 0,
+  "text_preprocessing": false,
+  "sentiment_scoring": false
+}

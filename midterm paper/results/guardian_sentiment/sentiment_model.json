@@ -1,0 +1,37 @@
+{
+  "model": "VADER",
+  "package": "vaderSentiment",
+  "version": "3.3.2",
+  "input": "text_sentiment",
+  "input_policy": "guardian_text_v2_final",
+  "input_policy_sha256": "2874fd2b32c45097b161ccc62931a899777a0c7b9711d98efd587d7d1b1dff5d",
+  "positive_threshold_inclusive": 0.05,
+  "negative_threshold_inclusive": -0.05,
+  "scoring_unit": "one complete preserved article text_sentiment per polarity_scores call",
+  "lexicon_or_rule_modifications": false,
+  "manual_label_overrides": false,
+  "lexicon_hashes": {
+    "vader_lexicon.txt": "1ec9c6e9ee19aade328f8beb393a6afa71a5bb3acf7d3cc22d4ef568df374bf5",
+    "emoji_utf8_lexicon.txt": "b8d54223ae1ce22a3e12c1f745316b71678c328eb5f5d3063a842f37cfbe2823"
+  },
+  "versions": {
+    "pandas": "2.3.3",
+    "pyarrow": "25.0.1",
+    "numpy": "2.2.5",
+    "matplotlib": "3.10.9",
+    "vaderSentiment": "3.3.2"
+  },
+  "python_version": "3.10.21 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:35:39) [MSC v.1942 64 bit (AMD64)]",
+  "article_std": "sample standard deviation ddof=1",
+  "article_skewness": "pandas bias-corrected sample skewness",
+  "article_kurtosis": "pandas bias-corrected Fisher excess; Pearson = excess + 3",
+  "weekly_std": "sample standard deviation ddof=1; undefined for n < 2",
+  "week": "existing America/New_York Monday-Sunday; first partial week retained and flagged",
+  "primary_WSI": "50 * (1 + (positive_count - negative_count) / article_count)",
+  "robustness_WSI": "50 * (1 + mean_compound)",
+  "empty_week": "counts zero; shares, sentiment, WSI, SE and intervals missing; no interpolation",
+  "interval": "multinomial plug-in SE; WSI +/- 1.96*SE; approximate, not clipped to [0,100]",
+  "interval_limitations": "articles can be dependent; few documents or unanimous labels can yield misleadingly narrow or zero-width intervals; not model or relevance uncertainty",
+  "reference": "https://github.com/cjhutto/vaderSentiment/blob/master/README.rst",
+  "no_FGI_merge_or_validation": true
+}

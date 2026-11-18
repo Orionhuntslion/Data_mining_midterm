@@ -1,0 +1,10 @@
+pandas==2.2.3
+scikit-learn==1.6.1
+nltk==3.9.1
+afinn==0.1
+textblob==0.20.1
+beautifulsoup4==4.12.3
+html5lib==1.1
+nbformat
+nbclient
+ipykernel

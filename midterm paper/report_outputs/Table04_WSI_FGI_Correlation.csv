@@ -1,0 +1,9 @@
+﻿query_strategy,WSI_metric,FGI_metric,analysis,scope,n_pairs,pearson,spearman
+broad_business_control,WSI_count,FGI_weekly_mean,levels,complete_weeks,508,0.22476955385500133,0.2077010469474991
+broad_business_control,WSI_count,FGI_weekly_last,levels,complete_weeks,508,0.23406222288643824,0.21299930062567776
+broad_business_control,WSI_continuous,FGI_weekly_mean,levels,complete_weeks,508,0.22859875999186058,0.1959615056891344
+broad_business_control,WSI_continuous,FGI_weekly_last,levels,complete_weeks,508,0.24145935244633876,0.20356412317608133
+anchors_stock_market_tag,WSI_count,FGI_weekly_mean,levels,complete_weeks,500,0.14186656403136122,0.13896667328815712
+anchors_stock_market_tag,WSI_count,FGI_weekly_last,levels,complete_weeks,500,0.14581003198367676,0.13954229772402646
+anchors_stock_market_tag,WSI_continuous,FGI_weekly_mean,levels,complete_weeks,500,0.1510564384228505,0.141578107389257
+anchors_stock_market_tag,WSI_continuous,FGI_weekly_last,levels,complete_weeks,500,0.15694226668131617,0.14669251135603464

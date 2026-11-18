@@ -1,0 +1,43 @@
+{
+  "analysis": "final exploratory univariate return analysis",
+  "period": [
+    "2017-01-01",
+    "2026-10-25"
+  ],
+  "week": "existing America/New_York Monday-Sunday; complete weeks used for analysis; partial boundary retained",
+  "weekly_price": "last valid close in each calendar week",
+  "weekly_return": "ln(P_w / P_(w-1)); decimal log units",
+  "initial_week": "no price outside target period used; first complete-week return missing without previous-week close",
+  "gaps": "full calendar retained; no fill; missing week close makes that week and next return missing",
+  "next_week_alignment": "target return keyed to week_start + 7 days before dropping missing pairs",
+  "OLS": "r_(w+h)=alpha+beta*x_w+epsilon, h=0 or 1; separate single predictor plus intercept for every fit",
+  "coefficient_unit": "decimal weekly log return per one 0-100 index point; not a regression on price levels",
+  "SE_beta": "sqrt([sum(residual^2)/(n-2)]/sum((x-xbar)^2)); conventional homoskedastic iid OLS",
+  "test": "t=beta/SE_beta; two-sided p=2*Student_t_sf(abs(t),df=n-2)",
+  "R_squared": "1-SSE/SST",
+  "adjusted_R_squared": "1-(1-R_squared)*(n-1)/(n-2)",
+  "correlations": "Pearson and tie-aware average-rank Spearman on each model's valid pair set",
+  "CSV_precision": "round_trip; no changes or rounding to original WSI/FGI",
+  "FGI_comparison": "optional context benchmark; pairwise sample sizes reported, not necessarily common dates; not ground truth",
+  "limitations": [
+    "exploratory associations only",
+    "conventional SE/p-values can be misleading under serial dependence or heteroskedasticity",
+    "multiple specifications without multiplicity adjustment",
+    "WSI measurement error, variable article density and overlapping strategies",
+    "FGI archived source eras and missing weeks retained",
+    "price return excludes dividends",
+    "no causal, predictive, trading or market-efficiency claims"
+  ],
+  "upstream_results_modified": false,
+  "forecasting_ML_multivariate": false,
+  "versions": {
+    "requests": "2.34.2",
+    "pandas": "2.3.3",
+    "numpy": "2.2.5",
+    "pyarrow": "25.0.1",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.9",
+    "exchange_calendars": "4.13.2"
+  },
+  "python_version": "3.10.21 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:35:39) [MSC v.1942 64 bit (AMD64)]"
+}

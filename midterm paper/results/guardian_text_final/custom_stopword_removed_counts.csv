@@ -1,0 +1,13 @@
+﻿query_strategy,term,before_count,after_count
+broad_business_control,coverage,854,0
+broad_business_control,happened,2101,0
+broad_business_control,latest,859,0
+broad_business_control,live,229,0
+broad_business_control,news,915,0
+broad_business_control,rolling,839,0
+anchors_stock_market_tag,coverage,697,0
+anchors_stock_market_tag,happened,1610,0
+anchors_stock_market_tag,latest,701,0
+anchors_stock_market_tag,live,153,0
+anchors_stock_market_tag,news,756,0
+anchors_stock_market_tag,rolling,689,0

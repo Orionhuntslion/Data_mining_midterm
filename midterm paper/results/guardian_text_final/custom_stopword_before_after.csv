@@ -1,0 +1,3 @@
+﻿query_strategy,articles,clean_tokens_before,clean_tokens_after,tokens_removed,removed_pct,unique_tokens_before,unique_tokens_after,new_top30_terms
+broad_business_control,5054,112409,106612,5797,5.157060377727762,12556,12550,hit | global | oil | up | record
+anchors_stock_market_tag,2512,57888,53282,4606,7.956744057490326,7338,7332,says | over | rate | year | oil

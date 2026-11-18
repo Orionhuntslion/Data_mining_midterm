@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "key_source": "project_dotenv",
+  "strategies": {
+    "broad_business_control": {
+      "last_completed_page": 26,
+      "pages_reported": 26,
+      "api_total": 5055,
+      "complete": true
+    },
+    "anchors_stock_market_tag": {
+      "last_completed_page": 13,
+      "pages_reported": 13,
+      "api_total": 2513,
+      "complete": true
+    }
+  },
+  "downstream_analysis_started": false,
+  "api_requests_this_run": 40,
+  "quality_summary": "quality_summary.json",
+  "unique_articles": 5265
+}

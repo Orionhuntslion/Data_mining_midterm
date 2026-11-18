@@ -1,0 +1,24 @@
+﻿group,library,current_environment_version,version_recorded_at_full_validation,purpose,installation
+full_collection_and_quality,requests,2.34.2,2.34.2,"공식 Guardian API GET, 인증·오류·요청 간격 처리",external package
+full_collection_and_quality,pandas,2.3.3,2.3.3,"발행 시각 UTC/뉴욕 변환, 건수 집계, CSV, 품질 진단",external package
+full_collection_and_quality,pyarrow,25.0.1,25.0.1,연도별 Parquet 쓰기·배치 읽기·시간대 스키마 보존,external package
+full_collection_and_quality,numpy,2.2.5,,"고정 시드 무작위 검사 표본, 수치 계산",external package
+full_collection_and_quality,matplotlib,3.10.9,,월별 기사량·주별 분포 그래프,external package
+initial_pilot_or_notebook,beautifulsoup4,4.15.0,,초기 공개 HTML 출처 파일럿의 제목/설명 메타데이터 추출. 전체 수집은 공식 API라 미사용,external package
+initial_pilot_or_notebook,nbformat,5.11.0,,주피터 노트북 생성·구조 검증,external package
+initial_pilot_or_notebook,nbclient,0.11.0,,노트북 자동 실행·검증,external package
+initial_pilot_or_notebook,ipykernel,7.3.0,,Python 주피터 실행 커널,external package
+initial_pilot_or_notebook,jupyter_client,8.10.0,,노트북 커널 실행·관리,external package
+initial_pilot_or_notebook,ipython,8.30.0,,노트북 표·그림·Markdown 표시,external package
+python_standard_library,sqlite3,Python 3.10.21,,"원자료 ID 중복 병합, 페이지별 트랜잭션, 재개 기록; SQLite 엔진 3.53.2",built in; no pip install
+python_standard_library,pathlib,Python 3.10.21,,상대/절대 파일 경로와 디렉터리 관리,built in; no pip install
+python_standard_library,json,Python 3.10.21,,원응답과 메타데이터·진단 JSON 보존,built in; no pip install
+python_standard_library,hashlib,Python 3.10.21,,요청 조건·원자료 SHA-256 검증,built in; no pip install
+python_standard_library,datetime / time,Python 3.10.21,,시각·요청 간격·24시간 예산 관리,built in; no pip install
+python_standard_library,urllib.robotparser / urllib.parse,Python 3.10.21,,robots 규칙 확인과 공식 API URL 검사,built in; no pip install
+python_standard_library,os,Python 3.10.21,,환경변수에서 API 키 읽기; .env는 직접 파싱하며 python-dotenv는 사용하지 않음,built in; no pip install
+python_standard_library,argparse / dataclasses,Python 3.10.21,,CLI 옵션과 설정 관리,built in; no pip install
+python_standard_library,sys / runpy,Python 3.10.21,,실행 환경 경로와 기존 공통 모듈 재사용,built in; no pip install
+python_standard_library,math,Python 3.10.21,,파일럿 요청량 추정과 precision 참고 구간 계산,built in; no pip install
+python_standard_library,tempfile / unittest.mock,Python 3.10.21,,임시 합성 자료와 네트워크 없는 회귀 검증,built in; no pip install
+python_standard_library,collections.Counter,Python 3.10.21,,Parquet 날짜와 소속 플래그의 주간 건수 독립 교차 검증,built in; no pip install

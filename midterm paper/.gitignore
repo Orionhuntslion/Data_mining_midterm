@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.packages/
+.nltk_data/
+.env
+.env.*
+!.env.example
+# raw/processed 자료에는 제3자 뉴스 원문이 포함됨. 배포 여부는 별도 판단.
+data/raw/
+data/processed/
+data/external/

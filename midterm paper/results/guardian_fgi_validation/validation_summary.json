@@ -1,0 +1,43 @@
+{
+  "input_sha256": {
+    "data\\external\\fear_greed_2017-01-01_2026-10-25.csv": "45e349d61abc13c451c9ea379bc46869dc21e196a72ae604b3dd5550bb548e79",
+    "FINAL_PREPROCESSING_POLICY.json": "3d0c50625f087fed4ef867612186137162eb743c91f34ca424350138b3515054",
+    "FINAL_PREPROCESSING_POLICY.md": "eaecb708b8c5666a4ae182380827798d674c2d1e9ab723f23ac045cf3e597132",
+    "results\\guardian_text_final\\final_preprocessing_policy.json": "3d0c50625f087fed4ef867612186137162eb743c91f34ca424350138b3515054",
+    "results\\guardian_sentiment\\sentiment_model.json": "b2bcd8004b21d0dcec78f4c2a674766f8fabad4303590bed992ccd587977a618",
+    "results\\guardian_sentiment\\weekly_broad_wsi.csv": "8f615d74d5de5f5304e468741c47b11644f27799a0971589fdb9d8a5ca59fc4e",
+    "results\\guardian_sentiment\\weekly_broad_wsi.parquet": "1f8d7176fa5cfdd56d258a47fa22022a7eba007ad411f8e0658d4d5bf9e71b36",
+    "results\\guardian_sentiment\\weekly_strict_wsi.csv": "91afddf80f6d81bd8f797e2920e2a0c80a2464f8c24b16b975e41243980786bb",
+    "results\\guardian_sentiment\\weekly_strict_wsi.parquet": "16e00b585f2e26471c0193883ce1b91220472aa1fcabc89dac420e2c230998cc",
+    "data\\processed\\guardian_text_final\\articles\\year=2017\\part-00000.parquet": "30cbf6b16617fd59e9f7516696e15e132d88d47f893aabb94f90746a9fb8d41b",
+    "data\\processed\\guardian_text_final\\articles\\year=2018\\part-00000.parquet": "3ee50533c55b3c70f46ece66951882fd26242869c5172bde39bbf5e9df75f374",
+    "data\\processed\\guardian_text_final\\articles\\year=2019\\part-00000.parquet": "dee72f512000306083e9dbe940e5e9d47fa8f7527be1afd49458909fa513471a",
+    "data\\processed\\guardian_text_final\\articles\\year=2020\\part-00000.parquet": "d20e777510a814eed0c51bb9ec62558ee62d3c7ec63f45165e8fd3e15143d018",
+    "data\\processed\\guardian_text_final\\articles\\year=2021\\part-00000.parquet": "a0fdb68dff5f685a916111c6a981a0667ead5a0831dff4e78ef077c62918a2fc",
+    "data\\processed\\guardian_text_final\\articles\\year=2022\\part-00000.parquet": "eae92460bb9fa4d08e33756ba8cf7594c0981c344cb04770b5191cd5b728a5ee",
+    "data\\processed\\guardian_text_final\\articles\\year=2023\\part-00000.parquet": "2a64530923e48a3ee9f80345a142d86346e5d9dcd78e9f3b232aae4f450cf075",
+    "data\\processed\\guardian_text_final\\articles\\year=2024\\part-00000.parquet": "949ba7ae43742e8d078abd35544190d9178f6b1949892506f3d0cff9404de013",
+    "data\\processed\\guardian_text_final\\articles\\year=2025\\part-00000.parquet": "70997b22d879e7d9245a4bc36ba85957128f39ffad64cca9f274e21a36e0fc00",
+    "data\\processed\\guardian_text_final\\articles\\year=2026\\part-00000.parquet": "175af505605352e76a8d351f590ee266cf1c1dac7a37c5b43c318ff0ba5ee54d",
+    "data\\processed\\guardian_vader\\articles\\year=2017\\part-00000.parquet": "2165c003fe066ed8536581e93148c10530a9901ca7b6470f13803cffeb9d916c",
+    "data\\processed\\guardian_vader\\articles\\year=2018\\part-00000.parquet": "e7c8165aeb5a28d0b003cd23eeb53e6ecfbd622456cd38d6a6d3cd97d8ed097d",
+    "data\\processed\\guardian_vader\\articles\\year=2019\\part-00000.parquet": "91a9a504d2a80d4e64220ea43947f726fe063deeb1beb01883a3df4d588ee316",
+    "data\\processed\\guardian_vader\\articles\\year=2020\\part-00000.parquet": "0c95de77ac9e6d9db6e53d0f789789c549affc60f0ed62135e18abca5d23dc3c",
+    "data\\processed\\guardian_vader\\articles\\year=2021\\part-00000.parquet": "4ef711d7788359e55780c4ab9fde0113bd334a8bb772db3a9a93ef448ec39bc6",
+    "data\\processed\\guardian_vader\\articles\\year=2022\\part-00000.parquet": "ae9a24afe63ded2a61b44ed938df3b888280c4d0211a093f3f958aef8df35c90",
+    "data\\processed\\guardian_vader\\articles\\year=2023\\part-00000.parquet": "42cbfcdda536131cf0b9f945e6496fd5a409bb9c412d0635b0a1bf3685575437",
+    "data\\processed\\guardian_vader\\articles\\year=2024\\part-00000.parquet": "e8503b92cd99845067f4d1f705d178273fd42226a3ed046c9e57084a3da5cf61",
+    "data\\processed\\guardian_vader\\articles\\year=2025\\part-00000.parquet": "39fbc7a98f54e05fa28422f515475ead5f9153b75c9c210fb5ee732575295575",
+    "data\\processed\\guardian_vader\\articles\\year=2026\\part-00000.parquet": "5be47f1da47402a563341f02cedb6a79b95a760114a55b64677cc4189412b954"
+  },
+  "all_protected_inputs_unchanged": true,
+  "status": "pipeline_checks_passed",
+  "figures": [
+    "wsi_fgi_overlay_0_100.png",
+    "wsi_fgi_overlay_standardized.png",
+    "wsi_fgi_scatter.png",
+    "wsi_fgi_lead_lag.png"
+  ],
+  "network_requests_during_analysis": 0,
+  "market_data_used": false
+}

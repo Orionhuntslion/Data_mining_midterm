@@ -1,0 +1,6 @@
+﻿inspection_category,candidate_articles,sampled_articles,selection_rule,random_seed
+strongly_positive,298,12,compound >= 0.75,42
+strongly_negative,612,12,compound <= -0.75,43
+near_neutral,732,12,"abs(compound) <= 0.10, including threshold-adjacent labels",44
+profanity_or_slang,0,0,\b(?:fuck(?:ing|ed)?|shit|bullshit|bastard|damn|crap|fomo|yolo|stonks|hodl|tendies|rekt)\b|diamond hands|to the moon,45
+potential_suspicious_classification,389,20,"direction-word heuristic vs zero/opposite compound; candidate only, not a verified error",46

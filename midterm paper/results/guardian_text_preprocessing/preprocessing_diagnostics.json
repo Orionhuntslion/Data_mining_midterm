@@ -1,0 +1,153 @@
+{
+  "articles": 5265,
+  "headline_description_exact_raw": 0,
+  "headline_description_exact_visible": 0,
+  "headline_description_near_duplicate": 0,
+  "headline_differs_from_web_title": 333,
+  "empty_text_sentiment": 0,
+  "empty_text_clean": 0,
+  "articles_with_html": 135,
+  "articles_with_html_entities": 88,
+  "articles_with_urls": 0,
+  "strategy_token_counts": [
+    {
+      "query_strategy": "broad_business_control",
+      "articles": 5054,
+      "raw_tokens": 155246,
+      "sentiment_visible_tokens": 154979,
+      "before_stopwords_tokens": 154614,
+      "clean_tokens": 112409,
+      "tokens_removed_raw_to_clean_pct": 27.59298146168018,
+      "clean_vocabulary": 12556
+    },
+    {
+      "query_strategy": "anchors_stock_market_tag",
+      "articles": 2512,
+      "raw_tokens": 79634,
+      "sentiment_visible_tokens": 79511,
+      "before_stopwords_tokens": 79216,
+      "clean_tokens": 57888,
+      "tokens_removed_raw_to_clean_pct": 27.307431499108425,
+      "clean_vocabulary": 7338
+    }
+  ],
+  "custom_stopwords_applied": [],
+  "lemmatization": {
+    "scope": "all unique articles; diagnostics only",
+    "baseline_vocabulary": 12884,
+    "naive_noun_lemma_vocabulary": 11680,
+    "protected_noun_lemma_vocabulary": 11679,
+    "protected_noun_vocab_reduction_pct": 9.352685501397085,
+    "tokens_that_would_change": 18754,
+    "token_change_share": 0.16035912783240702,
+    "applied_to_text_clean": false,
+    "decision": "not applied: vocabulary compression is not evidence of semantic improvement; no POS/context validation; inspect mapping first"
+  },
+  "wordcloud_files": [
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2017.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2018.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2019.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2020.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2021.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2022.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2023.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2024.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2025.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_2026.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_broad_all_years.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2017.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2018.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2019.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2020.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2021.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2022.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2023.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2024.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2025.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_2026.png",
+    "figures\\guardian_text_preprocessing\\wordcloud_strict_all_years.png"
+  ],
+  "physical_article_records": 5265,
+  "output_manifest": [
+    {
+      "year": 2017,
+      "articles": 448,
+      "file": "data\\processed\\guardian_text\\articles\\year=2017\\part-00000.parquet",
+      "sha256": "cb75eb9c630301e86e09020e40b10e3b2932d9236569c304493b18fc4ff8b991"
+    },
+    {
+      "year": 2018,
+      "articles": 538,
+      "file": "data\\processed\\guardian_text\\articles\\year=2018\\part-00000.parquet",
+      "sha256": "84604c4d6f98fe6dd9eb52a38f6f428c5eae9cd0ce0b6ffdc01f1b97ea7abe57"
+    },
+    {
+      "year": 2019,
+      "articles": 569,
+      "file": "data\\processed\\guardian_text\\articles\\year=2019\\part-00000.parquet",
+      "sha256": "f3bdfddb1ef52b813e2affe259cedcafa3afd6e99cb0a7409a8c30bce84f51c6"
+    },
+    {
+      "year": 2020,
+      "articles": 589,
+      "file": "data\\processed\\guardian_text\\articles\\year=2020\\part-00000.parquet",
+      "sha256": "448004800c6f09865b4a8ad6394aa1fca791f7e89fcf1def5c33ececb5611abd"
+    },
+    {
+      "year": 2021,
+      "articles": 610,
+      "file": "data\\processed\\guardian_text\\articles\\year=2021\\part-00000.parquet",
+      "sha256": "c7d4d65fcd0123fbf32770d9c8908b56ddfcb128420fbe62be3a14b1c4d2e4e3"
+    },
+    {
+      "year": 2022,
+      "articles": 502,
+      "file": "data\\processed\\guardian_text\\articles\\year=2022\\part-00000.parquet",
+      "sha256": "9e668fc0e3ea4ef8ac84e4a384a04edcbc3445c4435ee48fffc544bf50426884"
+    },
+    {
+      "year": 2023,
+      "articles": 422,
+      "file": "data\\processed\\guardian_text\\articles\\year=2023\\part-00000.parquet",
+      "sha256": "e720717a67aeaee67ada8a576952cf6c732d45d5d34c5626f2bc133c6a35b6de"
+    },
+    {
+      "year": 2024,
+      "articles": 525,
+      "file": "data\\processed\\guardian_text\\articles\\year=2024\\part-00000.parquet",
+      "sha256": "1f1c112d6547c3d11591698812ab372c2e4d105681c321a03f7623444695d171"
+    },
+    {
+      "year": 2025,
+      "articles": 570,
+      "file": "data\\processed\\guardian_text\\articles\\year=2025\\part-00000.parquet",
+      "sha256": "c1e23b111d93841c9dbfc8c40fa1d9c21eef215fed582a008a56ce814b39fe87"
+    },
+    {
+      "year": 2026,
+      "articles": 492,
+      "file": "data\\processed\\guardian_text\\articles\\year=2026\\part-00000.parquet",
+      "sha256": "c8cdad47fe0a5ff5dc5f8f8d5b4ad688bdcb0329544b7134372b5115c535ef8b"
+    }
+  ],
+  "raw_parquet_unchanged": true,
+  "raw_hashes": {
+    "data\\raw\\news\\guardian_full\\articles\\year=2017\\part-00000.parquet": "4ecb8acc23c8932f28578d75252def42ce42d29002a20c24c899a46deeb6eb6c",
+    "data\\raw\\news\\guardian_full\\articles\\year=2018\\part-00000.parquet": "ad5ff6b2de1644e4a26957c663d406d7f140593bba807e480bcc55b7c49db6e8",
+    "data\\raw\\news\\guardian_full\\articles\\year=2019\\part-00000.parquet": "9670ef06f642502aad7adf112526d564ddafa410a752ecad28bc6837f7f9e0fb",
+    "data\\raw\\news\\guardian_full\\articles\\year=2020\\part-00000.parquet": "b67ae04c96fc8fa6aa2d7bf6da32f1e55a8be4001e84eb3475b1c84ca901b3d0",
+    "data\\raw\\news\\guardian_full\\articles\\year=2021\\part-00000.parquet": "1874902de2150f0424c23c424bb15c7c37864c933e235d854396dd9dbdb1d8c1",
+    "data\\raw\\news\\guardian_full\\articles\\year=2022\\part-00000.parquet": "5712e599a4d83e6f5f0c9433b1513d2241570db9e4b7a253fba3775f3c8d4ec7",
+    "data\\raw\\news\\guardian_full\\articles\\year=2023\\part-00000.parquet": "cd56db73226a991ed1e6196779ffc8bcd2228349102abc78a1fcffedc05c286a",
+    "data\\raw\\news\\guardian_full\\articles\\year=2024\\part-00000.parquet": "98c654bb4a8c8bcc207bde8cdb5dfb42c2e6a42749af6f22f8ba106f32ac34a0",
+    "data\\raw\\news\\guardian_full\\articles\\year=2025\\part-00000.parquet": "508c96e65d22d2a8d65689eb972eab3fd08067724bb2d3495a142ac0a49835ae",
+    "data\\raw\\news\\guardian_full\\articles\\year=2026\\part-00000.parquet": "71e6f1a9b7aa1488531a3326e26a29354a7b3b0d7a74e6e779ce9973d2a85785"
+  },
+  "weekly_rows": 1026,
+  "weekly_article_counts_match_raw": true,
+  "network_requests": 0,
+  "sentiment_scoring": false,
+  "WSI_constructed": false,
+  "FGI_merged": false,
+  "next_step": "review preprocessing outputs; no downstream analysis started"
+}

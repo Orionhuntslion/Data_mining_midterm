@@ -1,0 +1,23 @@
+﻿query_strategy,phrase,source_sentiment_article_count,frequency_tokens_before,frequency_tokens_after,source_articles_retaining_residue,additional_phrase_deletion_applied
+broad_business_control,as it happened,2096,happened,,0,False
+broad_business_control,live updates,0,live updates,updates,0,False
+broad_business_control,sign up,1,sign up,sign up,1,False
+broad_business_control,read more,0,read more,read more,0,False
+broad_business_control,subscribe,0,subscribe,subscribe,0,False
+broad_business_control,the guardian,8,guardian,guardian,5,False
+broad_business_control,follow the latest,0,follow latest,follow,0,False
+broad_business_control,rolling coverage,801,rolling coverage,,0,False
+broad_business_control,economic and financial,833,economic financial,economic financial,833,False
+broad_business_control,financial and economic,1,financial economic,financial economic,1,False
+broad_business_control,standard rolling-news description,694,rolling coverage latest economic financial news,economic financial,694,False
+anchors_stock_market_tag,as it happened,1609,happened,,0,False
+anchors_stock_market_tag,live updates,0,live updates,updates,0,False
+anchors_stock_market_tag,sign up,1,sign up,sign up,1,False
+anchors_stock_market_tag,read more,0,read more,read more,0,False
+anchors_stock_market_tag,subscribe,0,subscribe,subscribe,0,False
+anchors_stock_market_tag,the guardian,9,guardian,guardian,7,False
+anchors_stock_market_tag,follow the latest,0,follow latest,follow,0,False
+anchors_stock_market_tag,rolling coverage,661,rolling coverage,,0,False
+anchors_stock_market_tag,economic and financial,711,economic financial,economic financial,711,False
+anchors_stock_market_tag,financial and economic,1,financial economic,financial economic,1,False
+anchors_stock_market_tag,standard rolling-news description,610,rolling coverage latest economic financial news,economic financial,610,False

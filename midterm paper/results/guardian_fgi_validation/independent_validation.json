@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "FGI_daily_records_verified": 2443,
+  "weekly_calendar_rows": 513,
+  "FGI_weekly_means_last_values_counts_independently_verified": true,
+  "original_WSI_columns_values_and_missing_weeks_preserved": true,
+  "correlation_rows_verified": 8,
+  "level_lead_lag_rows_verified": 36,
+  "difference_lead_lag_rows_verified": 36,
+  "tie_aware_rank_correlations_independently_verified": true,
+  "positive_negative_lag_sign_and_missing_gap_synthetic_tests": "passed",
+  "differences_do_not_bridge_missing_calendar_weeks": true,
+  "scatter_fit_R_squared_and_z_scores_verified": true,
+  "all_protected_input_hashes_unchanged": true,
+  "market_returns_or_forecasting_used": false
+}

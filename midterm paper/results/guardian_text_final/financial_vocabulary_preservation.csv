@@ -1,0 +1,69 @@
+﻿query_strategy,concept,term,before_count,after_count,status
+broad_business_control,equities,stock,653,653,preserved
+broad_business_control,equities,stocks,274,274,preserved
+broad_business_control,equities,share,119,119,preserved
+broad_business_control,equities,shares,446,446,preserved
+broad_business_control,equities,equity,136,136,preserved
+broad_business_control,equities,equities,8,8,preserved
+broad_business_control,market,market,483,483,preserved
+broad_business_control,market,markets,932,932,preserved
+broad_business_control,Fed/Federal Reserve,fed,157,157,preserved
+broad_business_control,Fed/Federal Reserve,federal,132,132,preserved
+broad_business_control,Fed/Federal Reserve,reserve,126,126,preserved
+broad_business_control,interest rates,interest,447,447,preserved
+broad_business_control,interest rates,rate,450,450,preserved
+broad_business_control,interest rates,rates,365,365,preserved
+broad_business_control,inflation,inflation,575,575,preserved
+broad_business_control,oil,oil,402,402,preserved
+broad_business_control,tariffs/trade,tariff,71,71,preserved
+broad_business_control,tariffs/trade,tariffs,247,247,preserved
+broad_business_control,tariffs/trade,trade,454,454,preserved
+broad_business_control,banks,bank,633,633,preserved
+broad_business_control,banks,banks,88,88,preserved
+broad_business_control,technology,technology,23,23,preserved
+broad_business_control,technology,tech,144,144,preserved
+broad_business_control,S&P 500,s&p_500,40,40,preserved
+broad_business_control,S&P 500,s&p,17,17,preserved
+broad_business_control,Nasdaq,nasdaq,57,57,preserved
+broad_business_control,Nasdaq,nasdaq_100,1,1,preserved
+broad_business_control,Dow,dow,99,99,preserved
+broad_business_control,Dow,jones,45,45,preserved
+broad_business_control,US,us,1633,1633,preserved
+broad_business_control,explicitly_kept_non_custom,business,389,389,preserved
+broad_business_control,explicitly_kept_non_custom,new,479,479,preserved
+broad_business_control,explicitly_kept_non_custom,says,631,631,preserved
+broad_business_control,explicitly_kept_non_custom,year,425,425,preserved
+anchors_stock_market_tag,equities,stock,400,400,preserved
+anchors_stock_market_tag,equities,stocks,199,199,preserved
+anchors_stock_market_tag,equities,share,80,80,preserved
+anchors_stock_market_tag,equities,shares,318,318,preserved
+anchors_stock_market_tag,equities,equity,12,12,preserved
+anchors_stock_market_tag,equities,equities,5,5,preserved
+anchors_stock_market_tag,market,market,277,277,preserved
+anchors_stock_market_tag,market,markets,732,732,preserved
+anchors_stock_market_tag,Fed/Federal Reserve,fed,71,71,preserved
+anchors_stock_market_tag,Fed/Federal Reserve,federal,56,56,preserved
+anchors_stock_market_tag,Fed/Federal Reserve,reserve,50,50,preserved
+anchors_stock_market_tag,interest rates,interest,234,234,preserved
+anchors_stock_market_tag,interest rates,rate,251,251,preserved
+anchors_stock_market_tag,interest rates,rates,189,189,preserved
+anchors_stock_market_tag,inflation,inflation,345,345,preserved
+anchors_stock_market_tag,oil,oil,240,240,preserved
+anchors_stock_market_tag,tariffs/trade,tariff,50,50,preserved
+anchors_stock_market_tag,tariffs/trade,tariffs,157,157,preserved
+anchors_stock_market_tag,tariffs/trade,trade,294,294,preserved
+anchors_stock_market_tag,banks,bank,279,279,preserved
+anchors_stock_market_tag,banks,banks,35,35,preserved
+anchors_stock_market_tag,technology,technology,15,15,preserved
+anchors_stock_market_tag,technology,tech,119,119,preserved
+anchors_stock_market_tag,S&P 500,s&p_500,37,37,preserved
+anchors_stock_market_tag,S&P 500,s&p,13,13,preserved
+anchors_stock_market_tag,Nasdaq,nasdaq,56,56,preserved
+anchors_stock_market_tag,Nasdaq,nasdaq_100,1,1,preserved
+anchors_stock_market_tag,Dow,dow,92,92,preserved
+anchors_stock_market_tag,Dow,jones,40,40,preserved
+anchors_stock_market_tag,US,us,993,993,preserved
+anchors_stock_market_tag,explicitly_kept_non_custom,business,232,232,preserved
+anchors_stock_market_tag,explicitly_kept_non_custom,new,280,280,preserved
+anchors_stock_market_tag,explicitly_kept_non_custom,says,258,258,preserved
+anchors_stock_market_tag,explicitly_kept_non_custom,year,245,245,preserved

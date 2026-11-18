@@ -1,0 +1,11 @@
+{
+  "scope": "all unique articles; diagnostics only",
+  "baseline_vocabulary": 12884,
+  "naive_noun_lemma_vocabulary": 11680,
+  "protected_noun_lemma_vocabulary": 11679,
+  "protected_noun_vocab_reduction_pct": 9.352685501397085,
+  "tokens_that_would_change": 18754,
+  "token_change_share": 0.16035912783240702,
+  "applied_to_text_clean": false,
+  "decision": "not applied: vocabulary compression is not evidence of semantic improvement; no POS/context validation; inspect mapping first"
+}

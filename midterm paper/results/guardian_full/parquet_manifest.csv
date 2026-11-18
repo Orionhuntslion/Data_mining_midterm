@@ -1,0 +1,11 @@
+﻿year,records,file,bytes
+2017,448,data\raw\news\guardian_full\articles\year=2017\part-00000.parquet,398793
+2018,538,data\raw\news\guardian_full\articles\year=2018\part-00000.parquet,474754
+2019,569,data\raw\news\guardian_full\articles\year=2019\part-00000.parquet,458695
+2020,589,data\raw\news\guardian_full\articles\year=2020\part-00000.parquet,516526
+2021,610,data\raw\news\guardian_full\articles\year=2021\part-00000.parquet,556525
+2022,502,data\raw\news\guardian_full\articles\year=2022\part-00000.parquet,464584
+2023,422,data\raw\news\guardian_full\articles\year=2023\part-00000.parquet,410466
+2024,525,data\raw\news\guardian_full\articles\year=2024\part-00000.parquet,492319
+2025,570,data\raw\news\guardian_full\articles\year=2025\part-00000.parquet,546118
+2026,492,data\raw\news\guardian_full\articles\year=2026\part-00000.parquet,459216

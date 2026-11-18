@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "article_records_verified": 5265,
+  "all_original_columns_and_types_unchanged": true,
+  "VADER_recomputed_for_every_article": true,
+  "threshold_boundary_and_empty_singleton_week_tests": "passed",
+  "NY_week_assignment_verified": true,
+  "weekly_counts_shares_compound_WSI_and_intervals_independently_verified": true,
+  "article_moments_and_weekly_descriptives_verified": true,
+  "strategy_correlations_verified": true,
+  "empty_complete_weeks": {
+    "broad_business_control": 0,
+    "anchors_stock_market_tag": 8
+  },
+  "inspection_sample_articles_verified": 56,
+  "frozen_policy_and_input_hashes_unchanged": true,
+  "FGI_or_market_data_used": false
+}

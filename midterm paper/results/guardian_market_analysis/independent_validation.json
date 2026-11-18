@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "daily_prices_verified_against_raw_FRED": 2466,
+  "daily_duplicates": 0,
+  "missing_XNYS_prices": 0,
+  "weekly_calendar_rows": 513,
+  "weekly_returns_verified": 511,
+  "last_prices_and_consecutive_week_log_formula_independently_verified": true,
+  "no_fill_and_no_gap_skipping_synthetic_tests": "passed",
+  "next_week_date_alignment_verified": true,
+  "original_WSI_and_FGI_values_and_missingness_exactly_preserved": true,
+  "univariate_OLS_models_verified_against_SciPy": 10,
+  "correlation_rows_verified_against_SciPy": 10,
+  "conventional_SE_t_p_R2_adjusted_R2_verified": true,
+  "p_values_also_verified_via_incomplete_beta_function": true,
+  "merge_diagnostics_and_benchmark_comparison_verified": true,
+  "figures_verified": 4,
+  "all_upstream_file_hashes_unchanged": true,
+  "forecasting_ML_multivariate_or_additional_models": false
+}

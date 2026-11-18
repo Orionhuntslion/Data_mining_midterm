@@ -1,0 +1,45 @@
+{
+  "source": "data\\external\\fear_greed_2017-01-01_2026-10-25.csv",
+  "sha256": "45e349d61abc13c451c9ea379bc46869dc21e196a72ae604b3dd5550bb548e79",
+  "daily_rows": 2443,
+  "unique_dates": 2443,
+  "duplicate_date_rows_excess": 0,
+  "duplicate_date_rows_all": 0,
+  "missing_fields": {
+    "date": 0,
+    "fgi": 0,
+    "category": 0,
+    "source_url": 0,
+    "source_era": 0
+  },
+  "invalid_or_missing_dates": 0,
+  "missing_fgi_values": 0,
+  "invalid_nonmissing_fgi": 0,
+  "out_of_range_values": 0,
+  "date_interpretation": "existing daily date label, assigned to NY calendar week; not treated as UTC midnight",
+  "source_era_counts": {
+    "cnn_endpoint_via_third_party_archive": 1439,
+    "pre_2021_frozen_multi_source_archive": 1004
+  },
+  "source_urls": [
+    "https://raw.githubusercontent.com/whit3rabbit/fear-greed-data/main/fear-greed.csv"
+  ],
+  "network_refresh": false,
+  "interpolation_or_forward_fill": false,
+  "earliest_date": "2017-01-03",
+  "latest_date": "2026-10-23",
+  "valid_daily_observations": 2443,
+  "calendar_dates_in_target": 3585,
+  "calendar_dates_represented": 2443,
+  "calendar_dates_without_value": 1142,
+  "weekday_dates_in_target": 2560,
+  "weekday_dates_represented": 2443,
+  "weekend_dates_represented": 0,
+  "XNYS_sessions_in_target": 2466,
+  "XNYS_sessions_represented": 2443,
+  "XNYS_sessions_without_value": 23,
+  "non_XNYS_dates_with_value": 0,
+  "calendar_library": "exchange_calendars",
+  "calendar_library_version": "4.13.2",
+  "calendar_caveat": "XNYS reference calendar is not an assertion of FGI publication schedule; all available FGI observations retained"
+}

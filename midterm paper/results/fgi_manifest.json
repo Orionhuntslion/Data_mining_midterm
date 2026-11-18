@@ -1,0 +1,11 @@
+{
+  "url": "https://raw.githubusercontent.com/whit3rabbit/fear-greed-data/main/fear-greed.csv",
+  "source_type": "third_party_cnn_archive",
+  "retrieved_or_imported_at": "2026-10-25T14:58:35.842604+00:00",
+  "sha256": "768d714cd0fa259ddd7e0cec1b049587fc09def90797e8d1b02fc57870a0c7cc",
+  "rows": 59,
+  "range": [
+    "2026-08-03 00:00:00",
+    "2026-10-23 00:00:00"
+  ]
+}

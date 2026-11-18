@@ -1,0 +1,23 @@
+{
+  "project_title": "Validating the Fear & Greed Index with Web-Based Financial Sentiment: Correlation and Lead-Lag Analysis",
+  "target_start": "2017-01-01",
+  "target_end": "2026-10-25",
+  "timezone": "America/New_York",
+  "primary_index": "WSI_count",
+  "robustness_index": "WSI_continuous",
+  "sources_kept_separate": [
+    "news",
+    "reddit"
+  ],
+  "combined_index": false,
+  "pilot_dates": [
+    "2017-01-03",
+    "2020-03-16",
+    "2026-10-23"
+  ],
+  "max_documents_per_source_date": 3,
+  "full_collection_launched": false,
+  "scale_up": "pending pilot review",
+  "storage": "raw JSON envelopes + monthly/yearly partitioned JSONL; full scale will use Parquet/chunks",
+  "optional_market_returns": "deferred until text sources and core pipeline are validated"
+}

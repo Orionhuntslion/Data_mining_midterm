@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "records_verified": 5265,
+  "unique_ids_verified": 5265,
+  "raw_pages_verified": 39,
+  "raw_text_and_metadata_preserved": true,
+  "UTC_ET_and_target_range_verified": true,
+  "strategy_flags_verified": true,
+  "year_month_day_totals_verified": true,
+  "inspection_sample_verified": true,
+  "no_sentiment_or_relevance_columns": true,
+  "secret_check": "passed",
+  "network_requests": 0,
+  "versions": {
+    "pandas": "2.3.3",
+    "pyarrow": "25.0.1",
+    "requests": "2.34.2"
+  }
+}

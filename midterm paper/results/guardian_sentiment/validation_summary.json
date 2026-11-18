@@ -1,0 +1,71 @@
+{
+  "status": "pipeline_checks_passed",
+  "physical_articles": 5265,
+  "articles_by_strategy": {
+    "broad_business_control": 5054,
+    "anchors_stock_market_tag": 2512
+  },
+  "overlap_articles": 2301,
+  "frozen_policy_and_source_parquet_unchanged": true,
+  "input_policy_sha256": "2874fd2b32c45097b161ccc62931a899777a0c7b9711d98efd587d7d1b1dff5d",
+  "weeks_per_strategy_including_partial": 513,
+  "complete_weeks_per_strategy": 512,
+  "empty_complete_weeks": {
+    "broad_business_control": 0,
+    "anchors_stock_market_tag": 8
+  },
+  "score_ranges_and_polarity_sum_checked": true,
+  "empty_weeks_remain_missing": true,
+  "figures": [
+    "compound_score_histogram.png",
+    "sentiment_class_distribution.png",
+    "weekly_wsi_count.png",
+    "weekly_wsi_continuous.png"
+  ],
+  "inspection_inventory": {
+    "sample_unique_articles": 56,
+    "all_unusual_candidates": 389,
+    "cohorts": [
+      {
+        "inspection_category": "strongly_positive",
+        "candidate_articles": 298,
+        "sampled_articles": 12,
+        "selection_rule": "compound >= 0.75",
+        "random_seed": 42
+      },
+      {
+        "inspection_category": "strongly_negative",
+        "candidate_articles": 612,
+        "sampled_articles": 12,
+        "selection_rule": "compound <= -0.75",
+        "random_seed": 43
+      },
+      {
+        "inspection_category": "near_neutral",
+        "candidate_articles": 732,
+        "sampled_articles": 12,
+        "selection_rule": "abs(compound) <= 0.10, including threshold-adjacent labels",
+        "random_seed": 44
+      },
+      {
+        "inspection_category": "profanity_or_slang",
+        "candidate_articles": 0,
+        "sampled_articles": 0,
+        "selection_rule": "\\b(?:fuck(?:ing|ed)?|shit|bullshit|bastard|damn|crap|fomo|yolo|stonks|hodl|tendies|rekt)\\b|diamond hands|to the moon",
+        "random_seed": 45
+      },
+      {
+        "inspection_category": "potential_suspicious_classification",
+        "candidate_articles": 389,
+        "sampled_articles": 20,
+        "selection_rule": "direction-word heuristic vs zero/opposite compound; candidate only, not a verified error",
+        "random_seed": 46
+      }
+    ],
+    "automatic_relabeling": false,
+    "heuristics_are_not_ground_truth": true
+  },
+  "guardian_requests": 0,
+  "FGI_read_or_merged": false,
+  "returns_or_regression": false
+}

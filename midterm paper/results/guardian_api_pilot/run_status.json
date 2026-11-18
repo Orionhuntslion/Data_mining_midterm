@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "key_source": "project_dotenv",
+  "api_requests_this_run": 28,
+  "manual_sample_records": 124,
+  "full_collection": false,
+  "raw_retrieved_records": 374,
+  "duplicate_count": 218,
+  "unique_article_count": 156,
+  "raw_records_scope": "ET pilot windows, including repeated strategy memberships",
+  "api_results_received_including_utc_buffer": 425
+}

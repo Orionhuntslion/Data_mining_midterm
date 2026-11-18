@@ -1,0 +1,15 @@
+{
+  "status": "cached_archive_audited",
+  "n_observations": 2443,
+  "min_date": "2017-01-03",
+  "max_date": "2026-10-23",
+  "weekday_dates_without_value": 117,
+  "era_counts": {
+    "cnn_endpoint_via_third_party_archive": 1439,
+    "pre_2021_frozen_multi_source_archive": 1004
+  },
+  "no_interpolation": true,
+  "sha256_raw": "768d714cd0fa259ddd7e0cec1b049587fc09def90797e8d1b02fc57870a0c7cc",
+  "path": "C:\\Users\\rhffl\\data_mining\\midterm paper\\data\\external\\fear_greed_2017-01-01_2026-10-25.csv",
+  "note": "원응답 캐시 점검이며 최신 서버 재검증은 아님. 2021년 전후 자료 계보 차이는 공식 지수 방법론 변경 확정과 다름."
+}

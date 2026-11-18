@@ -1,0 +1,9 @@
+{
+  "status": "resolved",
+  "current_run_status": "completed",
+  "previous_stop": {
+    "status": "stopped",
+    "error": "Guardian 접근/요청 제한: HTTP 401. 원문 응답/URL은 키 보호를 위해 생략."
+  },
+  "resolution": "robots auxiliary failure is logged independently; official Content API requests completed"
+}

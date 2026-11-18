@@ -1,0 +1,38 @@
+{
+  "anchors_global": {
+    "status": "ok",
+    "total": 12103,
+    "retrieved_at": "2026-10-26T13:25:56.239359+00:00",
+    "scope": "UTC-buffered search count, not exact target ET count"
+  },
+  "anchors_business": {
+    "status": "ok",
+    "total": 3644,
+    "retrieved_at": "2026-10-26T13:26:00.653183+00:00",
+    "scope": "UTC-buffered search count, not exact target ET count"
+  },
+  "geography_and_equity": {
+    "status": "ok",
+    "total": 16600,
+    "retrieved_at": "2026-10-26T13:26:05.246158+00:00",
+    "scope": "UTC-buffered search count, not exact target ET count"
+  },
+  "broad_business_control": {
+    "status": "ok",
+    "total": 5055,
+    "retrieved_at": "2026-10-26T13:26:09.639988+00:00",
+    "scope": "UTC-buffered search count, not exact target ET count"
+  },
+  "anchors_stock_market_tag": {
+    "status": "ok",
+    "total": 2514,
+    "retrieved_at": "2026-10-26T13:26:14.093768+00:00",
+    "scope": "UTC-buffered search count, not exact target ET count"
+  },
+  "anchors_us_office": {
+    "status": "ok",
+    "total": 4657,
+    "retrieved_at": "2026-10-26T13:26:18.497462+00:00",
+    "scope": "UTC-buffered search count, not exact target ET count"
+  }
+}

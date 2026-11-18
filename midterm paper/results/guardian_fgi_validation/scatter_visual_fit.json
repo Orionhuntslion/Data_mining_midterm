@@ -1,0 +1,10 @@
+{
+  "n_pairs": 508,
+  "x": "FGI_weekly_mean",
+  "y": "broad WSI_count",
+  "slope": 0.2131620889341745,
+  "intercept": 35.098784036294255,
+  "pearson_r": 0.22476955385500133,
+  "R_squared": 0.050521352340176406,
+  "purpose": "contemporaneous scatter visualization only; not predictive power"
+}

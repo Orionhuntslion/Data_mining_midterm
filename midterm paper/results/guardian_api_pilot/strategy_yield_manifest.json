@@ -1,0 +1,19 @@
+{
+  "label_file": {
+    "path": "C:\\Users\\rhffl\\data_mining\\midterm paper\\manual_review_sample_labeled.csv",
+    "sha256": "afa26f9f2798d367bbd57901f59515dd7883e9e601181dda0468a838c35db8e6"
+  },
+  "provided_precision_file": {
+    "path": "C:\\Users\\rhffl\\data_mining\\midterm paper\\guardian_strategy_precision.csv",
+    "sha256": "cee0d01173eee28b508f8b01c69a4391bd532a577bd8c2b379811a0b15d54182"
+  },
+  "provided_precision_matches_recalculation": true,
+  "n_labeled": 124,
+  "label_counts": {
+    "0": 100,
+    "1": 24
+  },
+  "network_requests": 0,
+  "full_collection": false,
+  "strategy_selection": "not_finalized"
+}
